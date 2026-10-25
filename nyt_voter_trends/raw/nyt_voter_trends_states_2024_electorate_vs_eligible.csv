@@ -1,0 +1,766 @@
+state,category,group,share_of_voters_pct,share_of_voting_eligible_pop_pct
+Alabama,Race,White,73,67
+Alabama,Race,Black,22,25
+Alabama,Race,Hispanic,2,3
+Alabama,Race,Asian,1,1
+Alabama,Race,Other,2,4
+Alabama,Age,18-29,14,20
+Alabama,Age,30-44,21,24
+Alabama,Age,45-64,35,32
+Alabama,Age,65+,30,24
+Alabama,Gender,Male,44,47
+Alabama,Gender,Female,56,53
+Alabama,Education,High school,34,41
+Alabama,Education,Some college,33,32
+Alabama,Education,College grad.,20,17
+Alabama,Education,Postgraduate,13,11
+Alaska,Race,White,77,62
+Alaska,Race,Black,3,3
+Alaska,Race,Hispanic,4,7
+Alaska,Race,Asian,3,5
+Alaska,Race,Other,13,24
+Alaska,Age,18-29,14,21
+Alaska,Age,30-44,23,30
+Alaska,Age,45-64,35,29
+Alaska,Age,65+,27,20
+Alaska,Gender,Male,49,54
+Alaska,Gender,Female,51,46
+Alaska,Education,High school,31,38
+Alaska,Education,Some college,33,32
+Alaska,Education,College grad.,22,19
+Alaska,Education,Postgraduate,14,11
+Arizona,Race,White,68,59
+Arizona,Race,Black,4,4
+Arizona,Race,Hispanic,18,25
+Arizona,Race,Asian,2,3
+Arizona,Race,Other,7,8
+Arizona,Age,18-29,15,21
+Arizona,Age,30-44,21,24
+Arizona,Age,45-64,31,29
+Arizona,Age,65+,33,26
+Arizona,Gender,Male,47,49
+Arizona,Gender,Female,53,51
+Arizona,Education,High school,25,34
+Arizona,Education,Some college,35,34
+Arizona,Education,College grad.,24,20
+Arizona,Education,Postgraduate,16,12
+Arkansas,Race,White,81,72
+Arkansas,Race,Black,11,14
+Arkansas,Race,Hispanic,3,5
+Arkansas,Race,Asian,1,1
+Arkansas,Race,Other,4,7
+Arkansas,Age,18-29,13,20
+Arkansas,Age,30-44,20,25
+Arkansas,Age,45-64,34,31
+Arkansas,Age,65+,32,24
+Arkansas,Gender,Male,47,49
+Arkansas,Gender,Female,53,52
+Arkansas,Education,High school,33,44
+Arkansas,Education,Some college,33,31
+Arkansas,Education,College grad.,21,17
+Arkansas,Education,Postgraduate,13,9
+California,Race,White,49,40
+California,Race,Black,6,6
+California,Race,Hispanic,27,33
+California,Race,Asian,13,15
+California,Race,Other,5,6
+California,Age,18-29,16,21
+California,Age,30-44,24,26
+California,Age,45-64,32,30
+California,Age,65+,28,23
+California,Gender,Male,48,49
+California,Gender,Female,52,51
+California,Education,High school,25,32
+California,Education,Some college,31,31
+California,Education,College grad.,27,24
+California,Education,Postgraduate,17,14
+Colorado,Race,White,78,71
+Colorado,Race,Black,4,4
+Colorado,Race,Hispanic,12,18
+Colorado,Race,Asian,2,3
+Colorado,Race,Other,5,5
+Colorado,Age,18-29,17,21
+Colorado,Age,30-44,27,28
+Colorado,Age,45-64,31,29
+Colorado,Age,65+,25,22
+Colorado,Gender,Male,48,50
+Colorado,Gender,Female,52,50
+Colorado,Education,High school,21,26
+Colorado,Education,Some college,28,29
+Colorado,Education,College grad.,31,28
+Colorado,Education,Postgraduate,20,17
+"Washington, D.C.",Race,White,48,42
+"Washington, D.C.",Race,Black,37,41
+"Washington, D.C.",Race,Hispanic,6,8
+"Washington, D.C.",Race,Asian,4,4
+"Washington, D.C.",Race,Other,5,5
+"Washington, D.C.",Age,18-29,20,25
+"Washington, D.C.",Age,30-44,29,34
+"Washington, D.C.",Age,45-64,29,23
+"Washington, D.C.",Age,65+,22,17
+"Washington, D.C.",Gender,Male,45,46
+"Washington, D.C.",Gender,Female,55,54
+"Washington, D.C.",Education,High school,16,22
+"Washington, D.C.",Education,Some college,14,16
+"Washington, D.C.",Education,College grad.,29,28
+"Washington, D.C.",Education,Postgraduate,41,34
+Delaware,Race,White,70,64
+Delaware,Race,Black,19,21
+Delaware,Race,Hispanic,4,7
+Delaware,Race,Asian,2,4
+Delaware,Race,Other,4,5
+Delaware,Age,18-29,13,18
+Delaware,Age,30-44,19,23
+Delaware,Age,45-64,34,31
+Delaware,Age,65+,35,28
+Delaware,Gender,Male,46,47
+Delaware,Gender,Female,54,53
+Delaware,Education,High school,30,36
+Delaware,Education,Some college,30,30
+Delaware,Education,College grad.,22,19
+Delaware,Education,Postgraduate,18,14
+Connecticut,Race,White,76,68
+Connecticut,Race,Black,8,10
+Connecticut,Race,Hispanic,10,14
+Connecticut,Race,Asian,3,3
+Connecticut,Race,Other,4,4
+Connecticut,Age,18-29,14,19
+Connecticut,Age,30-44,21,23
+Connecticut,Age,45-64,35,32
+Connecticut,Age,65+,30,25
+Connecticut,Gender,Male,46,48
+Connecticut,Gender,Female,54,52
+Connecticut,Education,High school,26,33
+Connecticut,Education,Some college,26,27
+Connecticut,Education,College grad.,26,23
+Connecticut,Education,Postgraduate,22,18
+Hawaii,Race,White,33,24
+Hawaii,Race,Black,2,2
+Hawaii,Race,Hispanic,4,9
+Hawaii,Race,Asian,34,37
+Hawaii,Race,Other,26,29
+Hawaii,Age,18-29,12,18
+Hawaii,Age,30-44,17,25
+Hawaii,Age,45-64,34,29
+Hawaii,Age,65+,37,28
+Hawaii,Gender,Male,48,50
+Hawaii,Gender,Female,52,50
+Hawaii,Education,High school,26,34
+Hawaii,Education,Some college,30,30
+Hawaii,Education,College grad.,27,23
+Hawaii,Education,Postgraduate,17,13
+Idaho,Race,White,89,83
+Idaho,Race,Black,1,1
+Idaho,Race,Hispanic,6,10
+Idaho,Race,Asian,1,1
+Idaho,Race,Other,4,6
+Idaho,Age,18-29,15,21
+Idaho,Age,30-44,23,26
+Idaho,Age,45-64,32,29
+Idaho,Age,65+,30,24
+Idaho,Gender,Male,48,50
+Idaho,Gender,Female,52,50
+Idaho,Education,High school,26,35
+Idaho,Education,Some college,36,34
+Idaho,Education,College grad.,25,21
+Idaho,Education,Postgraduate,13,10
+Georgia,Race,White,60,54
+Georgia,Race,Black,29,32
+Georgia,Race,Hispanic,5,7
+Georgia,Race,Asian,4,4
+Georgia,Race,Other,3,4
+Georgia,Age,18-29,16,21
+Georgia,Age,30-44,23,26
+Georgia,Age,45-64,35,32
+Georgia,Age,65+,25,22
+Georgia,Gender,Male,44,48
+Georgia,Gender,Female,56,52
+Georgia,Education,High school,30,37
+Georgia,Education,Some college,30,29
+Georgia,Education,College grad.,24,21
+Georgia,Education,Postgraduate,16,13
+Florida,Race,White,65,57
+Florida,Race,Black,12,14
+Florida,Race,Hispanic,19,23
+Florida,Race,Asian,2,3
+Florida,Race,Other,2,4
+Florida,Age,18-29,13,17
+Florida,Age,30-44,20,23
+Florida,Age,45-64,34,31
+Florida,Age,65+,33,29
+Florida,Gender,Male,45,48
+Florida,Gender,Female,55,52
+Florida,Education,High school,29,35
+Florida,Education,Some college,31,30
+Florida,Education,College grad.,24,21
+Florida,Education,Postgraduate,16,13
+Iowa,Race,White,91,87
+Iowa,Race,Black,3,3
+Iowa,Race,Hispanic,3,5
+Iowa,Race,Asian,1,2
+Iowa,Race,Other,3,4
+Iowa,Age,18-29,16,21
+Iowa,Age,30-44,22,24
+Iowa,Age,45-64,32,30
+Iowa,Age,65+,30,25
+Iowa,Gender,Male,48,50
+Iowa,Gender,Female,52,51
+Iowa,Education,High school,30,36
+Iowa,Education,Some college,36,35
+Iowa,Education,College grad.,23,20
+Iowa,Education,Postgraduate,11,10
+Indiana,Race,White,84,80
+Indiana,Race,Black,8,8
+Indiana,Race,Hispanic,4,6
+Indiana,Race,Asian,1,2
+Indiana,Race,Other,3,4
+Indiana,Age,18-29,14,21
+Indiana,Age,30-44,21,25
+Indiana,Age,45-64,35,31
+Indiana,Age,65+,30,24
+Indiana,Gender,Male,47,49
+Indiana,Gender,Female,53,51
+Indiana,Education,High school,34,43
+Indiana,Education,Some college,31,29
+Indiana,Education,College grad.,23,19
+Indiana,Education,Postgraduate,13,10
+Kentucky,Race,White,88,85
+Kentucky,Race,Black,6,7
+Kentucky,Race,Hispanic,2,3
+Kentucky,Race,Asian,1,1
+Kentucky,Race,Other,3,5
+Kentucky,Age,18-29,14,20
+Kentucky,Age,30-44,22,25
+Kentucky,Age,45-64,35,32
+Kentucky,Age,65+,29,24
+Kentucky,Gender,Male,46,49
+Kentucky,Gender,Female,54,51
+Kentucky,Education,High school,37,44
+Kentucky,Education,Some college,31,30
+Kentucky,Education,College grad.,18,16
+Kentucky,Education,Postgraduate,13,10
+Maine,Race,White,94,92
+Maine,Race,Black,1,1
+Maine,Race,Hispanic,1,2
+Maine,Race,Asian,1,1
+Maine,Race,Other,3,5
+Maine,Age,18-29,13,17
+Maine,Age,30-44,21,23
+Maine,Age,45-64,33,32
+Maine,Age,65+,33,29
+Maine,Gender,Male,48,49
+Maine,Gender,Female,52,51
+Maine,Education,High school,32,36
+Maine,Education,Some college,30,30
+Maine,Education,College grad.,23,22
+Maine,Education,Postgraduate,15,13
+Kansas,Race,White,85,78
+Kansas,Race,Black,4,5
+Kansas,Race,Hispanic,5,9
+Kansas,Race,Asian,2,2
+Kansas,Race,Other,4,5
+Kansas,Age,18-29,15,21
+Kansas,Age,30-44,22,25
+Kansas,Age,45-64,33,29
+Kansas,Age,65+,30,24
+Kansas,Gender,Male,47,50
+Kansas,Gender,Female,53,50
+Kansas,Education,High school,26,33
+Kansas,Education,Some college,34,33
+Kansas,Education,College grad.,26,21
+Kansas,Education,Postgraduate,15,12
+Maryland,Race,White,58,52
+Maryland,Race,Black,27,30
+Maryland,Race,Hispanic,5,8
+Maryland,Race,Asian,5,6
+Maryland,Race,Other,4,5
+Maryland,Age,18-29,14,19
+Maryland,Age,30-44,24,25
+Maryland,Age,45-64,35,32
+Maryland,Age,65+,27,24
+Maryland,Gender,Male,44,48
+Maryland,Gender,Female,56,53
+Maryland,Education,High school,26,31
+Maryland,Education,Some college,26,26
+Maryland,Education,College grad.,25,23
+Maryland,Education,Postgraduate,23,20
+Illinois,Race,White,71,64
+Illinois,Race,Black,12,14
+Illinois,Race,Hispanic,10,14
+Illinois,Race,Asian,4,5
+Illinois,Race,Other,3,4
+Illinois,Age,18-29,14,20
+Illinois,Age,30-44,23,25
+Illinois,Age,45-64,34,31
+Illinois,Age,65+,29,24
+Illinois,Gender,Male,46,49
+Illinois,Gender,Female,54,51
+Illinois,Education,High school,26,33
+Illinois,Education,Some college,30,30
+Illinois,Education,College grad.,26,23
+Illinois,Education,Postgraduate,18,14
+Louisiana,Race,White,68,59
+Louisiana,Race,Black,27,31
+Louisiana,Race,Hispanic,2,5
+Louisiana,Race,Asian,1,1
+Louisiana,Race,Other,2,4
+Louisiana,Age,18-29,13,19
+Louisiana,Age,30-44,22,26
+Louisiana,Age,45-64,35,31
+Louisiana,Age,65+,31,24
+Louisiana,Gender,Male,44,48
+Louisiana,Gender,Female,56,52
+Louisiana,Education,High school,38,45
+Louisiana,Education,Some college,31,29
+Louisiana,Education,College grad.,19,17
+Louisiana,Education,Postgraduate,12,10
+New Hampshire,Race,White,92,89
+New Hampshire,Race,Black,1,1
+New Hampshire,Race,Hispanic,2,4
+New Hampshire,Race,Asian,1,2
+New Hampshire,Race,Other,3,4
+New Hampshire,Age,18-29,13,17
+New Hampshire,Age,30-44,20,23
+New Hampshire,Age,45-64,35,33
+New Hampshire,Age,65+,31,27
+New Hampshire,Gender,Male,49,50
+New Hampshire,Gender,Female,51,51
+New Hampshire,Education,High school,29,33
+New Hampshire,Education,Some college,29,28
+New Hampshire,Education,College grad.,25,24
+New Hampshire,Education,Postgraduate,16,15
+Michigan,Race,White,80,76
+Michigan,Race,Black,11,13
+Michigan,Race,Hispanic,3,4
+Michigan,Race,Asian,2,3
+Michigan,Race,Other,4,5
+Michigan,Age,18-29,16,20
+Michigan,Age,30-44,22,24
+Michigan,Age,45-64,33,31
+Michigan,Age,65+,29,25
+Michigan,Gender,Male,47,49
+Michigan,Gender,Female,53,51
+Michigan,Education,High school,31,37
+Michigan,Education,Some college,33,33
+Michigan,Education,College grad.,22,19
+Michigan,Education,Postgraduate,13,11
+Nevada,Race,White,60,52
+Nevada,Race,Black,9,9
+Nevada,Race,Hispanic,19,22
+Nevada,Race,Asian,6,9
+Nevada,Race,Other,6,8
+Nevada,Age,18-29,16,19
+Nevada,Age,30-44,24,27
+Nevada,Age,45-64,33,31
+Nevada,Age,65+,28,24
+Nevada,Gender,Male,49,50
+Nevada,Gender,Female,51,50
+Nevada,Education,High school,33,39
+Nevada,Education,Some college,35,33
+Nevada,Education,College grad.,21,18
+Nevada,Education,Postgraduate,11,10
+Mississippi,Race,White,65,58
+Mississippi,Race,Black,30,36
+Mississippi,Race,Hispanic,2,2
+Mississippi,Race,Asian,1,1
+Mississippi,Race,Other,3,3
+Mississippi,Age,18-29,11,20
+Mississippi,Age,30-44,18,24
+Mississippi,Age,45-64,38,32
+Mississippi,Age,65+,33,24
+Mississippi,Gender,Male,45,47
+Mississippi,Gender,Female,55,53
+Mississippi,Education,High school,34,42
+Mississippi,Education,Some college,35,34
+Mississippi,Education,College grad.,19,16
+Mississippi,Education,Postgraduate,12,9
+Massachusetts,Race,White,80,74
+Massachusetts,Race,Black,6,6
+Massachusetts,Race,Hispanic,7,10
+Massachusetts,Race,Asian,4,6
+Massachusetts,Race,Other,3,5
+Massachusetts,Age,18-29,14,20
+Massachusetts,Age,30-44,22,24
+Massachusetts,Age,45-64,34,31
+Massachusetts,Age,65+,30,25
+Massachusetts,Gender,Male,46,48
+Massachusetts,Gender,Female,54,52
+Massachusetts,Education,High school,24,31
+Massachusetts,Education,Some college,23,24
+Massachusetts,Education,College grad.,29,26
+Massachusetts,Education,Postgraduate,24,20
+Missouri,Race,White,85,80
+Missouri,Race,Black,8,10
+Missouri,Race,Hispanic,2,4
+Missouri,Race,Asian,1,2
+Missouri,Race,Other,3,5
+Missouri,Age,18-29,14,20
+Missouri,Age,30-44,23,25
+Missouri,Age,45-64,34,31
+Missouri,Age,65+,29,24
+Missouri,Gender,Male,48,49
+Missouri,Gender,Female,52,51
+Missouri,Education,High school,32,39
+Missouri,Education,Some college,31,31
+Missouri,Education,College grad.,23,19
+Missouri,Education,Postgraduate,14,12
+Montana,Race,White,90,86
+Montana,Race,Black,1,
+Montana,Race,Hispanic,2,4
+Montana,Race,Asian,1,1
+Montana,Race,Other,6,10
+Montana,Age,18-29,13,19
+Montana,Age,30-44,22,25
+Montana,Age,45-64,32,30
+Montana,Age,65+,34,27
+Montana,Gender,Male,50,50
+Montana,Gender,Female,50,50
+Montana,Education,High school,27,34
+Montana,Education,Some college,33,32
+Montana,Education,College grad.,26,23
+Montana,Education,Postgraduate,13,11
+New Jersey,Race,White,65,58
+New Jersey,Race,Black,11,13
+New Jersey,Race,Hispanic,13,17
+New Jersey,Race,Asian,7,8
+New Jersey,Race,Other,4,4
+New Jersey,Age,18-29,15,19
+New Jersey,Age,30-44,22,24
+New Jersey,Age,45-64,36,33
+New Jersey,Age,65+,28,25
+New Jersey,Gender,Male,46,48
+New Jersey,Gender,Female,54,52
+New Jersey,Education,High school,27,33
+New Jersey,Education,Some college,24,24
+New Jersey,Education,College grad.,30,27
+New Jersey,Education,Postgraduate,20,16
+Nebraska,Race,White,88,82
+Nebraska,Race,Black,3,4
+Nebraska,Race,Hispanic,5,8
+Nebraska,Race,Asian,1,2
+Nebraska,Race,Other,3,4
+Nebraska,Age,18-29,15,21
+Nebraska,Age,30-44,24,25
+Nebraska,Age,45-64,32,30
+Nebraska,Age,65+,29,24
+Nebraska,Gender,Male,48,50
+Nebraska,Gender,Female,52,50
+Nebraska,Education,High school,26,32
+Nebraska,Education,Some college,35,34
+Nebraska,Education,College grad.,25,22
+Nebraska,Education,Postgraduate,14,12
+Minnesota,Race,White,86,81
+Minnesota,Race,Black,4,6
+Minnesota,Race,Hispanic,3,4
+Minnesota,Race,Asian,3,4
+Minnesota,Race,Other,3,5
+Minnesota,Age,18-29,16,19
+Minnesota,Age,30-44,25,25
+Minnesota,Age,45-64,32,31
+Minnesota,Age,65+,27,24
+Minnesota,Gender,Male,49,49
+Minnesota,Gender,Female,51,51
+Minnesota,Education,High school,26,30
+Minnesota,Education,Some college,33,32
+Minnesota,Education,College grad.,27,25
+Minnesota,Education,Postgraduate,14,13
+New Mexico,Race,White,53,41
+New Mexico,Race,Black,2,2
+New Mexico,Race,Hispanic,34,43
+New Mexico,Race,Asian,1,2
+New Mexico,Race,Other,9,13
+New Mexico,Age,18-29,14,20
+New Mexico,Age,30-44,21,25
+New Mexico,Age,45-64,32,29
+New Mexico,Age,65+,33,27
+New Mexico,Gender,Male,46,49
+New Mexico,Gender,Female,54,51
+New Mexico,Education,High school,28,38
+New Mexico,Education,Some college,33,31
+New Mexico,Education,College grad.,21,17
+New Mexico,Education,Postgraduate,18,13
+Oregon,Race,White,85,77
+Oregon,Race,Black,2,2
+Oregon,Race,Hispanic,6,11
+Oregon,Race,Asian,3,4
+Oregon,Race,Other,4,7
+Oregon,Age,18-29,14,19
+Oregon,Age,30-44,24,26
+Oregon,Age,45-64,31,30
+Oregon,Age,65+,31,26
+Oregon,Gender,Male,49,49
+Oregon,Gender,Female,51,51
+Oregon,Education,High school,26,32
+Oregon,Education,Some college,33,33
+Oregon,Education,College grad.,25,22
+Oregon,Education,Postgraduate,16,13
+Oklahoma,Race,White,80,68
+Oklahoma,Race,Black,6,7
+Oklahoma,Race,Hispanic,4,8
+Oklahoma,Race,Asian,1,2
+Oklahoma,Race,Other,8,15
+Oklahoma,Age,18-29,13,22
+Oklahoma,Age,30-44,22,26
+Oklahoma,Age,45-64,34,30
+Oklahoma,Age,65+,31,23
+Oklahoma,Gender,Male,47,49
+Oklahoma,Gender,Female,53,51
+Oklahoma,Education,High school,31,41
+Oklahoma,Education,Some college,34,32
+Oklahoma,Education,College grad.,22,18
+Oklahoma,Education,Postgraduate,13,9
+Ohio,Race,White,83,79
+Ohio,Race,Black,10,11
+Ohio,Race,Hispanic,2,4
+Ohio,Race,Asian,2,2
+Ohio,Race,Other,3,4
+Ohio,Age,18-29,14,19
+Ohio,Age,30-44,22,25
+Ohio,Age,45-64,34,31
+Ohio,Age,65+,30,25
+Ohio,Gender,Male,48,49
+Ohio,Gender,Female,52,51
+Ohio,Education,High school,33,41
+Ohio,Education,Some college,30,30
+Ohio,Education,College grad.,23,19
+Ohio,Education,Postgraduate,14,11
+North Carolina,Race,White,71,66
+North Carolina,Race,Black,19,20
+North Carolina,Race,Hispanic,4,7
+North Carolina,Race,Asian,2,3
+North Carolina,Race,Other,3,5
+North Carolina,Age,18-29,16,20
+North Carolina,Age,30-44,22,24
+North Carolina,Age,45-64,34,32
+North Carolina,Age,65+,28,24
+North Carolina,Gender,Male,45,48
+North Carolina,Gender,Female,55,52
+North Carolina,Education,High school,28,34
+North Carolina,Education,Some college,32,31
+North Carolina,Education,College grad.,25,22
+North Carolina,Education,Postgraduate,15,13
+North Dakota,Race,White,90,85
+North Dakota,Race,Black,2,2
+North Dakota,Race,Hispanic,2,4
+North Dakota,Race,Asian,1,1
+North Dakota,Race,Other,5,8
+North Dakota,Age,18-29,15,24
+North Dakota,Age,30-44,22,25
+North Dakota,Age,45-64,34,27
+North Dakota,Age,65+,29,24
+North Dakota,Gender,Male,50,52
+North Dakota,Gender,Female,50,48
+North Dakota,Education,High school,25,31
+North Dakota,Education,Some college,39,38
+North Dakota,Education,College grad.,26,22
+North Dakota,Education,Postgraduate,11,9
+Pennsylvania,Race,White,81,77
+Pennsylvania,Race,Black,9,10
+Pennsylvania,Race,Hispanic,4,7
+Pennsylvania,Race,Asian,2,3
+Pennsylvania,Race,Other,3,4
+Pennsylvania,Age,18-29,15,19
+Pennsylvania,Age,30-44,22,24
+Pennsylvania,Age,45-64,33,31
+Pennsylvania,Age,65+,30,26
+Pennsylvania,Gender,Male,47,49
+Pennsylvania,Gender,Female,53,51
+Pennsylvania,Education,High school,35,41
+Pennsylvania,Education,Some college,26,25
+Pennsylvania,Education,College grad.,23,21
+Pennsylvania,Education,Postgraduate,16,13
+New York,Race,White,67,59
+New York,Race,Black,12,13
+New York,Race,Hispanic,12,16
+New York,Race,Asian,6,8
+New York,Race,Other,4,5
+New York,Age,18-29,14,20
+New York,Age,30-44,23,24
+New York,Age,45-64,34,31
+New York,Age,65+,29,25
+New York,Gender,Male,45,48
+New York,Gender,Female,55,52
+New York,Education,High school,27,34
+New York,Education,Some college,26,26
+New York,Education,College grad.,26,23
+New York,Education,Postgraduate,21,17
+Virginia,Race,White,68,63
+Virginia,Race,Black,16,19
+Virginia,Race,Hispanic,6,8
+Virginia,Race,Asian,6,6
+Virginia,Race,Other,4,5
+Virginia,Age,18-29,16,20
+Virginia,Age,30-44,23,26
+Virginia,Age,45-64,34,31
+Virginia,Age,65+,27,23
+Virginia,Gender,Male,46,49
+Virginia,Gender,Female,54,51
+Virginia,Education,High school,27,32
+Virginia,Education,Some college,27,27
+Virginia,Education,College grad.,26,24
+Virginia,Education,Postgraduate,20,17
+Vermont,Race,White,93,91
+Vermont,Race,Black,1,1
+Vermont,Race,Hispanic,2,2
+Vermont,Race,Asian,1,2
+Vermont,Race,Other,3,5
+Vermont,Age,18-29,12,18
+Vermont,Age,30-44,22,23
+Vermont,Age,45-64,33,31
+Vermont,Age,65+,33,28
+Vermont,Gender,Male,48,49
+Vermont,Gender,Female,52,51
+Vermont,Education,High school,27,32
+Vermont,Education,Some college,25,25
+Vermont,Education,College grad.,28,25
+Vermont,Education,Postgraduate,21,18
+South Carolina,Race,White,73,66
+South Carolina,Race,Black,21,24
+South Carolina,Race,Hispanic,3,5
+South Carolina,Race,Asian,1,2
+South Carolina,Race,Other,2,4
+South Carolina,Age,18-29,12,19
+South Carolina,Age,30-44,21,24
+South Carolina,Age,45-64,35,31
+South Carolina,Age,65+,32,26
+South Carolina,Gender,Male,44,48
+South Carolina,Gender,Female,56,52
+South Carolina,Education,High school,30,38
+South Carolina,Education,Some college,32,31
+South Carolina,Education,College grad.,23,19
+South Carolina,Education,Postgraduate,15,12
+Rhode Island,Race,White,81,75
+Rhode Island,Race,Black,5,4
+Rhode Island,Race,Hispanic,9,13
+Rhode Island,Race,Asian,1,3
+Rhode Island,Race,Other,4,6
+Rhode Island,Age,18-29,14,20
+Rhode Island,Age,30-44,22,24
+Rhode Island,Age,45-64,33,31
+Rhode Island,Age,65+,30,26
+Rhode Island,Gender,Male,46,49
+Rhode Island,Gender,Female,54,52
+Rhode Island,Education,High school,29,36
+Rhode Island,Education,Some college,26,26
+Rhode Island,Education,College grad.,26,23
+Rhode Island,Education,Postgraduate,19,15
+South Dakota,Race,White,91,84
+South Dakota,Race,Black,1,2
+South Dakota,Race,Hispanic,2,3
+South Dakota,Race,Asian,1,1
+South Dakota,Race,Other,5,10
+South Dakota,Age,18-29,12,20
+South Dakota,Age,30-44,23,24
+South Dakota,Age,45-64,32,30
+South Dakota,Age,65+,32,25
+South Dakota,Gender,Male,49,51
+South Dakota,Gender,Female,51,49
+South Dakota,Education,High school,28,36
+South Dakota,Education,Some college,35,33
+South Dakota,Education,College grad.,25,21
+South Dakota,Education,Postgraduate,12,10
+Tennessee,Race,White,80,76
+Tennessee,Race,Black,12,15
+Tennessee,Race,Hispanic,3,4
+Tennessee,Race,Asian,1,2
+Tennessee,Race,Other,5,4
+Tennessee,Age,18-29,14,20
+Tennessee,Age,30-44,22,25
+Tennessee,Age,45-64,35,32
+Tennessee,Age,65+,29,23
+Tennessee,Gender,Male,45,48
+Tennessee,Gender,Female,55,52
+Tennessee,Education,High school,33,41
+Tennessee,Education,Some college,30,29
+Tennessee,Education,College grad.,23,19
+Tennessee,Education,Postgraduate,15,11
+Utah,Race,White,86,81
+Utah,Race,Black,1,1
+Utah,Race,Hispanic,7,11
+Utah,Race,Asian,1,2
+Utah,Race,Other,5,5
+Utah,Age,18-29,20,27
+Utah,Age,30-44,27,27
+Utah,Age,45-64,31,28
+Utah,Age,65+,23,18
+Utah,Gender,Male,50,50
+Utah,Gender,Female,50,50
+Utah,Education,High school,21,30
+Utah,Education,Some college,36,35
+Utah,Education,College grad.,28,23
+Utah,Education,Postgraduate,15,12
+Texas,Race,White,56,46
+Texas,Race,Black,11,13
+Texas,Race,Hispanic,23,32
+Texas,Race,Asian,5,5
+Texas,Race,Other,4,4
+Texas,Age,18-29,15,23
+Texas,Age,30-44,24,27
+Texas,Age,45-64,35,30
+Texas,Age,65+,26,20
+Texas,Gender,Male,46,49
+Texas,Gender,Female,54,51
+Texas,Education,High school,26,36
+Texas,Education,Some college,31,31
+Texas,Education,College grad.,27,22
+Texas,Education,Postgraduate,16,12
+Washington,Race,White,79,70
+Washington,Race,Black,4,4
+Washington,Race,Hispanic,7,10
+Washington,Race,Asian,6,8
+Washington,Race,Other,5,8
+Washington,Age,18-29,14,20
+Washington,Age,30-44,25,27
+Washington,Age,45-64,32,30
+Washington,Age,65+,29,23
+Washington,Gender,Male,48,50
+Washington,Gender,Female,52,50
+Washington,Education,High school,24,30
+Washington,Education,Some college,32,32
+Washington,Education,College grad.,27,24
+Washington,Education,Postgraduate,17,14
+Wyoming,Race,White,91,83
+Wyoming,Race,Black,1,1
+Wyoming,Race,Hispanic,4,9
+Wyoming,Race,Asian,,
+Wyoming,Race,Other,4,6
+Wyoming,Age,18-29,15,19
+Wyoming,Age,30-44,21,25
+Wyoming,Age,45-64,33,30
+Wyoming,Age,65+,32,26
+Wyoming,Gender,Male,49,51
+Wyoming,Gender,Female,51,50
+Wyoming,Education,High school,27,35
+Wyoming,Education,Some college,37,36
+Wyoming,Education,College grad.,23,19
+Wyoming,Education,Postgraduate,13,10
+West Virginia,Race,White,92,91
+West Virginia,Race,Black,3,3
+West Virginia,Race,Hispanic,1,2
+West Virginia,Race,Asian,1,1
+West Virginia,Race,Other,3,4
+West Virginia,Age,18-29,13,18
+West Virginia,Age,30-44,19,23
+West Virginia,Age,45-64,35,32
+West Virginia,Age,65+,33,28
+West Virginia,Gender,Male,47,49
+West Virginia,Gender,Female,53,51
+West Virginia,Education,High school,42,50
+West Virginia,Education,Some college,29,27
+West Virginia,Education,College grad.,17,14
+West Virginia,Education,Postgraduate,12,9
+Wisconsin,Race,White,87,83
+Wisconsin,Race,Black,4,5
+Wisconsin,Race,Hispanic,4,5
+Wisconsin,Race,Asian,2,2
+Wisconsin,Race,Other,3,4
+Wisconsin,Age,18-29,13,20
+Wisconsin,Age,30-44,21,24
+Wisconsin,Age,45-64,36,31
+Wisconsin,Age,65+,30,25
+Wisconsin,Gender,Male,49,50
+Wisconsin,Gender,Female,51,50
+Wisconsin,Education,High school,32,36
+Wisconsin,Education,Some college,32,32
+Wisconsin,Education,College grad.,24,22
+Wisconsin,Education,Postgraduate,12,10

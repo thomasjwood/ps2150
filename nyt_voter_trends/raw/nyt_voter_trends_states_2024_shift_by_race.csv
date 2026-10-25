@@ -1,0 +1,2971 @@
+state,row_category,row_group,row_share_of_voters_pct,race_column,shift_label,shift_signed_pts_pos_D
+Alabama,All,All,100,All voters,R+5,-5
+Alabama,All,All,100,White,R+1,-1
+Alabama,All,All,100,Black,R+5,-5
+Alabama,All,All,100,Hispanic,No estimate,
+Alabama,All,All,100,Asian,No estimate,
+Alabama,All,All,100,Other,No estimate,
+Alabama,Gender,Male,44,All voters,R+9,-9
+Alabama,Gender,Male,44,White,R+4,-4
+Alabama,Gender,Male,44,Black,R+13,-13
+Alabama,Gender,Male,44,Hispanic,No estimate,
+Alabama,Gender,Male,44,Asian,No estimate,
+Alabama,Gender,Male,44,Other,No estimate,
+Alabama,Gender,Female,56,All voters,R+2,-2
+Alabama,Gender,Female,56,White,D+2,2
+Alabama,Gender,Female,56,Black,R+1,-1
+Alabama,Gender,Female,56,Hispanic,No estimate,
+Alabama,Gender,Female,56,Asian,No estimate,
+Alabama,Gender,Female,56,Other,No estimate,
+Alabama,Age,18-29,14,All voters,R+12,-12
+Alabama,Age,18-29,14,White,R+5,-5
+Alabama,Age,18-29,14,Black,No estimate,
+Alabama,Age,18-29,14,Hispanic,No estimate,
+Alabama,Age,18-29,14,Asian,No estimate,
+Alabama,Age,18-29,14,Other,No estimate,
+Alabama,Age,30-44,21,All voters,R+6,-6
+Alabama,Age,30-44,21,White,D+2,2
+Alabama,Age,30-44,21,Black,R+9,-9
+Alabama,Age,30-44,21,Hispanic,No estimate,
+Alabama,Age,30-44,21,Asian,No estimate,
+Alabama,Age,30-44,21,Other,No estimate,
+Alabama,Age,45-64,35,All voters,R+4,-4
+Alabama,Age,45-64,35,White,R+1,-1
+Alabama,Age,45-64,35,Black,R+5,-5
+Alabama,Age,45-64,35,Hispanic,No estimate,
+Alabama,Age,45-64,35,Asian,No estimate,
+Alabama,Age,45-64,35,Other,No estimate,
+Alabama,Age,65+,30,All voters,No change,0
+Alabama,Age,65+,30,White,No change,0
+Alabama,Age,65+,30,Black,R+3,-3
+Alabama,Age,65+,30,Hispanic,No estimate,
+Alabama,Age,65+,30,Asian,No estimate,
+Alabama,Age,65+,30,Other,No estimate,
+Alabama,Education,High school,34,All voters,R+8,-8
+Alabama,Education,High school,34,White,R+2,-2
+Alabama,Education,High school,34,Black,R+6,-6
+Alabama,Education,High school,34,Hispanic,No estimate,
+Alabama,Education,High school,34,Asian,No estimate,
+Alabama,Education,High school,34,Other,No estimate,
+Alabama,Education,Some college,33,All voters,R+3,-3
+Alabama,Education,Some college,33,White,R+1,-1
+Alabama,Education,Some college,33,Black,R+5,-5
+Alabama,Education,Some college,33,Hispanic,No estimate,
+Alabama,Education,Some college,33,Asian,No estimate,
+Alabama,Education,Some college,33,Other,No estimate,
+Alabama,Education,College grad.,20,All voters,R+2,-2
+Alabama,Education,College grad.,20,White,D+1,1
+Alabama,Education,College grad.,20,Black,No estimate,
+Alabama,Education,College grad.,20,Hispanic,No estimate,
+Alabama,Education,College grad.,20,Asian,No estimate,
+Alabama,Education,College grad.,20,Other,No estimate,
+Alabama,Education,Postgraduate,13,All voters,R+6,-6
+Alabama,Education,Postgraduate,13,White,R+3,-3
+Alabama,Education,Postgraduate,13,Black,No estimate,
+Alabama,Education,Postgraduate,13,Hispanic,No estimate,
+Alabama,Education,Postgraduate,13,Asian,No estimate,
+Alabama,Education,Postgraduate,13,Other,No estimate,
+Alaska,All,All,100,All voters,R+2,-2
+Alaska,All,All,100,White,No change,0
+Alaska,All,All,100,Black,R+8,-8
+Alaska,Gender,Male,49,All voters,R+5,-5
+Alaska,Gender,Male,49,White,R+3,-3
+Alaska,Gender,Male,49,Black,R+13,-13
+Alaska,Gender,Female,51,All voters,D+1,1
+Alaska,Gender,Female,51,White,D+2,2
+Alaska,Gender,Female,51,Black,R+3,-3
+Alaska,Age,18-29,14,All voters,R+9,-9
+Alaska,Age,18-29,14,White,R+4,-4
+Alaska,Age,18-29,14,Black,R+17,-17
+Alaska,Age,30-44,23,All voters,D+1,1
+Alaska,Age,30-44,23,White,D+3,3
+Alaska,Age,30-44,23,Black,R+5,-5
+Alaska,Age,45-64,35,All voters,R+3,-3
+Alaska,Age,45-64,35,White,R+2,-2
+Alaska,Age,45-64,35,Black,R+6,-6
+Alaska,Age,65+,27,All voters,D+1,1
+Alaska,Age,65+,27,White,D+1,1
+Alaska,Age,65+,27,Black,No change,0
+Alaska,Education,High school,31,All voters,R+2,-2
+Alaska,Education,High school,31,White,D+1,1
+Alaska,Education,High school,31,Black,R+9,-9
+Alaska,Education,Some college,33,All voters,R+2,-2
+Alaska,Education,Some college,33,White,No change,0
+Alaska,Education,Some college,33,Black,R+7,-7
+Alaska,Education,College grad.,22,All voters,R+3,-3
+Alaska,Education,College grad.,22,White,R+2,-2
+Alaska,Education,College grad.,22,Black,R+8,-8
+Alaska,Education,Postgraduate,14,All voters,R+7,-7
+Alaska,Education,Postgraduate,14,White,R+7,-7
+Alaska,Education,Postgraduate,14,Black,R+8,-8
+Arizona,All,All,100,All voters,R+6,-6
+Arizona,All,All,100,White,R+4,-4
+Arizona,All,All,100,Black,No estimate,
+Arizona,All,All,100,Hispanic,R+15,-15
+Arizona,All,All,100,Asian,No estimate,
+Arizona,All,All,100,Other,No estimate,
+Arizona,Gender,Male,47,All voters,R+8,-8
+Arizona,Gender,Male,47,White,R+6,-6
+Arizona,Gender,Male,47,Black,No estimate,
+Arizona,Gender,Male,47,Hispanic,R+18,-18
+Arizona,Gender,Male,47,Asian,No estimate,
+Arizona,Gender,Male,47,Other,No estimate,
+Arizona,Gender,Female,53,All voters,R+3,-3
+Arizona,Gender,Female,53,White,R+1,-1
+Arizona,Gender,Female,53,Black,No estimate,
+Arizona,Gender,Female,53,Hispanic,R+12,-12
+Arizona,Gender,Female,53,Asian,No estimate,
+Arizona,Gender,Female,53,Other,No estimate,
+Arizona,Age,18-29,15,All voters,R+18,-18
+Arizona,Age,18-29,15,White,R+13,-13
+Arizona,Age,18-29,15,Black,No estimate,
+Arizona,Age,18-29,15,Hispanic,R+28,-28
+Arizona,Age,18-29,15,Asian,No estimate,
+Arizona,Age,18-29,15,Other,No estimate,
+Arizona,Age,30-44,21,All voters,R+8,-8
+Arizona,Age,30-44,21,White,R+5,-5
+Arizona,Age,30-44,21,Black,No estimate,
+Arizona,Age,30-44,21,Hispanic,R+16,-16
+Arizona,Age,30-44,21,Asian,No estimate,
+Arizona,Age,30-44,21,Other,No estimate,
+Arizona,Age,45-64,31,All voters,R+4,-4
+Arizona,Age,45-64,31,White,R+4,-4
+Arizona,Age,45-64,31,Black,No estimate,
+Arizona,Age,45-64,31,Hispanic,R+9,-9
+Arizona,Age,45-64,31,Asian,No estimate,
+Arizona,Age,45-64,31,Other,No estimate,
+Arizona,Age,65+,33,All voters,No change,0
+Arizona,Age,65+,33,White,R+1,-1
+Arizona,Age,65+,33,Black,No estimate,
+Arizona,Age,65+,33,Hispanic,No change,0
+Arizona,Age,65+,33,Asian,No estimate,
+Arizona,Age,65+,33,Other,No estimate,
+Arizona,Education,High school,25,All voters,R+7,-7
+Arizona,Education,High school,25,White,R+5,-5
+Arizona,Education,High school,25,Black,No estimate,
+Arizona,Education,High school,25,Hispanic,R+18,-18
+Arizona,Education,High school,25,Asian,No estimate,
+Arizona,Education,High school,25,Other,No estimate,
+Arizona,Education,Some college,35,All voters,R+7,-7
+Arizona,Education,Some college,35,White,R+5,-5
+Arizona,Education,Some college,35,Black,No estimate,
+Arizona,Education,Some college,35,Hispanic,R+15,-15
+Arizona,Education,Some college,35,Asian,No estimate,
+Arizona,Education,Some college,35,Other,No estimate,
+Arizona,Education,College grad.,24,All voters,R+4,-4
+Arizona,Education,College grad.,24,White,R+3,-3
+Arizona,Education,College grad.,24,Black,No estimate,
+Arizona,Education,College grad.,24,Hispanic,R+12,-12
+Arizona,Education,College grad.,24,Asian,No estimate,
+Arizona,Education,College grad.,24,Other,No estimate,
+Arizona,Education,Postgraduate,16,All voters,R+6,-6
+Arizona,Education,Postgraduate,16,White,R+6,-6
+Arizona,Education,Postgraduate,16,Black,No estimate,
+Arizona,Education,Postgraduate,16,Hispanic,R+8,-8
+Arizona,Education,Postgraduate,16,Asian,No estimate,
+Arizona,Education,Postgraduate,16,Other,No estimate,
+Arkansas,All,All,100,All voters,R+3,-3
+Arkansas,All,All,100,White,No change,0
+Arkansas,All,All,100,Black,R+7,-7
+Arkansas,All,All,100,Hispanic,No estimate,
+Arkansas,All,All,100,Asian,No estimate,
+Arkansas,All,All,100,Other,No estimate,
+Arkansas,Gender,Male,47,All voters,R+6,-6
+Arkansas,Gender,Male,47,White,R+3,-3
+Arkansas,Gender,Male,47,Black,R+16,-16
+Arkansas,Gender,Male,47,Hispanic,No estimate,
+Arkansas,Gender,Male,47,Asian,No estimate,
+Arkansas,Gender,Male,47,Other,No estimate,
+Arkansas,Gender,Female,53,All voters,D+1,1
+Arkansas,Gender,Female,53,White,D+3,3
+Arkansas,Gender,Female,53,Black,R+2,-2
+Arkansas,Gender,Female,53,Hispanic,No estimate,
+Arkansas,Gender,Female,53,Asian,No estimate,
+Arkansas,Gender,Female,53,Other,No estimate,
+Arkansas,Age,18-29,13,All voters,R+8,-8
+Arkansas,Age,18-29,13,White,R+4,-4
+Arkansas,Age,18-29,13,Black,R+13,-13
+Arkansas,Age,18-29,13,Hispanic,No estimate,
+Arkansas,Age,18-29,13,Asian,No estimate,
+Arkansas,Age,18-29,13,Other,No estimate,
+Arkansas,Age,30-44,20,All voters,No change,0
+Arkansas,Age,30-44,20,White,D+5,5
+Arkansas,Age,30-44,20,Black,R+12,-12
+Arkansas,Age,30-44,20,Hispanic,No estimate,
+Arkansas,Age,30-44,20,Asian,No estimate,
+Arkansas,Age,30-44,20,Other,No estimate,
+Arkansas,Age,45-64,34,All voters,R+3,-3
+Arkansas,Age,45-64,34,White,No change,0
+Arkansas,Age,45-64,34,Black,R+6,-6
+Arkansas,Age,45-64,34,Hispanic,No estimate,
+Arkansas,Age,45-64,34,Asian,No estimate,
+Arkansas,Age,45-64,34,Other,No estimate,
+Arkansas,Age,65+,32,All voters,R+3,-3
+Arkansas,Age,65+,32,White,R+2,-2
+Arkansas,Age,65+,32,Black,R+4,-4
+Arkansas,Age,65+,32,Hispanic,No estimate,
+Arkansas,Age,65+,32,Asian,No estimate,
+Arkansas,Age,65+,32,Other,No estimate,
+Arkansas,Education,High school,33,All voters,R+7,-7
+Arkansas,Education,High school,33,White,R+3,-3
+Arkansas,Education,High school,33,Black,R+8,-8
+Arkansas,Education,High school,33,Hispanic,No estimate,
+Arkansas,Education,High school,33,Asian,No estimate,
+Arkansas,Education,High school,33,Other,No estimate,
+Arkansas,Education,Some college,33,All voters,R+2,-2
+Arkansas,Education,Some college,33,White,R+1,-1
+Arkansas,Education,Some college,33,Black,R+7,-7
+Arkansas,Education,Some college,33,Hispanic,No estimate,
+Arkansas,Education,Some college,33,Asian,No estimate,
+Arkansas,Education,Some college,33,Other,No estimate,
+Arkansas,Education,College grad.,21,All voters,R+1,-1
+Arkansas,Education,College grad.,21,White,D+1,1
+Arkansas,Education,College grad.,21,Black,R+5,-5
+Arkansas,Education,College grad.,21,Hispanic,No estimate,
+Arkansas,Education,College grad.,21,Asian,No estimate,
+Arkansas,Education,College grad.,21,Other,No estimate,
+Arkansas,Education,Postgraduate,13,All voters,R+6,-6
+Arkansas,Education,Postgraduate,13,White,R+3,-3
+Arkansas,Education,Postgraduate,13,Black,R+8,-8
+Arkansas,Education,Postgraduate,13,Hispanic,No estimate,
+Arkansas,Education,Postgraduate,13,Asian,No estimate,
+Arkansas,Education,Postgraduate,13,Other,No estimate,
+California,All,All,100,All voters,R+9,-9
+California,All,All,100,White,R+4,-4
+California,All,All,100,Black,R+10,-10
+California,All,All,100,Hispanic,R+18,-18
+California,All,All,100,Asian,R+7,-7
+California,All,All,100,Other,No estimate,
+California,Gender,Male,48,All voters,R+11,-11
+California,Gender,Male,48,White,R+6,-6
+California,Gender,Male,48,Black,R+15,-15
+California,Gender,Male,48,Hispanic,R+21,-21
+California,Gender,Male,48,Asian,R+6,-6
+California,Gender,Male,48,Other,No estimate,
+California,Gender,Female,52,All voters,R+7,-7
+California,Gender,Female,52,White,R+2,-2
+California,Gender,Female,52,Black,R+6,-6
+California,Gender,Female,52,Hispanic,R+16,-16
+California,Gender,Female,52,Asian,R+8,-8
+California,Gender,Female,52,Other,No estimate,
+California,Age,18-29,16,All voters,R+19,-19
+California,Age,18-29,16,White,R+11,-11
+California,Age,18-29,16,Black,R+14,-14
+California,Age,18-29,16,Hispanic,R+30,-30
+California,Age,18-29,16,Asian,No estimate,
+California,Age,18-29,16,Other,No estimate,
+California,Age,30-44,24,All voters,R+12,-12
+California,Age,30-44,24,White,R+6,-6
+California,Age,30-44,24,Black,R+15,-15
+California,Age,30-44,24,Hispanic,R+23,-23
+California,Age,30-44,24,Asian,No estimate,
+California,Age,30-44,24,Other,No estimate,
+California,Age,45-64,32,All voters,R+6,-6
+California,Age,45-64,32,White,R+3,-3
+California,Age,45-64,32,Black,R+8,-8
+California,Age,45-64,32,Hispanic,R+12,-12
+California,Age,45-64,32,Asian,No estimate,
+California,Age,45-64,32,Other,No estimate,
+California,Age,65+,28,All voters,R+1,-1
+California,Age,65+,28,White,No change,0
+California,Age,65+,28,Black,R+5,-5
+California,Age,65+,28,Hispanic,D+1,1
+California,Age,65+,28,Asian,No estimate,
+California,Age,65+,28,Other,No estimate,
+California,Education,High school,25,All voters,R+13,-13
+California,Education,High school,25,White,R+5,-5
+California,Education,High school,25,Black,R+11,-11
+California,Education,High school,25,Hispanic,R+23,-23
+California,Education,High school,25,Asian,No estimate,
+California,Education,High school,25,Other,No estimate,
+California,Education,Some college,31,All voters,R+9,-9
+California,Education,Some college,31,White,R+3,-3
+California,Education,Some college,31,Black,R+10,-10
+California,Education,Some college,31,Hispanic,R+17,-17
+California,Education,Some college,31,Asian,No estimate,
+California,Education,Some college,31,Other,No estimate,
+California,Education,College grad.,27,All voters,R+8,-8
+California,Education,College grad.,27,White,R+5,-5
+California,Education,College grad.,27,Black,R+7,-7
+California,Education,College grad.,27,Hispanic,R+14,-14
+California,Education,College grad.,27,Asian,No estimate,
+California,Education,College grad.,27,Other,No estimate,
+California,Education,Postgraduate,17,All voters,R+9,-9
+California,Education,Postgraduate,17,White,R+9,-9
+California,Education,Postgraduate,17,Black,R+11,-11
+California,Education,Postgraduate,17,Hispanic,R+12,-12
+California,Education,Postgraduate,17,Asian,No estimate,
+California,Education,Postgraduate,17,Other,No estimate,
+Colorado,All,All,100,All voters,R+2,-2
+Colorado,All,All,100,White,R+1,-1
+Colorado,All,All,100,Black,No estimate,
+Colorado,All,All,100,Hispanic,R+14,-14
+Colorado,All,All,100,Asian,No estimate,
+Colorado,All,All,100,Other,No estimate,
+Colorado,Gender,Male,48,All voters,R+5,-5
+Colorado,Gender,Male,48,White,R+3,-3
+Colorado,Gender,Male,48,Black,No estimate,
+Colorado,Gender,Male,48,Hispanic,R+17,-17
+Colorado,Gender,Male,48,Asian,No estimate,
+Colorado,Gender,Male,48,Other,No estimate,
+Colorado,Gender,Female,52,All voters,No change,0
+Colorado,Gender,Female,52,White,D+2,2
+Colorado,Gender,Female,52,Black,No estimate,
+Colorado,Gender,Female,52,Hispanic,R+11,-11
+Colorado,Gender,Female,52,Asian,No estimate,
+Colorado,Gender,Female,52,Other,No estimate,
+Colorado,Age,18-29,17,All voters,R+12,-12
+Colorado,Age,18-29,17,White,R+7,-7
+Colorado,Age,18-29,17,Black,No estimate,
+Colorado,Age,18-29,17,Hispanic,R+26,-26
+Colorado,Age,18-29,17,Asian,No estimate,
+Colorado,Age,18-29,17,Other,No estimate,
+Colorado,Age,30-44,27,All voters,R+4,-4
+Colorado,Age,30-44,27,White,R+2,-2
+Colorado,Age,30-44,27,Black,No estimate,
+Colorado,Age,30-44,27,Hispanic,R+15,-15
+Colorado,Age,30-44,27,Asian,No estimate,
+Colorado,Age,30-44,27,Other,No estimate,
+Colorado,Age,45-64,31,All voters,No change,0
+Colorado,Age,45-64,31,White,No change,0
+Colorado,Age,45-64,31,Black,No estimate,
+Colorado,Age,45-64,31,Hispanic,R+7,-7
+Colorado,Age,45-64,31,Asian,No estimate,
+Colorado,Age,45-64,31,Other,No estimate,
+Colorado,Age,65+,25,All voters,D+3,3
+Colorado,Age,65+,25,White,D+3,3
+Colorado,Age,65+,25,Black,No estimate,
+Colorado,Age,65+,25,Hispanic,D+1,1
+Colorado,Age,65+,25,Asian,No estimate,
+Colorado,Age,65+,25,Other,No estimate,
+Colorado,Education,High school,21,All voters,R+5,-5
+Colorado,Education,High school,21,White,R+2,-2
+Colorado,Education,High school,21,Black,No estimate,
+Colorado,Education,High school,21,Hispanic,R+20,-20
+Colorado,Education,High school,21,Asian,No estimate,
+Colorado,Education,High school,21,Other,No estimate,
+Colorado,Education,Some college,28,All voters,R+3,-3
+Colorado,Education,Some college,28,White,R+1,-1
+Colorado,Education,Some college,28,Black,No estimate,
+Colorado,Education,Some college,28,Hispanic,R+13,-13
+Colorado,Education,Some college,28,Asian,No estimate,
+Colorado,Education,Some college,28,Other,No estimate,
+Colorado,Education,College grad.,31,All voters,R+3,-3
+Colorado,Education,College grad.,31,White,R+2,-2
+Colorado,Education,College grad.,31,Black,No estimate,
+Colorado,Education,College grad.,31,Hispanic,R+9,-9
+Colorado,Education,College grad.,31,Asian,No estimate,
+Colorado,Education,College grad.,31,Other,No estimate,
+Colorado,Education,Postgraduate,20,All voters,R+6,-6
+Colorado,Education,Postgraduate,20,White,R+7,-7
+Colorado,Education,Postgraduate,20,Black,No estimate,
+Colorado,Education,Postgraduate,20,Hispanic,R+6,-6
+Colorado,Education,Postgraduate,20,Asian,No estimate,
+Colorado,Education,Postgraduate,20,Other,No estimate,
+"Washington, D.C.",All,All,100,All voters,R+3,-3
+"Washington, D.C.",All,All,100,White,R+1,-1
+"Washington, D.C.",All,All,100,Black,R+4,-4
+"Washington, D.C.",All,All,100,Hispanic,No estimate,
+"Washington, D.C.",All,All,100,Asian,No estimate,
+"Washington, D.C.",All,All,100,Other,No estimate,
+"Washington, D.C.",Gender,Male,45,All voters,R+5,-5
+"Washington, D.C.",Gender,Male,45,White,R+2,-2
+"Washington, D.C.",Gender,Male,45,Black,R+8,-8
+"Washington, D.C.",Gender,Male,45,Hispanic,No estimate,
+"Washington, D.C.",Gender,Male,45,Asian,No estimate,
+"Washington, D.C.",Gender,Male,45,Other,No estimate,
+"Washington, D.C.",Gender,Female,55,All voters,R+1,-1
+"Washington, D.C.",Gender,Female,55,White,No change,0
+"Washington, D.C.",Gender,Female,55,Black,R+2,-2
+"Washington, D.C.",Gender,Female,55,Hispanic,No estimate,
+"Washington, D.C.",Gender,Female,55,Asian,No estimate,
+"Washington, D.C.",Gender,Female,55,Other,No estimate,
+"Washington, D.C.",Age,18-29,20,All voters,R+2,-2
+"Washington, D.C.",Age,18-29,20,White,D+2,2
+"Washington, D.C.",Age,18-29,20,Black,R+5,-5
+"Washington, D.C.",Age,18-29,20,Hispanic,No estimate,
+"Washington, D.C.",Age,18-29,20,Asian,No estimate,
+"Washington, D.C.",Age,18-29,20,Other,No estimate,
+"Washington, D.C.",Age,30-44,29,All voters,R+5,-5
+"Washington, D.C.",Age,30-44,29,White,R+3,-3
+"Washington, D.C.",Age,30-44,29,Black,R+8,-8
+"Washington, D.C.",Age,30-44,29,Hispanic,No estimate,
+"Washington, D.C.",Age,30-44,29,Asian,No estimate,
+"Washington, D.C.",Age,30-44,29,Other,No estimate,
+"Washington, D.C.",Age,45-64,29,All voters,R+3,-3
+"Washington, D.C.",Age,45-64,29,White,R+3,-3
+"Washington, D.C.",Age,45-64,29,Black,R+3,-3
+"Washington, D.C.",Age,45-64,29,Hispanic,No estimate,
+"Washington, D.C.",Age,45-64,29,Asian,No estimate,
+"Washington, D.C.",Age,45-64,29,Other,No estimate,
+"Washington, D.C.",Age,65+,22,All voters,R+1,-1
+"Washington, D.C.",Age,65+,22,White,D+1,1
+"Washington, D.C.",Age,65+,22,Black,R+2,-2
+"Washington, D.C.",Age,65+,22,Hispanic,No estimate,
+"Washington, D.C.",Age,65+,22,Asian,No estimate,
+"Washington, D.C.",Age,65+,22,Other,No estimate,
+"Washington, D.C.",Education,High school,16,All voters,R+4,-4
+"Washington, D.C.",Education,High school,16,White,D+5,5
+"Washington, D.C.",Education,High school,16,Black,R+5,-5
+"Washington, D.C.",Education,High school,16,Hispanic,No estimate,
+"Washington, D.C.",Education,High school,16,Asian,No estimate,
+"Washington, D.C.",Education,High school,16,Other,No estimate,
+"Washington, D.C.",Education,Some college,14,All voters,R+3,-3
+"Washington, D.C.",Education,Some college,14,White,No change,0
+"Washington, D.C.",Education,Some college,14,Black,R+4,-4
+"Washington, D.C.",Education,Some college,14,Hispanic,No estimate,
+"Washington, D.C.",Education,Some college,14,Asian,No estimate,
+"Washington, D.C.",Education,Some college,14,Other,No estimate,
+"Washington, D.C.",Education,College grad.,29,All voters,R+2,-2
+"Washington, D.C.",Education,College grad.,29,White,R+2,-2
+"Washington, D.C.",Education,College grad.,29,Black,R+4,-4
+"Washington, D.C.",Education,College grad.,29,Hispanic,No estimate,
+"Washington, D.C.",Education,College grad.,29,Asian,No estimate,
+"Washington, D.C.",Education,College grad.,29,Other,No estimate,
+"Washington, D.C.",Education,Postgraduate,41,All voters,R+3,-3
+"Washington, D.C.",Education,Postgraduate,41,White,R+3,-3
+"Washington, D.C.",Education,Postgraduate,41,Black,R+4,-4
+"Washington, D.C.",Education,Postgraduate,41,Hispanic,No estimate,
+"Washington, D.C.",Education,Postgraduate,41,Asian,No estimate,
+"Washington, D.C.",Education,Postgraduate,41,Other,No estimate,
+Delaware,All,All,100,All voters,R+4,-4
+Delaware,All,All,100,White,R+4,-4
+Delaware,All,All,100,Black,R+12,-12
+Delaware,All,All,100,Hispanic,No estimate,
+Delaware,All,All,100,Asian,No estimate,
+Delaware,All,All,100,Other,No estimate,
+Delaware,Gender,Male,46,All voters,R+8,-8
+Delaware,Gender,Male,46,White,R+7,-7
+Delaware,Gender,Male,46,Black,R+20,-20
+Delaware,Gender,Male,46,Hispanic,No estimate,
+Delaware,Gender,Male,46,Asian,No estimate,
+Delaware,Gender,Male,46,Other,No estimate,
+Delaware,Gender,Female,54,All voters,R+1,-1
+Delaware,Gender,Female,54,White,R+1,-1
+Delaware,Gender,Female,54,Black,R+7,-7
+Delaware,Gender,Female,54,Hispanic,No estimate,
+Delaware,Gender,Female,54,Asian,No estimate,
+Delaware,Gender,Female,54,Other,No estimate,
+Delaware,Age,18-29,13,All voters,R+17,-17
+Delaware,Age,18-29,13,White,R+19,-19
+Delaware,Age,18-29,13,Black,R+17,-17
+Delaware,Age,18-29,13,Hispanic,No estimate,
+Delaware,Age,18-29,13,Asian,No estimate,
+Delaware,Age,18-29,13,Other,No estimate,
+Delaware,Age,30-44,19,All voters,R+10,-10
+Delaware,Age,30-44,19,White,R+9,-9
+Delaware,Age,30-44,19,Black,R+18,-18
+Delaware,Age,30-44,19,Hispanic,No estimate,
+Delaware,Age,30-44,19,Asian,No estimate,
+Delaware,Age,30-44,19,Other,No estimate,
+Delaware,Age,45-64,34,All voters,R+2,-2
+Delaware,Age,45-64,34,White,R+4,-4
+Delaware,Age,45-64,34,Black,R+10,-10
+Delaware,Age,45-64,34,Hispanic,No estimate,
+Delaware,Age,45-64,34,Asian,No estimate,
+Delaware,Age,45-64,34,Other,No estimate,
+Delaware,Age,65+,35,All voters,D+3,3
+Delaware,Age,65+,35,White,D+2,2
+Delaware,Age,65+,35,Black,R+7,-7
+Delaware,Age,65+,35,Hispanic,No estimate,
+Delaware,Age,65+,35,Asian,No estimate,
+Delaware,Age,65+,35,Other,No estimate,
+Delaware,Education,High school,30,All voters,R+9,-9
+Delaware,Education,High school,30,White,R+9,-9
+Delaware,Education,High school,30,Black,R+14,-14
+Delaware,Education,High school,30,Hispanic,No estimate,
+Delaware,Education,High school,30,Asian,No estimate,
+Delaware,Education,High school,30,Other,No estimate,
+Delaware,Education,Some college,30,All voters,R+5,-5
+Delaware,Education,Some college,30,White,R+7,-7
+Delaware,Education,Some college,30,Black,R+12,-12
+Delaware,Education,Some college,30,Hispanic,No estimate,
+Delaware,Education,Some college,30,Asian,No estimate,
+Delaware,Education,Some college,30,Other,No estimate,
+Delaware,Education,College grad.,22,All voters,R+2,-2
+Delaware,Education,College grad.,22,White,R+2,-2
+Delaware,Education,College grad.,22,Black,R+8,-8
+Delaware,Education,College grad.,22,Hispanic,No estimate,
+Delaware,Education,College grad.,22,Asian,No estimate,
+Delaware,Education,College grad.,22,Other,No estimate,
+Delaware,Education,Postgraduate,18,All voters,R+4,-4
+Delaware,Education,Postgraduate,18,White,R+3,-3
+Delaware,Education,Postgraduate,18,Black,R+10,-10
+Delaware,Education,Postgraduate,18,Hispanic,No estimate,
+Delaware,Education,Postgraduate,18,Asian,No estimate,
+Delaware,Education,Postgraduate,18,Other,No estimate,
+Connecticut,All,All,100,All voters,R+5,-5
+Connecticut,All,All,100,White,R+3,-3
+Connecticut,All,All,100,Black,R+13,-13
+Connecticut,All,All,100,Hispanic,R+19,-19
+Connecticut,All,All,100,Asian,No estimate,
+Connecticut,All,All,100,Other,No estimate,
+Connecticut,Gender,Male,46,All voters,R+9,-9
+Connecticut,Gender,Male,46,White,R+7,-7
+Connecticut,Gender,Male,46,Black,R+24,-24
+Connecticut,Gender,Male,46,Hispanic,R+24,-24
+Connecticut,Gender,Male,46,Asian,No estimate,
+Connecticut,Gender,Male,46,Other,No estimate,
+Connecticut,Gender,Female,54,All voters,R+2,-2
+Connecticut,Gender,Female,54,White,No change,0
+Connecticut,Gender,Female,54,Black,R+7,-7
+Connecticut,Gender,Female,54,Hispanic,R+16,-16
+Connecticut,Gender,Female,54,Asian,No estimate,
+Connecticut,Gender,Female,54,Other,No estimate,
+Connecticut,Age,18-29,14,All voters,R+17,-17
+Connecticut,Age,18-29,14,White,R+14,-14
+Connecticut,Age,18-29,14,Black,R+17,-17
+Connecticut,Age,18-29,14,Hispanic,R+35,-35
+Connecticut,Age,18-29,14,Asian,No estimate,
+Connecticut,Age,18-29,14,Other,No estimate,
+Connecticut,Age,30-44,21,All voters,R+10,-10
+Connecticut,Age,30-44,21,White,R+6,-6
+Connecticut,Age,30-44,21,Black,R+20,-20
+Connecticut,Age,30-44,21,Hispanic,R+26,-26
+Connecticut,Age,30-44,21,Asian,No estimate,
+Connecticut,Age,30-44,21,Other,No estimate,
+Connecticut,Age,45-64,35,All voters,R+4,-4
+Connecticut,Age,45-64,35,White,R+3,-3
+Connecticut,Age,45-64,35,Black,R+11,-11
+Connecticut,Age,45-64,35,Hispanic,R+14,-14
+Connecticut,Age,45-64,35,Asian,No estimate,
+Connecticut,Age,45-64,35,Other,No estimate,
+Connecticut,Age,65+,30,All voters,D+1,1
+Connecticut,Age,65+,30,White,D+2,2
+Connecticut,Age,65+,30,Black,R+8,-8
+Connecticut,Age,65+,30,Hispanic,D+1,1
+Connecticut,Age,65+,30,Asian,No estimate,
+Connecticut,Age,65+,30,Other,No estimate,
+Connecticut,Education,High school,26,All voters,R+10,-10
+Connecticut,Education,High school,26,White,R+7,-7
+Connecticut,Education,High school,26,Black,R+17,-17
+Connecticut,Education,High school,26,Hispanic,R+28,-28
+Connecticut,Education,High school,26,Asian,No estimate,
+Connecticut,Education,High school,26,Other,No estimate,
+Connecticut,Education,Some college,26,All voters,R+6,-6
+Connecticut,Education,Some college,26,White,R+5,-5
+Connecticut,Education,Some college,26,Black,R+14,-14
+Connecticut,Education,Some college,26,Hispanic,R+17,-17
+Connecticut,Education,Some college,26,Asian,No estimate,
+Connecticut,Education,Some college,26,Other,No estimate,
+Connecticut,Education,College grad.,26,All voters,R+3,-3
+Connecticut,Education,College grad.,26,White,R+2,-2
+Connecticut,Education,College grad.,26,Black,R+9,-9
+Connecticut,Education,College grad.,26,Hispanic,R+11,-11
+Connecticut,Education,College grad.,26,Asian,No estimate,
+Connecticut,Education,College grad.,26,Other,No estimate,
+Connecticut,Education,Postgraduate,22,All voters,R+6,-6
+Connecticut,Education,Postgraduate,22,White,R+5,-5
+Connecticut,Education,Postgraduate,22,Black,R+10,-10
+Connecticut,Education,Postgraduate,22,Hispanic,R+9,-9
+Connecticut,Education,Postgraduate,22,Asian,No estimate,
+Connecticut,Education,Postgraduate,22,Other,No estimate,
+Hawaii,All,All,100,All voters,R+6,-6
+Hawaii,All,All,100,White,No estimate,
+Hawaii,All,All,100,Black,No estimate,
+Hawaii,Gender,Male,48,All voters,R+6,-6
+Hawaii,Gender,Male,48,White,No estimate,
+Hawaii,Gender,Male,48,Black,No estimate,
+Hawaii,Gender,Female,52,All voters,R+7,-7
+Hawaii,Gender,Female,52,White,No estimate,
+Hawaii,Gender,Female,52,Black,No estimate,
+Hawaii,Age,18-29,12,All voters,R+12,-12
+Hawaii,Age,18-29,12,White,No estimate,
+Hawaii,Age,18-29,12,Black,No estimate,
+Hawaii,Age,30-44,17,All voters,R+3,-3
+Hawaii,Age,30-44,17,White,No estimate,
+Hawaii,Age,30-44,17,Black,No estimate,
+Hawaii,Age,45-64,34,All voters,R+3,-3
+Hawaii,Age,45-64,34,White,No estimate,
+Hawaii,Age,45-64,34,Black,No estimate,
+Hawaii,Age,65+,37,All voters,R+9,-9
+Hawaii,Age,65+,37,White,No estimate,
+Hawaii,Age,65+,37,Black,No estimate,
+Hawaii,Education,High school,26,All voters,R+13,-13
+Hawaii,Education,High school,26,White,No estimate,
+Hawaii,Education,High school,26,Black,No estimate,
+Hawaii,Education,Some college,30,All voters,R+7,-7
+Hawaii,Education,Some college,30,White,No estimate,
+Hawaii,Education,Some college,30,Black,No estimate,
+Hawaii,Education,College grad.,27,All voters,R+6,-6
+Hawaii,Education,College grad.,27,White,No estimate,
+Hawaii,Education,College grad.,27,Black,No estimate,
+Hawaii,Education,Postgraduate,17,All voters,R+3,-3
+Hawaii,Education,Postgraduate,17,White,No estimate,
+Hawaii,Education,Postgraduate,17,Black,No estimate,
+Idaho,All,All,100,All voters,R+6,-6
+Idaho,All,All,100,White,R+5,-5
+Idaho,All,All,100,Black,No estimate,
+Idaho,All,All,100,Hispanic,R+21,-21
+Idaho,All,All,100,Asian,No estimate,
+Idaho,All,All,100,Other,No estimate,
+Idaho,Gender,Male,48,All voters,R+8,-8
+Idaho,Gender,Male,48,White,R+7,-7
+Idaho,Gender,Male,48,Black,No estimate,
+Idaho,Gender,Male,48,Hispanic,No estimate,
+Idaho,Gender,Male,48,Asian,No estimate,
+Idaho,Gender,Male,48,Other,No estimate,
+Idaho,Gender,Female,52,All voters,R+4,-4
+Idaho,Gender,Female,52,White,R+3,-3
+Idaho,Gender,Female,52,Black,No estimate,
+Idaho,Gender,Female,52,Hispanic,No estimate,
+Idaho,Gender,Female,52,Asian,No estimate,
+Idaho,Gender,Female,52,Other,No estimate,
+Idaho,Age,18-29,15,All voters,R+16,-16
+Idaho,Age,18-29,15,White,R+13,-13
+Idaho,Age,18-29,15,Black,No estimate,
+Idaho,Age,18-29,15,Hispanic,No estimate,
+Idaho,Age,18-29,15,Asian,No estimate,
+Idaho,Age,18-29,15,Other,No estimate,
+Idaho,Age,30-44,23,All voters,R+5,-5
+Idaho,Age,30-44,23,White,R+4,-4
+Idaho,Age,30-44,23,Black,No estimate,
+Idaho,Age,30-44,23,Hispanic,No estimate,
+Idaho,Age,30-44,23,Asian,No estimate,
+Idaho,Age,30-44,23,Other,No estimate,
+Idaho,Age,45-64,32,All voters,R+4,-4
+Idaho,Age,45-64,32,White,R+4,-4
+Idaho,Age,45-64,32,Black,No estimate,
+Idaho,Age,45-64,32,Hispanic,No estimate,
+Idaho,Age,45-64,32,Asian,No estimate,
+Idaho,Age,45-64,32,Other,No estimate,
+Idaho,Age,65+,30,All voters,R+3,-3
+Idaho,Age,65+,30,White,R+3,-3
+Idaho,Age,65+,30,Black,No estimate,
+Idaho,Age,65+,30,Hispanic,No estimate,
+Idaho,Age,65+,30,Asian,No estimate,
+Idaho,Age,65+,30,Other,No estimate,
+Idaho,Education,High school,26,All voters,R+6,-6
+Idaho,Education,High school,26,White,R+7,-7
+Idaho,Education,High school,26,Black,No estimate,
+Idaho,Education,High school,26,Hispanic,No estimate,
+Idaho,Education,High school,26,Asian,No estimate,
+Idaho,Education,High school,26,Other,No estimate,
+Idaho,Education,Some college,36,All voters,R+7,-7
+Idaho,Education,Some college,36,White,R+6,-6
+Idaho,Education,Some college,36,Black,No estimate,
+Idaho,Education,Some college,36,Hispanic,No estimate,
+Idaho,Education,Some college,36,Asian,No estimate,
+Idaho,Education,Some college,36,Other,No estimate,
+Idaho,Education,College grad.,25,All voters,R+7,-7
+Idaho,Education,College grad.,25,White,R+6,-6
+Idaho,Education,College grad.,25,Black,No estimate,
+Idaho,Education,College grad.,25,Hispanic,No estimate,
+Idaho,Education,College grad.,25,Asian,No estimate,
+Idaho,Education,College grad.,25,Other,No estimate,
+Idaho,Education,Postgraduate,13,All voters,R+8,-8
+Idaho,Education,Postgraduate,13,White,R+7,-7
+Idaho,Education,Postgraduate,13,Black,No estimate,
+Idaho,Education,Postgraduate,13,Hispanic,No estimate,
+Idaho,Education,Postgraduate,13,Asian,No estimate,
+Idaho,Education,Postgraduate,13,Other,No estimate,
+Georgia,All,All,100,All voters,R+2,-2
+Georgia,All,All,100,White,D+1,1
+Georgia,All,All,100,Black,R+5,-5
+Georgia,All,All,100,Hispanic,No estimate,
+Georgia,All,All,100,Asian,No estimate,
+Georgia,All,All,100,Other,No estimate,
+Georgia,Gender,Male,44,All voters,R+7,-7
+Georgia,Gender,Male,44,White,R+3,-3
+Georgia,Gender,Male,44,Black,R+12,-12
+Georgia,Gender,Male,44,Hispanic,No estimate,
+Georgia,Gender,Male,44,Asian,No estimate,
+Georgia,Gender,Male,44,Other,No estimate,
+Georgia,Gender,Female,56,All voters,D+2,2
+Georgia,Gender,Female,56,White,D+4,4
+Georgia,Gender,Female,56,Black,No change,0
+Georgia,Gender,Female,56,Hispanic,No estimate,
+Georgia,Gender,Female,56,Asian,No estimate,
+Georgia,Gender,Female,56,Other,No estimate,
+Georgia,Age,18-29,16,All voters,R+10,-10
+Georgia,Age,18-29,16,White,R+7,-7
+Georgia,Age,18-29,16,Black,R+7,-7
+Georgia,Age,18-29,16,Hispanic,No estimate,
+Georgia,Age,18-29,16,Asian,No estimate,
+Georgia,Age,18-29,16,Other,No estimate,
+Georgia,Age,30-44,23,All voters,R+5,-5
+Georgia,Age,30-44,23,White,No change,0
+Georgia,Age,30-44,23,Black,R+8,-8
+Georgia,Age,30-44,23,Hispanic,No estimate,
+Georgia,Age,30-44,23,Asian,No estimate,
+Georgia,Age,30-44,23,Other,No estimate,
+Georgia,Age,45-64,35,All voters,No change,0
+Georgia,Age,45-64,35,White,D+2,2
+Georgia,Age,45-64,35,Black,R+3,-3
+Georgia,Age,45-64,35,Hispanic,No estimate,
+Georgia,Age,45-64,35,Asian,No estimate,
+Georgia,Age,45-64,35,Other,No estimate,
+Georgia,Age,65+,25,All voters,D+4,4
+Georgia,Age,65+,25,White,D+3,3
+Georgia,Age,65+,25,Black,R+2,-2
+Georgia,Age,65+,25,Hispanic,No estimate,
+Georgia,Age,65+,25,Asian,No estimate,
+Georgia,Age,65+,25,Other,No estimate,
+Georgia,Education,High school,30,All voters,R+4,-4
+Georgia,Education,High school,30,White,No change,0
+Georgia,Education,High school,30,Black,R+7,-7
+Georgia,Education,High school,30,Hispanic,No estimate,
+Georgia,Education,High school,30,Asian,No estimate,
+Georgia,Education,High school,30,Other,No estimate,
+Georgia,Education,Some college,30,All voters,R+2,-2
+Georgia,Education,Some college,30,White,R+1,-1
+Georgia,Education,Some college,30,Black,R+5,-5
+Georgia,Education,Some college,30,Hispanic,No estimate,
+Georgia,Education,Some college,30,Asian,No estimate,
+Georgia,Education,Some college,30,Other,No estimate,
+Georgia,Education,College grad.,24,All voters,R+1,-1
+Georgia,Education,College grad.,24,White,No change,0
+Georgia,Education,College grad.,24,Black,R+3,-3
+Georgia,Education,College grad.,24,Hispanic,No estimate,
+Georgia,Education,College grad.,24,Asian,No estimate,
+Georgia,Education,College grad.,24,Other,No estimate,
+Georgia,Education,Postgraduate,16,All voters,R+5,-5
+Georgia,Education,Postgraduate,16,White,R+3,-3
+Georgia,Education,Postgraduate,16,Black,R+3,-3
+Georgia,Education,Postgraduate,16,Hispanic,No estimate,
+Georgia,Education,Postgraduate,16,Asian,No estimate,
+Georgia,Education,Postgraduate,16,Other,No estimate,
+Florida,All,All,100,All voters,R+10,-10
+Florida,All,All,100,White,R+5,-5
+Florida,All,All,100,Black,R+11,-11
+Florida,All,All,100,Hispanic,R+21,-21
+Florida,All,All,100,Asian,No estimate,
+Florida,All,All,100,Other,No estimate,
+Florida,Gender,Male,45,All voters,R+13,-13
+Florida,Gender,Male,45,White,R+8,-8
+Florida,Gender,Male,45,Black,R+20,-20
+Florida,Gender,Male,45,Hispanic,R+22,-22
+Florida,Gender,Male,45,Asian,No estimate,
+Florida,Gender,Male,45,Other,No estimate,
+Florida,Gender,Female,55,All voters,R+7,-7
+Florida,Gender,Female,55,White,R+2,-2
+Florida,Gender,Female,55,Black,R+6,-6
+Florida,Gender,Female,55,Hispanic,R+20,-20
+Florida,Gender,Female,55,Asian,No estimate,
+Florida,Gender,Female,55,Other,No estimate,
+Florida,Age,18-29,13,All voters,R+23,-23
+Florida,Age,18-29,13,White,R+15,-15
+Florida,Age,18-29,13,Black,R+15,-15
+Florida,Age,18-29,13,Hispanic,R+38,-38
+Florida,Age,18-29,13,Asian,No estimate,
+Florida,Age,18-29,13,Other,No estimate,
+Florida,Age,30-44,20,All voters,R+16,-16
+Florida,Age,30-44,20,White,R+8,-8
+Florida,Age,30-44,20,Black,R+17,-17
+Florida,Age,30-44,20,Hispanic,R+29,-29
+Florida,Age,30-44,20,Asian,No estimate,
+Florida,Age,30-44,20,Other,No estimate,
+Florida,Age,45-64,34,All voters,R+8,-8
+Florida,Age,45-64,34,White,R+5,-5
+Florida,Age,45-64,34,Black,R+9,-9
+Florida,Age,45-64,34,Hispanic,R+18,-18
+Florida,Age,45-64,34,Asian,No estimate,
+Florida,Age,45-64,34,Other,No estimate,
+Florida,Age,65+,33,All voters,R+1,-1
+Florida,Age,65+,33,White,R+2,-2
+Florida,Age,65+,33,Black,R+7,-7
+Florida,Age,65+,33,Hispanic,R+1,-1
+Florida,Age,65+,33,Asian,No estimate,
+Florida,Age,65+,33,Other,No estimate,
+Florida,Education,High school,29,All voters,R+14,-14
+Florida,Education,High school,29,White,R+8,-8
+Florida,Education,High school,29,Black,R+13,-13
+Florida,Education,High school,29,Hispanic,R+21,-21
+Florida,Education,High school,29,Asian,No estimate,
+Florida,Education,High school,29,Other,No estimate,
+Florida,Education,Some college,31,All voters,R+11,-11
+Florida,Education,Some college,31,White,R+7,-7
+Florida,Education,Some college,31,Black,R+12,-12
+Florida,Education,Some college,31,Hispanic,R+21,-21
+Florida,Education,Some college,31,Asian,No estimate,
+Florida,Education,Some college,31,Other,No estimate,
+Florida,Education,College grad.,24,All voters,R+6,-6
+Florida,Education,College grad.,24,White,R+1,-1
+Florida,Education,College grad.,24,Black,R+9,-9
+Florida,Education,College grad.,24,Hispanic,R+23,-23
+Florida,Education,College grad.,24,Asian,No estimate,
+Florida,Education,College grad.,24,Other,No estimate,
+Florida,Education,Postgraduate,16,All voters,R+10,-10
+Florida,Education,Postgraduate,16,White,R+7,-7
+Florida,Education,Postgraduate,16,Black,R+9,-9
+Florida,Education,Postgraduate,16,Hispanic,R+21,-21
+Florida,Education,Postgraduate,16,Asian,No estimate,
+Florida,Education,Postgraduate,16,Other,No estimate,
+Iowa,All,All,100,All voters,R+5,-5
+Iowa,All,All,100,White,R+5,-5
+Iowa,All,All,100,Black,R+12,-12
+Iowa,Gender,Male,48,All voters,R+9,-9
+Iowa,Gender,Male,48,White,R+9,-9
+Iowa,Gender,Male,48,Black,R+19,-19
+Iowa,Gender,Female,52,All voters,R+2,-2
+Iowa,Gender,Female,52,White,R+1,-1
+Iowa,Gender,Female,52,Black,R+7,-7
+Iowa,Age,18-29,16,All voters,R+18,-18
+Iowa,Age,18-29,16,White,R+18,-18
+Iowa,Age,18-29,16,Black,R+25,-25
+Iowa,Age,30-44,22,All voters,R+4,-4
+Iowa,Age,30-44,22,White,R+3,-3
+Iowa,Age,30-44,22,Black,R+12,-12
+Iowa,Age,45-64,32,All voters,R+4,-4
+Iowa,Age,45-64,32,White,R+5,-5
+Iowa,Age,45-64,32,Black,R+9,-9
+Iowa,Age,65+,30,All voters,R+1,-1
+Iowa,Age,65+,30,White,R+2,-2
+Iowa,Age,65+,30,Black,No change,0
+Iowa,Education,High school,30,All voters,R+10,-10
+Iowa,Education,High school,30,White,R+10,-10
+Iowa,Education,High school,30,Black,R+16,-16
+Iowa,Education,Some college,36,All voters,R+7,-7
+Iowa,Education,Some college,36,White,R+7,-7
+Iowa,Education,Some college,36,Black,R+12,-12
+Iowa,Education,College grad.,23,All voters,R+1,-1
+Iowa,Education,College grad.,23,White,R+1,-1
+Iowa,Education,College grad.,23,Black,R+10,-10
+Iowa,Education,Postgraduate,11,All voters,R+5,-5
+Iowa,Education,Postgraduate,11,White,R+5,-5
+Iowa,Education,Postgraduate,11,Black,R+8,-8
+Indiana,All,All,100,All voters,R+2,-2
+Indiana,All,All,100,White,R+2,-2
+Indiana,All,All,100,Black,R+10,-10
+Indiana,All,All,100,Hispanic,No estimate,
+Indiana,All,All,100,Asian,No estimate,
+Indiana,All,All,100,Other,No estimate,
+Indiana,Gender,Male,47,All voters,R+6,-6
+Indiana,Gender,Male,47,White,R+5,-5
+Indiana,Gender,Male,47,Black,R+20,-20
+Indiana,Gender,Male,47,Hispanic,No estimate,
+Indiana,Gender,Male,47,Asian,No estimate,
+Indiana,Gender,Male,47,Other,No estimate,
+Indiana,Gender,Female,53,All voters,D+1,1
+Indiana,Gender,Female,53,White,D+2,2
+Indiana,Gender,Female,53,Black,R+4,-4
+Indiana,Gender,Female,53,Hispanic,No estimate,
+Indiana,Gender,Female,53,Asian,No estimate,
+Indiana,Gender,Female,53,Other,No estimate,
+Indiana,Age,18-29,14,All voters,R+12,-12
+Indiana,Age,18-29,14,White,R+11,-11
+Indiana,Age,18-29,14,Black,R+13,-13
+Indiana,Age,18-29,14,Hispanic,No estimate,
+Indiana,Age,18-29,14,Asian,No estimate,
+Indiana,Age,18-29,14,Other,No estimate,
+Indiana,Age,30-44,21,All voters,R+1,-1
+Indiana,Age,30-44,21,White,D+1,1
+Indiana,Age,30-44,21,Black,R+16,-16
+Indiana,Age,30-44,21,Hispanic,No estimate,
+Indiana,Age,30-44,21,Asian,No estimate,
+Indiana,Age,30-44,21,Other,No estimate,
+Indiana,Age,45-64,35,All voters,R+1,-1
+Indiana,Age,45-64,35,White,R+1,-1
+Indiana,Age,45-64,35,Black,R+10,-10
+Indiana,Age,45-64,35,Hispanic,No estimate,
+Indiana,Age,45-64,35,Asian,No estimate,
+Indiana,Age,45-64,35,Other,No estimate,
+Indiana,Age,65+,30,All voters,No change,0
+Indiana,Age,65+,30,White,No change,0
+Indiana,Age,65+,30,Black,R+6,-6
+Indiana,Age,65+,30,Hispanic,No estimate,
+Indiana,Age,65+,30,Asian,No estimate,
+Indiana,Age,65+,30,Other,No estimate,
+Indiana,Education,High school,34,All voters,R+6,-6
+Indiana,Education,High school,34,White,R+6,-6
+Indiana,Education,High school,34,Black,R+12,-12
+Indiana,Education,High school,34,Hispanic,No estimate,
+Indiana,Education,High school,34,Asian,No estimate,
+Indiana,Education,High school,34,Other,No estimate,
+Indiana,Education,Some college,31,All voters,R+2,-2
+Indiana,Education,Some college,31,White,R+2,-2
+Indiana,Education,Some college,31,Black,R+10,-10
+Indiana,Education,Some college,31,Hispanic,No estimate,
+Indiana,Education,Some college,31,Asian,No estimate,
+Indiana,Education,Some college,31,Other,No estimate,
+Indiana,Education,College grad.,23,All voters,R+1,-1
+Indiana,Education,College grad.,23,White,No change,0
+Indiana,Education,College grad.,23,Black,R+7,-7
+Indiana,Education,College grad.,23,Hispanic,No estimate,
+Indiana,Education,College grad.,23,Asian,No estimate,
+Indiana,Education,College grad.,23,Other,No estimate,
+Indiana,Education,Postgraduate,13,All voters,R+5,-5
+Indiana,Education,Postgraduate,13,White,R+4,-4
+Indiana,Education,Postgraduate,13,Black,R+10,-10
+Indiana,Education,Postgraduate,13,Hispanic,No estimate,
+Indiana,Education,Postgraduate,13,Asian,No estimate,
+Indiana,Education,Postgraduate,13,Other,No estimate,
+Kentucky,All,All,100,All voters,R+5,-5
+Kentucky,All,All,100,White,R+4,-4
+Kentucky,All,All,100,Black,R+10,-10
+Kentucky,All,All,100,Hispanic,No estimate,
+Kentucky,All,All,100,Asian,No estimate,
+Kentucky,All,All,100,Other,No estimate,
+Kentucky,Gender,Male,46,All voters,R+8,-8
+Kentucky,Gender,Male,46,White,R+7,-7
+Kentucky,Gender,Male,46,Black,R+18,-18
+Kentucky,Gender,Male,46,Hispanic,No estimate,
+Kentucky,Gender,Male,46,Asian,No estimate,
+Kentucky,Gender,Male,46,Other,No estimate,
+Kentucky,Gender,Female,54,All voters,R+2,-2
+Kentucky,Gender,Female,54,White,R+1,-1
+Kentucky,Gender,Female,54,Black,R+6,-6
+Kentucky,Gender,Female,54,Hispanic,No estimate,
+Kentucky,Gender,Female,54,Asian,No estimate,
+Kentucky,Gender,Female,54,Other,No estimate,
+Kentucky,Age,18-29,14,All voters,R+18,-18
+Kentucky,Age,18-29,14,White,R+17,-17
+Kentucky,Age,18-29,14,Black,R+21,-21
+Kentucky,Age,18-29,14,Hispanic,No estimate,
+Kentucky,Age,18-29,14,Asian,No estimate,
+Kentucky,Age,18-29,14,Other,No estimate,
+Kentucky,Age,30-44,22,All voters,R+2,-2
+Kentucky,Age,30-44,22,White,No change,0
+Kentucky,Age,30-44,22,Black,R+14,-14
+Kentucky,Age,30-44,22,Hispanic,No estimate,
+Kentucky,Age,30-44,22,Asian,No estimate,
+Kentucky,Age,30-44,22,Other,No estimate,
+Kentucky,Age,45-64,35,All voters,R+5,-5
+Kentucky,Age,45-64,35,White,R+4,-4
+Kentucky,Age,45-64,35,Black,R+8,-8
+Kentucky,Age,45-64,35,Hispanic,No estimate,
+Kentucky,Age,45-64,35,Asian,No estimate,
+Kentucky,Age,45-64,35,Other,No estimate,
+Kentucky,Age,65+,29,All voters,R+1,-1
+Kentucky,Age,65+,29,White,R+1,-1
+Kentucky,Age,65+,29,Black,R+4,-4
+Kentucky,Age,65+,29,Hispanic,No estimate,
+Kentucky,Age,65+,29,Asian,No estimate,
+Kentucky,Age,65+,29,Other,No estimate,
+Kentucky,Education,High school,37,All voters,R+11,-11
+Kentucky,Education,High school,37,White,R+9,-9
+Kentucky,Education,High school,37,Black,R+14,-14
+Kentucky,Education,High school,37,Hispanic,No estimate,
+Kentucky,Education,High school,37,Asian,No estimate,
+Kentucky,Education,High school,37,Other,No estimate,
+Kentucky,Education,Some college,31,All voters,R+5,-5
+Kentucky,Education,Some college,31,White,R+4,-4
+Kentucky,Education,Some college,31,Black,R+11,-11
+Kentucky,Education,Some college,31,Hispanic,No estimate,
+Kentucky,Education,Some college,31,Asian,No estimate,
+Kentucky,Education,Some college,31,Other,No estimate,
+Kentucky,Education,College grad.,18,All voters,D+1,1
+Kentucky,Education,College grad.,18,White,D+1,1
+Kentucky,Education,College grad.,18,Black,R+4,-4
+Kentucky,Education,College grad.,18,Hispanic,No estimate,
+Kentucky,Education,College grad.,18,Asian,No estimate,
+Kentucky,Education,College grad.,18,Other,No estimate,
+Kentucky,Education,Postgraduate,13,All voters,R+1,-1
+Kentucky,Education,Postgraduate,13,White,R+1,-1
+Kentucky,Education,Postgraduate,13,Black,R+7,-7
+Kentucky,Education,Postgraduate,13,Hispanic,No estimate,
+Kentucky,Education,Postgraduate,13,Asian,No estimate,
+Kentucky,Education,Postgraduate,13,Other,No estimate,
+Maine,All,All,100,All voters,R+3,-3
+Maine,All,All,100,White,R+2,-2
+Maine,All,All,100,Black,R+17,-17
+Maine,Gender,Male,48,All voters,R+6,-6
+Maine,Gender,Male,48,White,R+5,-5
+Maine,Gender,Male,48,Black,No estimate,
+Maine,Gender,Female,52,All voters,No change,0
+Maine,Gender,Female,52,White,D+1,1
+Maine,Gender,Female,52,Black,No estimate,
+Maine,Age,18-29,13,All voters,R+19,-19
+Maine,Age,18-29,13,White,R+18,-18
+Maine,Age,18-29,13,Black,No estimate,
+Maine,Age,30-44,21,All voters,D+1,1
+Maine,Age,30-44,21,White,D+2,2
+Maine,Age,30-44,21,Black,No estimate,
+Maine,Age,45-64,33,All voters,R+4,-4
+Maine,Age,45-64,33,White,R+4,-4
+Maine,Age,45-64,33,Black,No estimate,
+Maine,Age,65+,33,All voters,D+2,2
+Maine,Age,65+,33,White,D+2,2
+Maine,Age,65+,33,Black,No estimate,
+Maine,Education,High school,32,All voters,R+8,-8
+Maine,Education,High school,32,White,R+8,-8
+Maine,Education,High school,32,Black,No estimate,
+Maine,Education,Some college,30,All voters,R+6,-6
+Maine,Education,Some college,30,White,R+5,-5
+Maine,Education,Some college,30,Black,No estimate,
+Maine,Education,College grad.,23,All voters,R+1,-1
+Maine,Education,College grad.,23,White,No change,0
+Maine,Education,College grad.,23,Black,No estimate,
+Maine,Education,Postgraduate,15,All voters,D+1,1
+Maine,Education,Postgraduate,15,White,D+2,2
+Maine,Education,Postgraduate,15,Black,No estimate,
+Kansas,All,All,100,All voters,R+2,-2
+Kansas,All,All,100,White,R+1,-1
+Kansas,All,All,100,Black,R+13,-13
+Kansas,All,All,100,Hispanic,R+13,-13
+Kansas,All,All,100,Asian,No estimate,
+Kansas,All,All,100,Other,No estimate,
+Kansas,Gender,Male,47,All voters,R+5,-5
+Kansas,Gender,Male,47,White,R+5,-5
+Kansas,Gender,Male,47,Black,R+22,-22
+Kansas,Gender,Male,47,Hispanic,R+16,-16
+Kansas,Gender,Male,47,Asian,No estimate,
+Kansas,Gender,Male,47,Other,No estimate,
+Kansas,Gender,Female,53,All voters,D+2,2
+Kansas,Gender,Female,53,White,D+2,2
+Kansas,Gender,Female,53,Black,R+8,-8
+Kansas,Gender,Female,53,Hispanic,R+11,-11
+Kansas,Gender,Female,53,Asian,No estimate,
+Kansas,Gender,Female,53,Other,No estimate,
+Kansas,Age,18-29,15,All voters,R+10,-10
+Kansas,Age,18-29,15,White,R+10,-10
+Kansas,Age,18-29,15,Black,R+19,-19
+Kansas,Age,18-29,15,Hispanic,R+24,-24
+Kansas,Age,18-29,15,Asian,No estimate,
+Kansas,Age,18-29,15,Other,No estimate,
+Kansas,Age,30-44,22,All voters,R+2,-2
+Kansas,Age,30-44,22,White,R+1,-1
+Kansas,Age,30-44,22,Black,R+17,-17
+Kansas,Age,30-44,22,Hispanic,R+13,-13
+Kansas,Age,30-44,22,Asian,No estimate,
+Kansas,Age,30-44,22,Other,No estimate,
+Kansas,Age,45-64,33,All voters,D+1,1
+Kansas,Age,45-64,33,White,D+1,1
+Kansas,Age,45-64,33,Black,R+12,-12
+Kansas,Age,45-64,33,Hispanic,R+7,-7
+Kansas,Age,45-64,33,Asian,No estimate,
+Kansas,Age,45-64,33,Other,No estimate,
+Kansas,Age,65+,30,All voters,No change,0
+Kansas,Age,65+,30,White,R+1,-1
+Kansas,Age,65+,30,Black,R+7,-7
+Kansas,Age,65+,30,Hispanic,D+1,1
+Kansas,Age,65+,30,Asian,No estimate,
+Kansas,Age,65+,30,Other,No estimate,
+Kansas,Education,High school,26,All voters,R+5,-5
+Kansas,Education,High school,26,White,R+5,-5
+Kansas,Education,High school,26,Black,R+16,-16
+Kansas,Education,High school,26,Hispanic,R+16,-16
+Kansas,Education,High school,26,Asian,No estimate,
+Kansas,Education,High school,26,Other,No estimate,
+Kansas,Education,Some college,34,All voters,R+2,-2
+Kansas,Education,Some college,34,White,R+2,-2
+Kansas,Education,Some college,34,Black,R+14,-14
+Kansas,Education,Some college,34,Hispanic,R+14,-14
+Kansas,Education,Some college,34,Asian,No estimate,
+Kansas,Education,Some college,34,Other,No estimate,
+Kansas,Education,College grad.,26,All voters,D+1,1
+Kansas,Education,College grad.,26,White,D+1,1
+Kansas,Education,College grad.,26,Black,R+9,-9
+Kansas,Education,College grad.,26,Hispanic,R+9,-9
+Kansas,Education,College grad.,26,Asian,No estimate,
+Kansas,Education,College grad.,26,Other,No estimate,
+Kansas,Education,Postgraduate,15,All voters,R+5,-5
+Kansas,Education,Postgraduate,15,White,R+5,-5
+Kansas,Education,Postgraduate,15,Black,R+12,-12
+Kansas,Education,Postgraduate,15,Hispanic,R+10,-10
+Kansas,Education,Postgraduate,15,Asian,No estimate,
+Kansas,Education,Postgraduate,15,Other,No estimate,
+Maryland,All,All,100,All voters,R+4,-4
+Maryland,All,All,100,White,R+1,-1
+Maryland,All,All,100,Black,R+8,-8
+Maryland,All,All,100,Hispanic,No estimate,
+Maryland,All,All,100,Asian,R+14,-14
+Maryland,All,All,100,Other,No estimate,
+Maryland,Gender,Male,44,All voters,R+8,-8
+Maryland,Gender,Male,44,White,R+4,-4
+Maryland,Gender,Male,44,Black,R+15,-15
+Maryland,Gender,Male,44,Hispanic,No estimate,
+Maryland,Gender,Male,44,Asian,R+16,-16
+Maryland,Gender,Male,44,Other,No estimate,
+Maryland,Gender,Female,56,All voters,R+2,-2
+Maryland,Gender,Female,56,White,D+1,1
+Maryland,Gender,Female,56,Black,R+4,-4
+Maryland,Gender,Female,56,Hispanic,No estimate,
+Maryland,Gender,Female,56,Asian,No estimate,
+Maryland,Gender,Female,56,Other,No estimate,
+Maryland,Age,18-29,14,All voters,R+11,-11
+Maryland,Age,18-29,14,White,R+10,-10
+Maryland,Age,18-29,14,Black,R+10,-10
+Maryland,Age,18-29,14,Hispanic,No estimate,
+Maryland,Age,18-29,14,Asian,No estimate,
+Maryland,Age,18-29,14,Other,No estimate,
+Maryland,Age,30-44,24,All voters,R+8,-8
+Maryland,Age,30-44,24,White,R+3,-3
+Maryland,Age,30-44,24,Black,R+13,-13
+Maryland,Age,30-44,24,Hispanic,No estimate,
+Maryland,Age,30-44,24,Asian,No estimate,
+Maryland,Age,30-44,24,Other,No estimate,
+Maryland,Age,45-64,35,All voters,R+2,-2
+Maryland,Age,45-64,35,White,R+1,-1
+Maryland,Age,45-64,35,Black,R+7,-7
+Maryland,Age,45-64,35,Hispanic,No estimate,
+Maryland,Age,45-64,35,Asian,No estimate,
+Maryland,Age,45-64,35,Other,No estimate,
+Maryland,Age,65+,27,All voters,No change,0
+Maryland,Age,65+,27,White,D+1,1
+Maryland,Age,65+,27,Black,R+4,-4
+Maryland,Age,65+,27,Hispanic,No estimate,
+Maryland,Age,65+,27,Asian,No estimate,
+Maryland,Age,65+,27,Other,No estimate,
+Maryland,Education,High school,26,All voters,R+8,-8
+Maryland,Education,High school,26,White,R+7,-7
+Maryland,Education,High school,26,Black,R+10,-10
+Maryland,Education,High school,26,Hispanic,No estimate,
+Maryland,Education,High school,26,Asian,No estimate,
+Maryland,Education,High school,26,Other,No estimate,
+Maryland,Education,Some college,26,All voters,R+6,-6
+Maryland,Education,Some college,26,White,R+6,-6
+Maryland,Education,Some college,26,Black,R+8,-8
+Maryland,Education,Some college,26,Hispanic,No estimate,
+Maryland,Education,Some college,26,Asian,No estimate,
+Maryland,Education,Some college,26,Other,No estimate,
+Maryland,Education,College grad.,25,All voters,R+3,-3
+Maryland,Education,College grad.,25,White,R+1,-1
+Maryland,Education,College grad.,25,Black,R+6,-6
+Maryland,Education,College grad.,25,Hispanic,No estimate,
+Maryland,Education,College grad.,25,Asian,No estimate,
+Maryland,Education,College grad.,25,Other,No estimate,
+Maryland,Education,Postgraduate,23,All voters,R+4,-4
+Maryland,Education,Postgraduate,23,White,R+1,-1
+Maryland,Education,Postgraduate,23,Black,R+7,-7
+Maryland,Education,Postgraduate,23,Hispanic,No estimate,
+Maryland,Education,Postgraduate,23,Asian,No estimate,
+Maryland,Education,Postgraduate,23,Other,No estimate,
+Illinois,All,All,100,All voters,R+6,-6
+Illinois,All,All,100,White,R+2,-2
+Illinois,All,All,100,Black,R+9,-9
+Illinois,All,All,100,Hispanic,R+27,-27
+Illinois,All,All,100,Asian,R+16,-16
+Illinois,All,All,100,Other,No estimate,
+Illinois,Gender,Male,46,All voters,R+10,-10
+Illinois,Gender,Male,46,White,R+6,-6
+Illinois,Gender,Male,46,Black,R+17,-17
+Illinois,Gender,Male,46,Hispanic,R+30,-30
+Illinois,Gender,Male,46,Asian,R+15,-15
+Illinois,Gender,Male,46,Other,No estimate,
+Illinois,Gender,Female,54,All voters,R+3,-3
+Illinois,Gender,Female,54,White,D+1,1
+Illinois,Gender,Female,54,Black,R+4,-4
+Illinois,Gender,Female,54,Hispanic,R+24,-24
+Illinois,Gender,Female,54,Asian,No estimate,
+Illinois,Gender,Female,54,Other,No estimate,
+Illinois,Age,18-29,14,All voters,R+19,-19
+Illinois,Age,18-29,14,White,R+14,-14
+Illinois,Age,18-29,14,Black,R+12,-12
+Illinois,Age,18-29,14,Hispanic,R+40,-40
+Illinois,Age,18-29,14,Asian,No estimate,
+Illinois,Age,18-29,14,Other,No estimate,
+Illinois,Age,30-44,23,All voters,R+9,-9
+Illinois,Age,30-44,23,White,R+3,-3
+Illinois,Age,30-44,23,Black,R+16,-16
+Illinois,Age,30-44,23,Hispanic,R+31,-31
+Illinois,Age,30-44,23,Asian,No estimate,
+Illinois,Age,30-44,23,Other,No estimate,
+Illinois,Age,45-64,34,All voters,R+4,-4
+Illinois,Age,45-64,34,White,R+1,-1
+Illinois,Age,45-64,34,Black,R+8,-8
+Illinois,Age,45-64,34,Hispanic,R+20,-20
+Illinois,Age,45-64,34,Asian,No estimate,
+Illinois,Age,45-64,34,Other,No estimate,
+Illinois,Age,65+,29,All voters,D+2,2
+Illinois,Age,65+,29,White,D+3,3
+Illinois,Age,65+,29,Black,R+5,-5
+Illinois,Age,65+,29,Hispanic,R+5,-5
+Illinois,Age,65+,29,Asian,No estimate,
+Illinois,Age,65+,29,Other,No estimate,
+Illinois,Education,High school,26,All voters,R+12,-12
+Illinois,Education,High school,26,White,R+7,-7
+Illinois,Education,High school,26,Black,R+11,-11
+Illinois,Education,High school,26,Hispanic,R+38,-38
+Illinois,Education,High school,26,Asian,No estimate,
+Illinois,Education,High school,26,Other,No estimate,
+Illinois,Education,Some college,30,All voters,R+5,-5
+Illinois,Education,Some college,30,White,R+2,-2
+Illinois,Education,Some college,30,Black,R+9,-9
+Illinois,Education,Some college,30,Hispanic,R+25,-25
+Illinois,Education,Some college,30,Asian,No estimate,
+Illinois,Education,Some college,30,Other,No estimate,
+Illinois,Education,College grad.,26,All voters,R+5,-5
+Illinois,Education,College grad.,26,White,R+3,-3
+Illinois,Education,College grad.,26,Black,R+7,-7
+Illinois,Education,College grad.,26,Hispanic,R+17,-17
+Illinois,Education,College grad.,26,Asian,No estimate,
+Illinois,Education,College grad.,26,Other,No estimate,
+Illinois,Education,Postgraduate,18,All voters,R+7,-7
+Illinois,Education,Postgraduate,18,White,R+6,-6
+Illinois,Education,Postgraduate,18,Black,R+7,-7
+Illinois,Education,Postgraduate,18,Hispanic,R+14,-14
+Illinois,Education,Postgraduate,18,Asian,No estimate,
+Illinois,Education,Postgraduate,18,Other,No estimate,
+Louisiana,All,All,100,All voters,R+2,-2
+Louisiana,All,All,100,White,D+2,2
+Louisiana,All,All,100,Black,R+7,-7
+Louisiana,All,All,100,Hispanic,No estimate,
+Louisiana,All,All,100,Asian,No estimate,
+Louisiana,All,All,100,Other,No estimate,
+Louisiana,Gender,Male,44,All voters,R+6,-6
+Louisiana,Gender,Male,44,White,No change,0
+Louisiana,Gender,Male,44,Black,R+14,-14
+Louisiana,Gender,Male,44,Hispanic,No estimate,
+Louisiana,Gender,Male,44,Asian,No estimate,
+Louisiana,Gender,Male,44,Other,No estimate,
+Louisiana,Gender,Female,56,All voters,No change,0
+Louisiana,Gender,Female,56,White,D+4,4
+Louisiana,Gender,Female,56,Black,R+2,-2
+Louisiana,Gender,Female,56,Hispanic,No estimate,
+Louisiana,Gender,Female,56,Asian,No estimate,
+Louisiana,Gender,Female,56,Other,No estimate,
+Louisiana,Age,18-29,13,All voters,R+13,-13
+Louisiana,Age,18-29,13,White,R+6,-6
+Louisiana,Age,18-29,13,Black,R+13,-13
+Louisiana,Age,18-29,13,Hispanic,No estimate,
+Louisiana,Age,18-29,13,Asian,No estimate,
+Louisiana,Age,18-29,13,Other,No estimate,
+Louisiana,Age,30-44,22,All voters,R+3,-3
+Louisiana,Age,30-44,22,White,D+5,5
+Louisiana,Age,30-44,22,Black,R+11,-11
+Louisiana,Age,30-44,22,Hispanic,No estimate,
+Louisiana,Age,30-44,22,Asian,No estimate,
+Louisiana,Age,30-44,22,Other,No estimate,
+Louisiana,Age,45-64,35,All voters,R+2,-2
+Louisiana,Age,45-64,35,White,D+2,2
+Louisiana,Age,45-64,35,Black,R+6,-6
+Louisiana,Age,45-64,35,Hispanic,No estimate,
+Louisiana,Age,45-64,35,Asian,No estimate,
+Louisiana,Age,45-64,35,Other,No estimate,
+Louisiana,Age,65+,31,All voters,D+2,2
+Louisiana,Age,65+,31,White,D+2,2
+Louisiana,Age,65+,31,Black,R+3,-3
+Louisiana,Age,65+,31,Hispanic,No estimate,
+Louisiana,Age,65+,31,Asian,No estimate,
+Louisiana,Age,65+,31,Other,No estimate,
+Louisiana,Education,High school,38,All voters,R+9,-9
+Louisiana,Education,High school,38,White,R+2,-2
+Louisiana,Education,High school,38,Black,R+9,-9
+Louisiana,Education,High school,38,Hispanic,No estimate,
+Louisiana,Education,High school,38,Asian,No estimate,
+Louisiana,Education,High school,38,Other,No estimate,
+Louisiana,Education,Some college,31,All voters,R+1,-1
+Louisiana,Education,Some college,31,White,D+1,1
+Louisiana,Education,Some college,31,Black,R+6,-6
+Louisiana,Education,Some college,31,Hispanic,No estimate,
+Louisiana,Education,Some college,31,Asian,No estimate,
+Louisiana,Education,Some college,31,Other,No estimate,
+Louisiana,Education,College grad.,19,All voters,D+5,5
+Louisiana,Education,College grad.,19,White,D+7,7
+Louisiana,Education,College grad.,19,Black,R+3,-3
+Louisiana,Education,College grad.,19,Hispanic,No estimate,
+Louisiana,Education,College grad.,19,Asian,No estimate,
+Louisiana,Education,College grad.,19,Other,No estimate,
+Louisiana,Education,Postgraduate,12,All voters,D+1,1
+Louisiana,Education,Postgraduate,12,White,D+6,6
+Louisiana,Education,Postgraduate,12,Black,R+4,-4
+Louisiana,Education,Postgraduate,12,Hispanic,No estimate,
+Louisiana,Education,Postgraduate,12,Asian,No estimate,
+Louisiana,Education,Postgraduate,12,Other,No estimate,
+New Hampshire,All,All,100,All voters,R+5,-5
+New Hampshire,All,All,100,White,R+4,-4
+New Hampshire,All,All,100,Black,R+14,-14
+New Hampshire,Gender,Male,49,All voters,R+7,-7
+New Hampshire,Gender,Male,49,White,R+7,-7
+New Hampshire,Gender,Male,49,Black,No estimate,
+New Hampshire,Gender,Female,51,All voters,R+2,-2
+New Hampshire,Gender,Female,51,White,R+1,-1
+New Hampshire,Gender,Female,51,Black,No estimate,
+New Hampshire,Age,18-29,13,All voters,R+16,-16
+New Hampshire,Age,18-29,13,White,R+16,-16
+New Hampshire,Age,18-29,13,Black,No estimate,
+New Hampshire,Age,30-44,20,All voters,R+5,-5
+New Hampshire,Age,30-44,20,White,R+4,-4
+New Hampshire,Age,30-44,20,Black,No estimate,
+New Hampshire,Age,45-64,35,All voters,R+4,-4
+New Hampshire,Age,45-64,35,White,R+4,-4
+New Hampshire,Age,45-64,35,Black,No estimate,
+New Hampshire,Age,65+,31,All voters,No change,0
+New Hampshire,Age,65+,31,White,No change,0
+New Hampshire,Age,65+,31,Black,No estimate,
+New Hampshire,Education,High school,29,All voters,R+6,-6
+New Hampshire,Education,High school,29,White,R+6,-6
+New Hampshire,Education,High school,29,Black,No estimate,
+New Hampshire,Education,Some college,29,All voters,R+5,-5
+New Hampshire,Education,Some college,29,White,R+4,-4
+New Hampshire,Education,Some college,29,Black,No estimate,
+New Hampshire,Education,College grad.,25,All voters,R+7,-7
+New Hampshire,Education,College grad.,25,White,R+6,-6
+New Hampshire,Education,College grad.,25,Black,No estimate,
+New Hampshire,Education,Postgraduate,16,All voters,R+4,-4
+New Hampshire,Education,Postgraduate,16,White,R+3,-3
+New Hampshire,Education,Postgraduate,16,Black,No estimate,
+Michigan,All,All,100,All voters,R+4,-4
+Michigan,All,All,100,White,R+3,-3
+Michigan,All,All,100,Black,R+9,-9
+Michigan,All,All,100,Hispanic,No estimate,
+Michigan,All,All,100,Asian,No estimate,
+Michigan,All,All,100,Other,No estimate,
+Michigan,Gender,Male,47,All voters,R+9,-9
+Michigan,Gender,Male,47,White,R+8,-8
+Michigan,Gender,Male,47,Black,No estimate,
+Michigan,Gender,Male,47,Hispanic,No estimate,
+Michigan,Gender,Male,47,Asian,No estimate,
+Michigan,Gender,Male,47,Other,No estimate,
+Michigan,Gender,Female,53,All voters,No change,0
+Michigan,Gender,Female,53,White,D+1,1
+Michigan,Gender,Female,53,Black,R+4,-4
+Michigan,Gender,Female,53,Hispanic,No estimate,
+Michigan,Gender,Female,53,Asian,No estimate,
+Michigan,Gender,Female,53,Other,No estimate,
+Michigan,Age,18-29,16,All voters,R+21,-21
+Michigan,Age,18-29,16,White,R+21,-21
+Michigan,Age,18-29,16,Black,No estimate,
+Michigan,Age,18-29,16,Hispanic,No estimate,
+Michigan,Age,18-29,16,Asian,No estimate,
+Michigan,Age,18-29,16,Other,No estimate,
+Michigan,Age,30-44,22,All voters,R+4,-4
+Michigan,Age,30-44,22,White,R+1,-1
+Michigan,Age,30-44,22,Black,No estimate,
+Michigan,Age,30-44,22,Hispanic,No estimate,
+Michigan,Age,30-44,22,Asian,No estimate,
+Michigan,Age,30-44,22,Other,No estimate,
+Michigan,Age,45-64,33,All voters,R+3,-3
+Michigan,Age,45-64,33,White,R+2,-2
+Michigan,Age,45-64,33,Black,No estimate,
+Michigan,Age,45-64,33,Hispanic,No estimate,
+Michigan,Age,45-64,33,Asian,No estimate,
+Michigan,Age,45-64,33,Other,No estimate,
+Michigan,Age,65+,29,All voters,D+1,1
+Michigan,Age,65+,29,White,D+2,2
+Michigan,Age,65+,29,Black,No estimate,
+Michigan,Age,65+,29,Hispanic,No estimate,
+Michigan,Age,65+,29,Asian,No estimate,
+Michigan,Age,65+,29,Other,No estimate,
+Michigan,Education,High school,31,All voters,R+6,-6
+Michigan,Education,High school,31,White,R+4,-4
+Michigan,Education,High school,31,Black,No estimate,
+Michigan,Education,High school,31,Hispanic,No estimate,
+Michigan,Education,High school,31,Asian,No estimate,
+Michigan,Education,High school,31,Other,No estimate,
+Michigan,Education,Some college,33,All voters,R+4,-4
+Michigan,Education,Some college,33,White,R+4,-4
+Michigan,Education,Some college,33,Black,No estimate,
+Michigan,Education,Some college,33,Hispanic,No estimate,
+Michigan,Education,Some college,33,Asian,No estimate,
+Michigan,Education,Some college,33,Other,No estimate,
+Michigan,Education,College grad.,22,All voters,R+5,-5
+Michigan,Education,College grad.,22,White,R+3,-3
+Michigan,Education,College grad.,22,Black,No estimate,
+Michigan,Education,College grad.,22,Hispanic,No estimate,
+Michigan,Education,College grad.,22,Asian,No estimate,
+Michigan,Education,College grad.,22,Other,No estimate,
+Michigan,Education,Postgraduate,13,All voters,R+5,-5
+Michigan,Education,Postgraduate,13,White,R+5,-5
+Michigan,Education,Postgraduate,13,Black,No estimate,
+Michigan,Education,Postgraduate,13,Hispanic,No estimate,
+Michigan,Education,Postgraduate,13,Asian,No estimate,
+Michigan,Education,Postgraduate,13,Other,No estimate,
+Nevada,All,All,100,All voters,R+6,-6
+Nevada,All,All,100,White,R+4,-4
+Nevada,All,All,100,Black,R+11,-11
+Nevada,All,All,100,Hispanic,R+15,-15
+Nevada,All,All,100,Asian,R+2,-2
+Nevada,All,All,100,Other,No estimate,
+Nevada,Gender,Male,49,All voters,R+8,-8
+Nevada,Gender,Male,49,White,R+5,-5
+Nevada,Gender,Male,49,Black,R+18,-18
+Nevada,Gender,Male,49,Hispanic,R+18,-18
+Nevada,Gender,Male,49,Asian,No estimate,
+Nevada,Gender,Male,49,Other,No estimate,
+Nevada,Gender,Female,51,All voters,R+3,-3
+Nevada,Gender,Female,51,White,R+1,-1
+Nevada,Gender,Female,51,Black,R+5,-5
+Nevada,Gender,Female,51,Hispanic,R+12,-12
+Nevada,Gender,Female,51,Asian,No estimate,
+Nevada,Gender,Female,51,Other,No estimate,
+Nevada,Age,18-29,16,All voters,R+14,-14
+Nevada,Age,18-29,16,White,R+10,-10
+Nevada,Age,18-29,16,Black,R+14,-14
+Nevada,Age,18-29,16,Hispanic,R+24,-24
+Nevada,Age,18-29,16,Asian,No estimate,
+Nevada,Age,18-29,16,Other,No estimate,
+Nevada,Age,30-44,24,All voters,R+8,-8
+Nevada,Age,30-44,24,White,R+5,-5
+Nevada,Age,30-44,24,Black,R+16,-16
+Nevada,Age,30-44,24,Hispanic,R+18,-18
+Nevada,Age,30-44,24,Asian,No estimate,
+Nevada,Age,30-44,24,Other,No estimate,
+Nevada,Age,45-64,33,All voters,R+4,-4
+Nevada,Age,45-64,33,White,R+4,-4
+Nevada,Age,45-64,33,Black,R+10,-10
+Nevada,Age,45-64,33,Hispanic,R+9,-9
+Nevada,Age,45-64,33,Asian,No estimate,
+Nevada,Age,45-64,33,Other,No estimate,
+Nevada,Age,65+,28,All voters,No change,0
+Nevada,Age,65+,28,White,R+1,-1
+Nevada,Age,65+,28,Black,R+4,-4
+Nevada,Age,65+,28,Hispanic,D+2,2
+Nevada,Age,65+,28,Asian,No estimate,
+Nevada,Age,65+,28,Other,No estimate,
+Nevada,Education,High school,33,All voters,R+7,-7
+Nevada,Education,High school,33,White,R+4,-4
+Nevada,Education,High school,33,Black,R+13,-13
+Nevada,Education,High school,33,Hispanic,R+18,-18
+Nevada,Education,High school,33,Asian,No estimate,
+Nevada,Education,High school,33,Other,No estimate,
+Nevada,Education,Some college,35,All voters,R+5,-5
+Nevada,Education,Some college,35,White,R+2,-2
+Nevada,Education,Some college,35,Black,R+11,-11
+Nevada,Education,Some college,35,Hispanic,R+15,-15
+Nevada,Education,Some college,35,Asian,No estimate,
+Nevada,Education,Some college,35,Other,No estimate,
+Nevada,Education,College grad.,21,All voters,R+4,-4
+Nevada,Education,College grad.,21,White,R+3,-3
+Nevada,Education,College grad.,21,Black,R+4,-4
+Nevada,Education,College grad.,21,Hispanic,R+11,-11
+Nevada,Education,College grad.,21,Asian,No estimate,
+Nevada,Education,College grad.,21,Other,No estimate,
+Nevada,Education,Postgraduate,11,All voters,R+7,-7
+Nevada,Education,Postgraduate,11,White,R+8,-8
+Nevada,Education,Postgraduate,11,Black,R+12,-12
+Nevada,Education,Postgraduate,11,Hispanic,R+8,-8
+Nevada,Education,Postgraduate,11,Asian,No estimate,
+Nevada,Education,Postgraduate,11,Other,No estimate,
+Mississippi,All,All,100,All voters,R+6,-6
+Mississippi,All,All,100,White,R+1,-1
+Mississippi,All,All,100,Black,R+7,-7
+Mississippi,All,All,100,Hispanic,No estimate,
+Mississippi,All,All,100,Asian,No estimate,
+Mississippi,All,All,100,Other,No estimate,
+Mississippi,Gender,Male,45,All voters,R+10,-10
+Mississippi,Gender,Male,45,White,R+4,-4
+Mississippi,Gender,Male,45,Black,R+14,-14
+Mississippi,Gender,Male,45,Hispanic,No estimate,
+Mississippi,Gender,Male,45,Asian,No estimate,
+Mississippi,Gender,Male,45,Other,No estimate,
+Mississippi,Gender,Female,55,All voters,R+2,-2
+Mississippi,Gender,Female,55,White,D+1,1
+Mississippi,Gender,Female,55,Black,R+2,-2
+Mississippi,Gender,Female,55,Hispanic,No estimate,
+Mississippi,Gender,Female,55,Asian,No estimate,
+Mississippi,Gender,Female,55,Other,No estimate,
+Mississippi,Age,18-29,11,All voters,R+15,-15
+Mississippi,Age,18-29,11,White,R+6,-6
+Mississippi,Age,18-29,11,Black,R+13,-13
+Mississippi,Age,18-29,11,Hispanic,No estimate,
+Mississippi,Age,18-29,11,Asian,No estimate,
+Mississippi,Age,18-29,11,Other,No estimate,
+Mississippi,Age,30-44,18,All voters,R+10,-10
+Mississippi,Age,30-44,18,White,R+1,-1
+Mississippi,Age,30-44,18,Black,R+13,-13
+Mississippi,Age,30-44,18,Hispanic,No estimate,
+Mississippi,Age,30-44,18,Asian,No estimate,
+Mississippi,Age,30-44,18,Other,No estimate,
+Mississippi,Age,45-64,38,All voters,R+4,-4
+Mississippi,Age,45-64,38,White,R+2,-2
+Mississippi,Age,45-64,38,Black,R+6,-6
+Mississippi,Age,45-64,38,Hispanic,No estimate,
+Mississippi,Age,45-64,38,Asian,No estimate,
+Mississippi,Age,45-64,38,Other,No estimate,
+Mississippi,Age,65+,33,All voters,D+1,1
+Mississippi,Age,65+,33,White,D+1,1
+Mississippi,Age,65+,33,Black,R+3,-3
+Mississippi,Age,65+,33,Hispanic,No estimate,
+Mississippi,Age,65+,33,Asian,No estimate,
+Mississippi,Age,65+,33,Other,No estimate,
+Mississippi,Education,High school,34,All voters,R+10,-10
+Mississippi,Education,High school,34,White,R+3,-3
+Mississippi,Education,High school,34,Black,R+8,-8
+Mississippi,Education,High school,34,Hispanic,No estimate,
+Mississippi,Education,High school,34,Asian,No estimate,
+Mississippi,Education,High school,34,Other,No estimate,
+Mississippi,Education,Some college,35,All voters,R+4,-4
+Mississippi,Education,Some college,35,White,R+2,-2
+Mississippi,Education,Some college,35,Black,R+6,-6
+Mississippi,Education,Some college,35,Hispanic,No estimate,
+Mississippi,Education,Some college,35,Asian,No estimate,
+Mississippi,Education,Some college,35,Other,No estimate,
+Mississippi,Education,College grad.,19,All voters,R+1,-1
+Mississippi,Education,College grad.,19,White,D+1,1
+Mississippi,Education,College grad.,19,Black,R+4,-4
+Mississippi,Education,College grad.,19,Hispanic,No estimate,
+Mississippi,Education,College grad.,19,Asian,No estimate,
+Mississippi,Education,College grad.,19,Other,No estimate,
+Mississippi,Education,Postgraduate,12,All voters,R+7,-7
+Mississippi,Education,Postgraduate,12,White,R+3,-3
+Mississippi,Education,Postgraduate,12,Black,R+6,-6
+Mississippi,Education,Postgraduate,12,Hispanic,No estimate,
+Mississippi,Education,Postgraduate,12,Asian,No estimate,
+Mississippi,Education,Postgraduate,12,Other,No estimate,
+Massachusetts,All,All,100,All voters,R+8,-8
+Massachusetts,All,All,100,White,R+7,-7
+Massachusetts,All,All,100,Black,R+14,-14
+Massachusetts,All,All,100,Hispanic,R+23,-23
+Massachusetts,All,All,100,Asian,No estimate,
+Massachusetts,All,All,100,Other,No estimate,
+Massachusetts,Gender,Male,46,All voters,R+12,-12
+Massachusetts,Gender,Male,46,White,R+10,-10
+Massachusetts,Gender,Male,46,Black,R+26,-26
+Massachusetts,Gender,Male,46,Hispanic,R+28,-28
+Massachusetts,Gender,Male,46,Asian,No estimate,
+Massachusetts,Gender,Male,46,Other,No estimate,
+Massachusetts,Gender,Female,54,All voters,R+5,-5
+Massachusetts,Gender,Female,54,White,R+4,-4
+Massachusetts,Gender,Female,54,Black,R+6,-6
+Massachusetts,Gender,Female,54,Hispanic,R+20,-20
+Massachusetts,Gender,Female,54,Asian,No estimate,
+Massachusetts,Gender,Female,54,Other,No estimate,
+Massachusetts,Age,18-29,14,All voters,R+18,-18
+Massachusetts,Age,18-29,14,White,R+16,-16
+Massachusetts,Age,18-29,14,Black,R+18,-18
+Massachusetts,Age,18-29,14,Hispanic,R+37,-37
+Massachusetts,Age,18-29,14,Asian,No estimate,
+Massachusetts,Age,18-29,14,Other,No estimate,
+Massachusetts,Age,30-44,22,All voters,R+10,-10
+Massachusetts,Age,30-44,22,White,R+8,-8
+Massachusetts,Age,30-44,22,Black,R+20,-20
+Massachusetts,Age,30-44,22,Hispanic,R+29,-29
+Massachusetts,Age,30-44,22,Asian,No estimate,
+Massachusetts,Age,30-44,22,Other,No estimate,
+Massachusetts,Age,45-64,34,All voters,R+9,-9
+Massachusetts,Age,45-64,34,White,R+9,-9
+Massachusetts,Age,45-64,34,Black,R+12,-12
+Massachusetts,Age,45-64,34,Hispanic,R+19,-19
+Massachusetts,Age,45-64,34,Asian,No estimate,
+Massachusetts,Age,45-64,34,Other,No estimate,
+Massachusetts,Age,65+,30,All voters,R+2,-2
+Massachusetts,Age,65+,30,White,R+1,-1
+Massachusetts,Age,65+,30,Black,R+9,-9
+Massachusetts,Age,65+,30,Hispanic,R+2,-2
+Massachusetts,Age,65+,30,Asian,No estimate,
+Massachusetts,Age,65+,30,Other,No estimate,
+Massachusetts,Education,High school,24,All voters,R+13,-13
+Massachusetts,Education,High school,24,White,R+11,-11
+Massachusetts,Education,High school,24,Black,R+17,-17
+Massachusetts,Education,High school,24,Hispanic,R+32,-32
+Massachusetts,Education,High school,24,Asian,No estimate,
+Massachusetts,Education,High school,24,Other,No estimate,
+Massachusetts,Education,Some college,23,All voters,R+10,-10
+Massachusetts,Education,Some college,23,White,R+9,-9
+Massachusetts,Education,Some college,23,Black,R+15,-15
+Massachusetts,Education,Some college,23,Hispanic,R+22,-22
+Massachusetts,Education,Some college,23,Asian,No estimate,
+Massachusetts,Education,Some college,23,Other,No estimate,
+Massachusetts,Education,College grad.,29,All voters,R+9,-9
+Massachusetts,Education,College grad.,29,White,R+8,-8
+Massachusetts,Education,College grad.,29,Black,R+11,-11
+Massachusetts,Education,College grad.,29,Hispanic,R+15,-15
+Massachusetts,Education,College grad.,29,Asian,No estimate,
+Massachusetts,Education,College grad.,29,Other,No estimate,
+Massachusetts,Education,Postgraduate,24,All voters,R+8,-8
+Massachusetts,Education,Postgraduate,24,White,R+8,-8
+Massachusetts,Education,Postgraduate,24,Black,R+10,-10
+Massachusetts,Education,Postgraduate,24,Hispanic,R+11,-11
+Massachusetts,Education,Postgraduate,24,Asian,No estimate,
+Massachusetts,Education,Postgraduate,24,Other,No estimate,
+Missouri,All,All,100,All voters,R+3,-3
+Missouri,All,All,100,White,R+2,-2
+Missouri,All,All,100,Black,R+4,-4
+Missouri,All,All,100,Hispanic,No estimate,
+Missouri,All,All,100,Asian,No estimate,
+Missouri,All,All,100,Other,No estimate,
+Missouri,Gender,Male,48,All voters,R+7,-7
+Missouri,Gender,Male,48,White,R+6,-6
+Missouri,Gender,Male,48,Black,No estimate,
+Missouri,Gender,Male,48,Hispanic,No estimate,
+Missouri,Gender,Male,48,Asian,No estimate,
+Missouri,Gender,Male,48,Other,No estimate,
+Missouri,Gender,Female,52,All voters,D+1,1
+Missouri,Gender,Female,52,White,D+1,1
+Missouri,Gender,Female,52,Black,No estimate,
+Missouri,Gender,Female,52,Hispanic,No estimate,
+Missouri,Gender,Female,52,Asian,No estimate,
+Missouri,Gender,Female,52,Other,No estimate,
+Missouri,Age,18-29,14,All voters,R+14,-14
+Missouri,Age,18-29,14,White,R+13,-13
+Missouri,Age,18-29,14,Black,No estimate,
+Missouri,Age,18-29,14,Hispanic,No estimate,
+Missouri,Age,18-29,14,Asian,No estimate,
+Missouri,Age,18-29,14,Other,No estimate,
+Missouri,Age,30-44,23,All voters,R+2,-2
+Missouri,Age,30-44,23,White,No change,0
+Missouri,Age,30-44,23,Black,No estimate,
+Missouri,Age,30-44,23,Hispanic,No estimate,
+Missouri,Age,30-44,23,Asian,No estimate,
+Missouri,Age,30-44,23,Other,No estimate,
+Missouri,Age,45-64,34,All voters,R+1,-1
+Missouri,Age,45-64,34,White,R+1,-1
+Missouri,Age,45-64,34,Black,No estimate,
+Missouri,Age,45-64,34,Hispanic,No estimate,
+Missouri,Age,45-64,34,Asian,No estimate,
+Missouri,Age,45-64,34,Other,No estimate,
+Missouri,Age,65+,29,All voters,R+2,-2
+Missouri,Age,65+,29,White,R+2,-2
+Missouri,Age,65+,29,Black,No estimate,
+Missouri,Age,65+,29,Hispanic,No estimate,
+Missouri,Age,65+,29,Asian,No estimate,
+Missouri,Age,65+,29,Other,No estimate,
+Missouri,Education,High school,32,All voters,R+8,-8
+Missouri,Education,High school,32,White,R+8,-8
+Missouri,Education,High school,32,Black,No estimate,
+Missouri,Education,High school,32,Hispanic,No estimate,
+Missouri,Education,High school,32,Asian,No estimate,
+Missouri,Education,High school,32,Other,No estimate,
+Missouri,Education,Some college,31,All voters,R+3,-3
+Missouri,Education,Some college,31,White,R+3,-3
+Missouri,Education,Some college,31,Black,No estimate,
+Missouri,Education,Some college,31,Hispanic,No estimate,
+Missouri,Education,Some college,31,Asian,No estimate,
+Missouri,Education,Some college,31,Other,No estimate,
+Missouri,Education,College grad.,23,All voters,R+2,-2
+Missouri,Education,College grad.,23,White,R+1,-1
+Missouri,Education,College grad.,23,Black,No estimate,
+Missouri,Education,College grad.,23,Hispanic,No estimate,
+Missouri,Education,College grad.,23,Asian,No estimate,
+Missouri,Education,College grad.,23,Other,No estimate,
+Missouri,Education,Postgraduate,14,All voters,R+1,-1
+Missouri,Education,Postgraduate,14,White,No change,0
+Missouri,Education,Postgraduate,14,Black,No estimate,
+Missouri,Education,Postgraduate,14,Hispanic,No estimate,
+Missouri,Education,Postgraduate,14,Asian,No estimate,
+Missouri,Education,Postgraduate,14,Other,No estimate,
+Montana,All,All,100,All voters,R+4,-4
+Montana,All,All,100,White,R+4,-4
+Montana,All,All,100,Black,R+2,-2
+Montana,Gender,Male,50,All voters,R+6,-6
+Montana,Gender,Male,50,White,R+6,-6
+Montana,Gender,Male,50,Black,No estimate,
+Montana,Gender,Female,50,All voters,R+2,-2
+Montana,Gender,Female,50,White,R+3,-3
+Montana,Gender,Female,50,Black,No estimate,
+Montana,Age,18-29,13,All voters,R+9,-9
+Montana,Age,18-29,13,White,R+8,-8
+Montana,Age,18-29,13,Black,No estimate,
+Montana,Age,30-44,22,All voters,No change,0
+Montana,Age,30-44,22,White,No change,0
+Montana,Age,30-44,22,Black,No estimate,
+Montana,Age,45-64,32,All voters,R+1,-1
+Montana,Age,45-64,32,White,R+2,-2
+Montana,Age,45-64,32,Black,No estimate,
+Montana,Age,65+,34,All voters,R+7,-7
+Montana,Age,65+,34,White,R+8,-8
+Montana,Age,65+,34,Black,No estimate,
+Montana,Education,High school,27,All voters,R+8,-8
+Montana,Education,High school,27,White,R+9,-9
+Montana,Education,High school,27,Black,No estimate,
+Montana,Education,Some college,33,All voters,R+5,-5
+Montana,Education,Some college,33,White,R+6,-6
+Montana,Education,Some college,33,Black,No estimate,
+Montana,Education,College grad.,26,All voters,R+3,-3
+Montana,Education,College grad.,26,White,R+4,-4
+Montana,Education,College grad.,26,Black,No estimate,
+Montana,Education,Postgraduate,13,All voters,R+3,-3
+Montana,Education,Postgraduate,13,White,R+4,-4
+Montana,Education,Postgraduate,13,Black,No estimate,
+New Jersey,All,All,100,All voters,R+10,-10
+New Jersey,All,All,100,White,R+8,-8
+New Jersey,All,All,100,Black,R+10,-10
+New Jersey,All,All,100,Hispanic,R+23,-23
+New Jersey,All,All,100,Asian,R+16,-16
+New Jersey,All,All,100,Other,No estimate,
+New Jersey,Gender,Male,46,All voters,R+14,-14
+New Jersey,Gender,Male,46,White,R+11,-11
+New Jersey,Gender,Male,46,Black,R+19,-19
+New Jersey,Gender,Male,46,Hispanic,R+27,-27
+New Jersey,Gender,Male,46,Asian,R+16,-16
+New Jersey,Gender,Male,46,Other,No estimate,
+New Jersey,Gender,Female,54,All voters,R+7,-7
+New Jersey,Gender,Female,54,White,R+5,-5
+New Jersey,Gender,Female,54,Black,R+4,-4
+New Jersey,Gender,Female,54,Hispanic,R+20,-20
+New Jersey,Gender,Female,54,Asian,No estimate,
+New Jersey,Gender,Female,54,Other,No estimate,
+New Jersey,Age,18-29,15,All voters,R+22,-22
+New Jersey,Age,18-29,15,White,R+20,-20
+New Jersey,Age,18-29,15,Black,R+14,-14
+New Jersey,Age,18-29,15,Hispanic,R+42,-42
+New Jersey,Age,18-29,15,Asian,No estimate,
+New Jersey,Age,18-29,15,Other,No estimate,
+New Jersey,Age,30-44,22,All voters,R+14,-14
+New Jersey,Age,30-44,22,White,R+10,-10
+New Jersey,Age,30-44,22,Black,R+16,-16
+New Jersey,Age,30-44,22,Hispanic,R+30,-30
+New Jersey,Age,30-44,22,Asian,No estimate,
+New Jersey,Age,30-44,22,Other,No estimate,
+New Jersey,Age,45-64,36,All voters,R+8,-8
+New Jersey,Age,45-64,36,White,R+7,-7
+New Jersey,Age,45-64,36,Black,R+8,-8
+New Jersey,Age,45-64,36,Hispanic,R+18,-18
+New Jersey,Age,45-64,36,Asian,No estimate,
+New Jersey,Age,45-64,36,Other,No estimate,
+New Jersey,Age,65+,28,All voters,R+1,-1
+New Jersey,Age,65+,28,White,R+1,-1
+New Jersey,Age,65+,28,Black,R+5,-5
+New Jersey,Age,65+,28,Hispanic,No change,0
+New Jersey,Age,65+,28,Asian,No estimate,
+New Jersey,Age,65+,28,Other,No estimate,
+New Jersey,Education,High school,27,All voters,R+14,-14
+New Jersey,Education,High school,27,White,R+11,-11
+New Jersey,Education,High school,27,Black,R+11,-11
+New Jersey,Education,High school,27,Hispanic,R+32,-32
+New Jersey,Education,High school,27,Asian,No estimate,
+New Jersey,Education,High school,27,Other,No estimate,
+New Jersey,Education,Some college,24,All voters,R+11,-11
+New Jersey,Education,Some college,24,White,R+10,-10
+New Jersey,Education,Some college,24,Black,R+10,-10
+New Jersey,Education,Some college,24,Hispanic,R+21,-21
+New Jersey,Education,Some college,24,Asian,No estimate,
+New Jersey,Education,Some college,24,Other,No estimate,
+New Jersey,Education,College grad.,30,All voters,R+8,-8
+New Jersey,Education,College grad.,30,White,R+7,-7
+New Jersey,Education,College grad.,30,Black,R+7,-7
+New Jersey,Education,College grad.,30,Hispanic,R+16,-16
+New Jersey,Education,College grad.,30,Asian,No estimate,
+New Jersey,Education,College grad.,30,Other,No estimate,
+New Jersey,Education,Postgraduate,20,All voters,R+10,-10
+New Jersey,Education,Postgraduate,20,White,R+10,-10
+New Jersey,Education,Postgraduate,20,Black,R+9,-9
+New Jersey,Education,Postgraduate,20,Hispanic,R+12,-12
+New Jersey,Education,Postgraduate,20,Asian,No estimate,
+New Jersey,Education,Postgraduate,20,Other,No estimate,
+Nebraska,All,All,100,All voters,R+2,-2
+Nebraska,All,All,100,White,R+1,-1
+Nebraska,All,All,100,Black,R+14,-14
+Nebraska,All,All,100,Hispanic,R+21,-21
+Nebraska,All,All,100,Asian,No estimate,
+Nebraska,All,All,100,Other,No estimate,
+Nebraska,Gender,Male,48,All voters,R+6,-6
+Nebraska,Gender,Male,48,White,R+5,-5
+Nebraska,Gender,Male,48,Black,R+24,-24
+Nebraska,Gender,Male,48,Hispanic,R+25,-25
+Nebraska,Gender,Male,48,Asian,No estimate,
+Nebraska,Gender,Male,48,Other,No estimate,
+Nebraska,Gender,Female,52,All voters,D+2,2
+Nebraska,Gender,Female,52,White,D+3,3
+Nebraska,Gender,Female,52,Black,R+8,-8
+Nebraska,Gender,Female,52,Hispanic,R+18,-18
+Nebraska,Gender,Female,52,Asian,No estimate,
+Nebraska,Gender,Female,52,Other,No estimate,
+Nebraska,Age,18-29,15,All voters,R+15,-15
+Nebraska,Age,18-29,15,White,R+13,-13
+Nebraska,Age,18-29,15,Black,R+21,-21
+Nebraska,Age,18-29,15,Hispanic,R+37,-37
+Nebraska,Age,18-29,15,Asian,No estimate,
+Nebraska,Age,18-29,15,Other,No estimate,
+Nebraska,Age,30-44,24,All voters,R+4,-4
+Nebraska,Age,30-44,24,White,R+2,-2
+Nebraska,Age,30-44,24,Black,R+22,-22
+Nebraska,Age,30-44,24,Hispanic,R+24,-24
+Nebraska,Age,30-44,24,Asian,No estimate,
+Nebraska,Age,30-44,24,Other,No estimate,
+Nebraska,Age,45-64,32,All voters,D+3,3
+Nebraska,Age,45-64,32,White,D+3,3
+Nebraska,Age,45-64,32,Black,R+10,-10
+Nebraska,Age,45-64,32,Hispanic,R+8,-8
+Nebraska,Age,45-64,32,Asian,No estimate,
+Nebraska,Age,45-64,32,Other,No estimate,
+Nebraska,Age,65+,29,All voters,D+1,1
+Nebraska,Age,65+,29,White,D+1,1
+Nebraska,Age,65+,29,Black,R+6,-6
+Nebraska,Age,65+,29,Hispanic,D+1,1
+Nebraska,Age,65+,29,Asian,No estimate,
+Nebraska,Age,65+,29,Other,No estimate,
+Nebraska,Education,High school,26,All voters,R+3,-3
+Nebraska,Education,High school,26,White,R+3,-3
+Nebraska,Education,High school,26,Black,R+16,-16
+Nebraska,Education,High school,26,Hispanic,R+24,-24
+Nebraska,Education,High school,26,Asian,No estimate,
+Nebraska,Education,High school,26,Other,No estimate,
+Nebraska,Education,Some college,35,All voters,R+5,-5
+Nebraska,Education,Some college,35,White,R+4,-4
+Nebraska,Education,Some college,35,Black,R+17,-17
+Nebraska,Education,Some college,35,Hispanic,R+24,-24
+Nebraska,Education,Some college,35,Asian,No estimate,
+Nebraska,Education,Some college,35,Other,No estimate,
+Nebraska,Education,College grad.,25,All voters,D+2,2
+Nebraska,Education,College grad.,25,White,D+3,3
+Nebraska,Education,College grad.,25,Black,R+7,-7
+Nebraska,Education,College grad.,25,Hispanic,R+15,-15
+Nebraska,Education,College grad.,25,Asian,No estimate,
+Nebraska,Education,College grad.,25,Other,No estimate,
+Nebraska,Education,Postgraduate,14,All voters,R+4,-4
+Nebraska,Education,Postgraduate,14,White,R+4,-4
+Nebraska,Education,Postgraduate,14,Black,R+11,-11
+Nebraska,Education,Postgraduate,14,Hispanic,R+11,-11
+Nebraska,Education,Postgraduate,14,Asian,No estimate,
+Nebraska,Education,Postgraduate,14,Other,No estimate,
+Minnesota,All,All,100,All voters,R+3,-3
+Minnesota,All,All,100,White,R+2,-2
+Minnesota,All,All,100,Black,R+10,-10
+Minnesota,Gender,Male,49,All voters,R+6,-6
+Minnesota,Gender,Male,49,White,R+5,-5
+Minnesota,Gender,Male,49,Black,R+16,-16
+Minnesota,Gender,Female,51,All voters,D+1,1
+Minnesota,Gender,Female,51,White,D+1,1
+Minnesota,Gender,Female,51,Black,R+3,-3
+Minnesota,Age,18-29,16,All voters,R+14,-14
+Minnesota,Age,18-29,16,White,R+13,-13
+Minnesota,Age,18-29,16,Black,No estimate,
+Minnesota,Age,30-44,25,All voters,R+2,-2
+Minnesota,Age,30-44,25,White,No change,0
+Minnesota,Age,30-44,25,Black,No estimate,
+Minnesota,Age,45-64,32,All voters,D+1,1
+Minnesota,Age,45-64,32,White,D+1,1
+Minnesota,Age,45-64,32,Black,No estimate,
+Minnesota,Age,65+,27,All voters,R+2,-2
+Minnesota,Age,65+,27,White,R+2,-2
+Minnesota,Age,65+,27,Black,No estimate,
+Minnesota,Education,High school,26,All voters,R+8,-8
+Minnesota,Education,High school,26,White,R+8,-8
+Minnesota,Education,High school,26,Black,No estimate,
+Minnesota,Education,Some college,33,All voters,R+3,-3
+Minnesota,Education,Some college,33,White,R+3,-3
+Minnesota,Education,Some college,33,Black,No estimate,
+Minnesota,Education,College grad.,27,All voters,R+2,-2
+Minnesota,Education,College grad.,27,White,R+1,-1
+Minnesota,Education,College grad.,27,Black,No estimate,
+Minnesota,Education,Postgraduate,14,All voters,R+1,-1
+Minnesota,Education,Postgraduate,14,White,R+1,-1
+Minnesota,Education,Postgraduate,14,Black,No estimate,
+New Mexico,All,All,100,All voters,R+5,-5
+New Mexico,All,All,100,White,D+2,2
+New Mexico,All,All,100,Black,No estimate,
+New Mexico,All,All,100,Hispanic,R+17,-17
+New Mexico,All,All,100,Asian,No estimate,
+New Mexico,All,All,100,Other,No estimate,
+New Mexico,Gender,Male,46,All voters,R+6,-6
+New Mexico,Gender,Male,46,White,D+1,1
+New Mexico,Gender,Male,46,Black,No estimate,
+New Mexico,Gender,Male,46,Hispanic,R+19,-19
+New Mexico,Gender,Male,46,Asian,No estimate,
+New Mexico,Gender,Male,46,Other,No estimate,
+New Mexico,Gender,Female,54,All voters,R+3,-3
+New Mexico,Gender,Female,54,White,D+3,3
+New Mexico,Gender,Female,54,Black,No estimate,
+New Mexico,Gender,Female,54,Hispanic,R+16,-16
+New Mexico,Gender,Female,54,Asian,No estimate,
+New Mexico,Gender,Female,54,Other,No estimate,
+New Mexico,Age,18-29,14,All voters,R+22,-22
+New Mexico,Age,18-29,14,White,R+6,-6
+New Mexico,Age,18-29,14,Black,No estimate,
+New Mexico,Age,18-29,14,Hispanic,R+35,-35
+New Mexico,Age,18-29,14,Asian,No estimate,
+New Mexico,Age,18-29,14,Other,No estimate,
+New Mexico,Age,30-44,21,All voters,R+11,-11
+New Mexico,Age,30-44,21,White,R+1,-1
+New Mexico,Age,30-44,21,Black,No estimate,
+New Mexico,Age,30-44,21,Hispanic,R+25,-25
+New Mexico,Age,30-44,21,Asian,No estimate,
+New Mexico,Age,30-44,21,Other,No estimate,
+New Mexico,Age,45-64,32,All voters,R+4,-4
+New Mexico,Age,45-64,32,White,D+1,1
+New Mexico,Age,45-64,32,Black,No estimate,
+New Mexico,Age,45-64,32,Hispanic,R+13,-13
+New Mexico,Age,45-64,32,Asian,No estimate,
+New Mexico,Age,45-64,32,Other,No estimate,
+New Mexico,Age,65+,33,All voters,D+4,4
+New Mexico,Age,65+,33,White,D+5,5
+New Mexico,Age,65+,33,Black,No estimate,
+New Mexico,Age,65+,33,Hispanic,No change,0
+New Mexico,Age,65+,33,Asian,No estimate,
+New Mexico,Age,65+,33,Other,No estimate,
+New Mexico,Education,High school,28,All voters,R+8,-8
+New Mexico,Education,High school,28,White,R+2,-2
+New Mexico,Education,High school,28,Black,No estimate,
+New Mexico,Education,High school,28,Hispanic,R+21,-21
+New Mexico,Education,High school,28,Asian,No estimate,
+New Mexico,Education,High school,28,Other,No estimate,
+New Mexico,Education,Some college,33,All voters,R+5,-5
+New Mexico,Education,Some college,33,White,D+1,1
+New Mexico,Education,Some college,33,Black,No estimate,
+New Mexico,Education,Some college,33,Hispanic,R+17,-17
+New Mexico,Education,Some college,33,Asian,No estimate,
+New Mexico,Education,Some college,33,Other,No estimate,
+New Mexico,Education,College grad.,21,All voters,R+2,-2
+New Mexico,Education,College grad.,21,White,D+2,2
+New Mexico,Education,College grad.,21,Black,No estimate,
+New Mexico,Education,College grad.,21,Hispanic,R+14,-14
+New Mexico,Education,College grad.,21,Asian,No estimate,
+New Mexico,Education,College grad.,21,Other,No estimate,
+New Mexico,Education,Postgraduate,18,All voters,R+5,-5
+New Mexico,Education,Postgraduate,18,White,R+2,-2
+New Mexico,Education,Postgraduate,18,Black,No estimate,
+New Mexico,Education,Postgraduate,18,Hispanic,R+11,-11
+New Mexico,Education,Postgraduate,18,Asian,No estimate,
+New Mexico,Education,Postgraduate,18,Other,No estimate,
+Oregon,All,All,100,All voters,R+2,-2
+Oregon,All,All,100,White,R+1,-1
+Oregon,All,All,100,Black,No estimate,
+Oregon,All,All,100,Hispanic,R+11,-11
+Oregon,All,All,100,Asian,No estimate,
+Oregon,All,All,100,Other,No estimate,
+Oregon,Gender,Male,49,All voters,R+4,-4
+Oregon,Gender,Male,49,White,R+3,-3
+Oregon,Gender,Male,49,Black,No estimate,
+Oregon,Gender,Male,49,Hispanic,No estimate,
+Oregon,Gender,Male,49,Asian,No estimate,
+Oregon,Gender,Male,49,Other,No estimate,
+Oregon,Gender,Female,51,All voters,No change,0
+Oregon,Gender,Female,51,White,D+1,1
+Oregon,Gender,Female,51,Black,No estimate,
+Oregon,Gender,Female,51,Hispanic,No estimate,
+Oregon,Gender,Female,51,Asian,No estimate,
+Oregon,Gender,Female,51,Other,No estimate,
+Oregon,Age,18-29,14,All voters,R+13,-13
+Oregon,Age,18-29,14,White,R+11,-11
+Oregon,Age,18-29,14,Black,No estimate,
+Oregon,Age,18-29,14,Hispanic,No estimate,
+Oregon,Age,18-29,14,Asian,No estimate,
+Oregon,Age,18-29,14,Other,No estimate,
+Oregon,Age,30-44,24,All voters,R+1,-1
+Oregon,Age,30-44,24,White,R+1,-1
+Oregon,Age,30-44,24,Black,No estimate,
+Oregon,Age,30-44,24,Hispanic,No estimate,
+Oregon,Age,30-44,24,Asian,No estimate,
+Oregon,Age,30-44,24,Other,No estimate,
+Oregon,Age,45-64,31,All voters,No change,0
+Oregon,Age,45-64,31,White,D+1,1
+Oregon,Age,45-64,31,Black,No estimate,
+Oregon,Age,45-64,31,Hispanic,No estimate,
+Oregon,Age,45-64,31,Asian,No estimate,
+Oregon,Age,45-64,31,Other,No estimate,
+Oregon,Age,65+,31,All voters,D+2,2
+Oregon,Age,65+,31,White,D+2,2
+Oregon,Age,65+,31,Black,No estimate,
+Oregon,Age,65+,31,Hispanic,No estimate,
+Oregon,Age,65+,31,Asian,No estimate,
+Oregon,Age,65+,31,Other,No estimate,
+Oregon,Education,High school,26,All voters,R+3,-3
+Oregon,Education,High school,26,White,R+3,-3
+Oregon,Education,High school,26,Black,No estimate,
+Oregon,Education,High school,26,Hispanic,No estimate,
+Oregon,Education,High school,26,Asian,No estimate,
+Oregon,Education,High school,26,Other,No estimate,
+Oregon,Education,Some college,33,All voters,R+2,-2
+Oregon,Education,Some college,33,White,R+1,-1
+Oregon,Education,Some college,33,Black,No estimate,
+Oregon,Education,Some college,33,Hispanic,No estimate,
+Oregon,Education,Some college,33,Asian,No estimate,
+Oregon,Education,Some college,33,Other,No estimate,
+Oregon,Education,College grad.,25,All voters,R+4,-4
+Oregon,Education,College grad.,25,White,R+3,-3
+Oregon,Education,College grad.,25,Black,No estimate,
+Oregon,Education,College grad.,25,Hispanic,No estimate,
+Oregon,Education,College grad.,25,Asian,No estimate,
+Oregon,Education,College grad.,25,Other,No estimate,
+Oregon,Education,Postgraduate,16,All voters,R+4,-4
+Oregon,Education,Postgraduate,16,White,R+4,-4
+Oregon,Education,Postgraduate,16,Black,No estimate,
+Oregon,Education,Postgraduate,16,Hispanic,No estimate,
+Oregon,Education,Postgraduate,16,Asian,No estimate,
+Oregon,Education,Postgraduate,16,Other,No estimate,
+Oklahoma,All,All,100,All voters,R+2,-2
+Oklahoma,All,All,100,White,No change,0
+Oklahoma,All,All,100,Black,R+18,-18
+Oklahoma,All,All,100,Hispanic,No estimate,
+Oklahoma,All,All,100,Asian,No estimate,
+Oklahoma,All,All,100,Other,No estimate,
+Oklahoma,Gender,Male,47,All voters,R+4,-4
+Oklahoma,Gender,Male,47,White,R+3,-3
+Oklahoma,Gender,Male,47,Black,R+24,-24
+Oklahoma,Gender,Male,47,Hispanic,No estimate,
+Oklahoma,Gender,Male,47,Asian,No estimate,
+Oklahoma,Gender,Male,47,Other,No estimate,
+Oklahoma,Gender,Female,53,All voters,D+1,1
+Oklahoma,Gender,Female,53,White,D+2,2
+Oklahoma,Gender,Female,53,Black,R+13,-13
+Oklahoma,Gender,Female,53,Hispanic,No estimate,
+Oklahoma,Gender,Female,53,Asian,No estimate,
+Oklahoma,Gender,Female,53,Other,No estimate,
+Oklahoma,Age,18-29,13,All voters,R+9,-9
+Oklahoma,Age,18-29,13,White,R+7,-7
+Oklahoma,Age,18-29,13,Black,R+27,-27
+Oklahoma,Age,18-29,13,Hispanic,No estimate,
+Oklahoma,Age,18-29,13,Asian,No estimate,
+Oklahoma,Age,18-29,13,Other,No estimate,
+Oklahoma,Age,30-44,22,All voters,No change,0
+Oklahoma,Age,30-44,22,White,D+2,2
+Oklahoma,Age,30-44,22,Black,R+23,-23
+Oklahoma,Age,30-44,22,Hispanic,No estimate,
+Oklahoma,Age,30-44,22,Asian,No estimate,
+Oklahoma,Age,30-44,22,Other,No estimate,
+Oklahoma,Age,45-64,34,All voters,R+1,-1
+Oklahoma,Age,45-64,34,White,No change,0
+Oklahoma,Age,45-64,34,Black,R+18,-18
+Oklahoma,Age,45-64,34,Hispanic,No estimate,
+Oklahoma,Age,45-64,34,Asian,No estimate,
+Oklahoma,Age,45-64,34,Other,No estimate,
+Oklahoma,Age,65+,31,All voters,R+1,-1
+Oklahoma,Age,65+,31,White,R+1,-1
+Oklahoma,Age,65+,31,Black,R+9,-9
+Oklahoma,Age,65+,31,Hispanic,No estimate,
+Oklahoma,Age,65+,31,Asian,No estimate,
+Oklahoma,Age,65+,31,Other,No estimate,
+Oklahoma,Education,High school,31,All voters,R+5,-5
+Oklahoma,Education,High school,31,White,R+4,-4
+Oklahoma,Education,High school,31,Black,R+20,-20
+Oklahoma,Education,High school,31,Hispanic,No estimate,
+Oklahoma,Education,High school,31,Asian,No estimate,
+Oklahoma,Education,High school,31,Other,No estimate,
+Oklahoma,Education,Some college,34,All voters,R+2,-2
+Oklahoma,Education,Some college,34,White,R+1,-1
+Oklahoma,Education,Some college,34,Black,R+18,-18
+Oklahoma,Education,Some college,34,Hispanic,No estimate,
+Oklahoma,Education,Some college,34,Asian,No estimate,
+Oklahoma,Education,Some college,34,Other,No estimate,
+Oklahoma,Education,College grad.,22,All voters,D+1,1
+Oklahoma,Education,College grad.,22,White,D+3,3
+Oklahoma,Education,College grad.,22,Black,R+13,-13
+Oklahoma,Education,College grad.,22,Hispanic,No estimate,
+Oklahoma,Education,College grad.,22,Asian,No estimate,
+Oklahoma,Education,College grad.,22,Other,No estimate,
+Oklahoma,Education,Postgraduate,13,All voters,R+2,-2
+Oklahoma,Education,Postgraduate,13,White,No change,0
+Oklahoma,Education,Postgraduate,13,Black,R+17,-17
+Oklahoma,Education,Postgraduate,13,Hispanic,No estimate,
+Oklahoma,Education,Postgraduate,13,Asian,No estimate,
+Oklahoma,Education,Postgraduate,13,Other,No estimate,
+Ohio,All,All,100,All voters,R+3,-3
+Ohio,All,All,100,White,R+3,-3
+Ohio,All,All,100,Black,R+9,-9
+Ohio,All,All,100,Hispanic,No estimate,
+Ohio,All,All,100,Asian,No estimate,
+Ohio,All,All,100,Other,No estimate,
+Ohio,Gender,Male,48,All voters,R+8,-8
+Ohio,Gender,Male,48,White,R+7,-7
+Ohio,Gender,Male,48,Black,R+17,-17
+Ohio,Gender,Male,48,Hispanic,No estimate,
+Ohio,Gender,Male,48,Asian,No estimate,
+Ohio,Gender,Male,48,Other,No estimate,
+Ohio,Gender,Female,52,All voters,D+2,2
+Ohio,Gender,Female,52,White,D+2,2
+Ohio,Gender,Female,52,Black,R+3,-3
+Ohio,Gender,Female,52,Hispanic,No estimate,
+Ohio,Gender,Female,52,Asian,No estimate,
+Ohio,Gender,Female,52,Other,No estimate,
+Ohio,Age,18-29,14,All voters,R+12,-12
+Ohio,Age,18-29,14,White,R+12,-12
+Ohio,Age,18-29,14,Black,R+11,-11
+Ohio,Age,18-29,14,Hispanic,No estimate,
+Ohio,Age,18-29,14,Asian,No estimate,
+Ohio,Age,18-29,14,Other,No estimate,
+Ohio,Age,30-44,22,All voters,R+1,-1
+Ohio,Age,30-44,22,White,No change,0
+Ohio,Age,30-44,22,Black,R+14,-14
+Ohio,Age,30-44,22,Hispanic,No estimate,
+Ohio,Age,30-44,22,Asian,No estimate,
+Ohio,Age,30-44,22,Other,No estimate,
+Ohio,Age,45-64,34,All voters,R+2,-2
+Ohio,Age,45-64,34,White,R+2,-2
+Ohio,Age,45-64,34,Black,R+8,-8
+Ohio,Age,45-64,34,Hispanic,No estimate,
+Ohio,Age,45-64,34,Asian,No estimate,
+Ohio,Age,45-64,34,Other,No estimate,
+Ohio,Age,65+,30,All voters,R+2,-2
+Ohio,Age,65+,30,White,R+2,-2
+Ohio,Age,65+,30,Black,R+5,-5
+Ohio,Age,65+,30,Hispanic,No estimate,
+Ohio,Age,65+,30,Asian,No estimate,
+Ohio,Age,65+,30,Other,No estimate,
+Ohio,Education,High school,33,All voters,R+7,-7
+Ohio,Education,High school,33,White,R+8,-8
+Ohio,Education,High school,33,Black,R+10,-10
+Ohio,Education,High school,33,Hispanic,No estimate,
+Ohio,Education,High school,33,Asian,No estimate,
+Ohio,Education,High school,33,Other,No estimate,
+Ohio,Education,Some college,30,All voters,R+3,-3
+Ohio,Education,Some college,30,White,R+3,-3
+Ohio,Education,Some college,30,Black,R+9,-9
+Ohio,Education,Some college,30,Hispanic,No estimate,
+Ohio,Education,Some college,30,Asian,No estimate,
+Ohio,Education,Some college,30,Other,No estimate,
+Ohio,Education,College grad.,23,All voters,R+1,-1
+Ohio,Education,College grad.,23,White,R+1,-1
+Ohio,Education,College grad.,23,Black,R+6,-6
+Ohio,Education,College grad.,23,Hispanic,No estimate,
+Ohio,Education,College grad.,23,Asian,No estimate,
+Ohio,Education,College grad.,23,Other,No estimate,
+Ohio,Education,Postgraduate,14,All voters,R+3,-3
+Ohio,Education,Postgraduate,14,White,R+2,-2
+Ohio,Education,Postgraduate,14,Black,R+8,-8
+Ohio,Education,Postgraduate,14,Hispanic,No estimate,
+Ohio,Education,Postgraduate,14,Asian,No estimate,
+Ohio,Education,Postgraduate,14,Other,No estimate,
+North Carolina,All,All,100,All voters,R+2,-2
+North Carolina,All,All,100,White,D+2,2
+North Carolina,All,All,100,Black,R+7,-7
+North Carolina,All,All,100,Hispanic,R+11,-11
+North Carolina,All,All,100,Asian,No estimate,
+North Carolina,All,All,100,Other,No estimate,
+North Carolina,Gender,Male,45,All voters,R+6,-6
+North Carolina,Gender,Male,45,White,R+2,-2
+North Carolina,Gender,Male,45,Black,R+15,-15
+North Carolina,Gender,Male,45,Hispanic,No estimate,
+North Carolina,Gender,Male,45,Asian,No estimate,
+North Carolina,Gender,Male,45,Other,No estimate,
+North Carolina,Gender,Female,55,All voters,D+2,2
+North Carolina,Gender,Female,55,White,D+5,5
+North Carolina,Gender,Female,55,Black,R+3,-3
+North Carolina,Gender,Female,55,Hispanic,No estimate,
+North Carolina,Gender,Female,55,Asian,No estimate,
+North Carolina,Gender,Female,55,Other,No estimate,
+North Carolina,Age,18-29,16,All voters,R+11,-11
+North Carolina,Age,18-29,16,White,R+7,-7
+North Carolina,Age,18-29,16,Black,R+11,-11
+North Carolina,Age,18-29,16,Hispanic,No estimate,
+North Carolina,Age,18-29,16,Asian,No estimate,
+North Carolina,Age,18-29,16,Other,No estimate,
+North Carolina,Age,30-44,22,All voters,R+3,-3
+North Carolina,Age,30-44,22,White,D+2,2
+North Carolina,Age,30-44,22,Black,R+12,-12
+North Carolina,Age,30-44,22,Hispanic,No estimate,
+North Carolina,Age,30-44,22,Asian,No estimate,
+North Carolina,Age,30-44,22,Other,No estimate,
+North Carolina,Age,45-64,34,All voters,R+1,-1
+North Carolina,Age,45-64,34,White,D+2,2
+North Carolina,Age,45-64,34,Black,R+6,-6
+North Carolina,Age,45-64,34,Hispanic,No estimate,
+North Carolina,Age,45-64,34,Asian,No estimate,
+North Carolina,Age,45-64,34,Other,No estimate,
+North Carolina,Age,65+,28,All voters,D+4,4
+North Carolina,Age,65+,28,White,D+5,5
+North Carolina,Age,65+,28,Black,R+4,-4
+North Carolina,Age,65+,28,Hispanic,No estimate,
+North Carolina,Age,65+,28,Asian,No estimate,
+North Carolina,Age,65+,28,Other,No estimate,
+North Carolina,Education,High school,28,All voters,R+4,-4
+North Carolina,Education,High school,28,White,No change,0
+North Carolina,Education,High school,28,Black,R+10,-10
+North Carolina,Education,High school,28,Hispanic,No estimate,
+North Carolina,Education,High school,28,Asian,No estimate,
+North Carolina,Education,High school,28,Other,No estimate,
+North Carolina,Education,Some college,32,All voters,R+3,-3
+North Carolina,Education,Some college,32,White,No change,0
+North Carolina,Education,Some college,32,Black,R+7,-7
+North Carolina,Education,Some college,32,Hispanic,No estimate,
+North Carolina,Education,Some college,32,Asian,No estimate,
+North Carolina,Education,Some college,32,Other,No estimate,
+North Carolina,Education,College grad.,25,All voters,D+1,1
+North Carolina,Education,College grad.,25,White,D+4,4
+North Carolina,Education,College grad.,25,Black,R+4,-4
+North Carolina,Education,College grad.,25,Hispanic,No estimate,
+North Carolina,Education,College grad.,25,Asian,No estimate,
+North Carolina,Education,College grad.,25,Other,No estimate,
+North Carolina,Education,Postgraduate,15,All voters,R+4,-4
+North Carolina,Education,Postgraduate,15,White,R+2,-2
+North Carolina,Education,Postgraduate,15,Black,R+5,-5
+North Carolina,Education,Postgraduate,15,Hispanic,No estimate,
+North Carolina,Education,Postgraduate,15,Asian,No estimate,
+North Carolina,Education,Postgraduate,15,Other,No estimate,
+North Dakota,All,All,100,All voters,R+3,-3
+North Dakota,All,All,100,White,R+3,-3
+North Dakota,All,All,100,Black,R+9,-9
+North Dakota,Gender,Male,50,All voters,R+6,-6
+North Dakota,Gender,Male,50,White,R+5,-5
+North Dakota,Gender,Male,50,Black,No estimate,
+North Dakota,Gender,Female,50,All voters,D+1,1
+North Dakota,Gender,Female,50,White,D+1,1
+North Dakota,Gender,Female,50,Black,No estimate,
+North Dakota,Age,18-29,15,All voters,R+10,-10
+North Dakota,Age,18-29,15,White,R+7,-7
+North Dakota,Age,18-29,15,Black,No estimate,
+North Dakota,Age,30-44,22,All voters,D+1,1
+North Dakota,Age,30-44,22,White,D+1,1
+North Dakota,Age,30-44,22,Black,No estimate,
+North Dakota,Age,45-64,34,All voters,R+1,-1
+North Dakota,Age,45-64,34,White,R+1,-1
+North Dakota,Age,45-64,34,Black,No estimate,
+North Dakota,Age,65+,29,All voters,R+5,-5
+North Dakota,Age,65+,29,White,R+5,-5
+North Dakota,Age,65+,29,Black,No estimate,
+North Dakota,Education,High school,25,All voters,R+10,-10
+North Dakota,Education,High school,25,White,R+9,-9
+North Dakota,Education,High school,25,Black,No estimate,
+North Dakota,Education,Some college,39,All voters,R+3,-3
+North Dakota,Education,Some college,39,White,R+3,-3
+North Dakota,Education,Some college,39,Black,No estimate,
+North Dakota,Education,College grad.,26,All voters,No change,0
+North Dakota,Education,College grad.,26,White,No change,0
+North Dakota,Education,College grad.,26,Black,No estimate,
+North Dakota,Education,Postgraduate,11,All voters,R+1,-1
+North Dakota,Education,Postgraduate,11,White,R+1,-1
+North Dakota,Education,Postgraduate,11,Black,No estimate,
+Pennsylvania,All,All,100,All voters,R+3,-3
+Pennsylvania,All,All,100,White,R+2,-2
+Pennsylvania,All,All,100,Black,R+10,-10
+Pennsylvania,All,All,100,Hispanic,R+17,-17
+Pennsylvania,All,All,100,Asian,No estimate,
+Pennsylvania,All,All,100,Other,No estimate,
+Pennsylvania,Gender,Male,47,All voters,R+6,-6
+Pennsylvania,Gender,Male,47,White,R+5,-5
+Pennsylvania,Gender,Male,47,Black,R+18,-18
+Pennsylvania,Gender,Male,47,Hispanic,R+21,-21
+Pennsylvania,Gender,Male,47,Asian,No estimate,
+Pennsylvania,Gender,Male,47,Other,No estimate,
+Pennsylvania,Gender,Female,53,All voters,No change,0
+Pennsylvania,Gender,Female,53,White,No change,0
+Pennsylvania,Gender,Female,53,Black,R+6,-6
+Pennsylvania,Gender,Female,53,Hispanic,R+14,-14
+Pennsylvania,Gender,Female,53,Asian,No estimate,
+Pennsylvania,Gender,Female,53,Other,No estimate,
+Pennsylvania,Age,18-29,15,All voters,R+14,-14
+Pennsylvania,Age,18-29,15,White,R+14,-14
+Pennsylvania,Age,18-29,15,Black,R+13,-13
+Pennsylvania,Age,18-29,15,Hispanic,R+31,-31
+Pennsylvania,Age,18-29,15,Asian,No estimate,
+Pennsylvania,Age,18-29,15,Other,No estimate,
+Pennsylvania,Age,30-44,22,All voters,R+3,-3
+Pennsylvania,Age,30-44,22,White,R+1,-1
+Pennsylvania,Age,30-44,22,Black,R+14,-14
+Pennsylvania,Age,30-44,22,Hispanic,R+23,-23
+Pennsylvania,Age,30-44,22,Asian,No estimate,
+Pennsylvania,Age,30-44,22,Other,No estimate,
+Pennsylvania,Age,45-64,33,All voters,R+2,-2
+Pennsylvania,Age,45-64,33,White,R+2,-2
+Pennsylvania,Age,45-64,33,Black,R+9,-9
+Pennsylvania,Age,45-64,33,Hispanic,R+10,-10
+Pennsylvania,Age,45-64,33,Asian,No estimate,
+Pennsylvania,Age,45-64,33,Other,No estimate,
+Pennsylvania,Age,65+,30,All voters,D+1,1
+Pennsylvania,Age,65+,30,White,D+1,1
+Pennsylvania,Age,65+,30,Black,R+6,-6
+Pennsylvania,Age,65+,30,Hispanic,D+2,2
+Pennsylvania,Age,65+,30,Asian,No estimate,
+Pennsylvania,Age,65+,30,Other,No estimate,
+Pennsylvania,Education,High school,35,All voters,R+8,-8
+Pennsylvania,Education,High school,35,White,R+9,-9
+Pennsylvania,Education,High school,35,Black,R+12,-12
+Pennsylvania,Education,High school,35,Hispanic,R+22,-22
+Pennsylvania,Education,High school,35,Asian,No estimate,
+Pennsylvania,Education,High school,35,Other,No estimate,
+Pennsylvania,Education,Some college,26,All voters,R+3,-3
+Pennsylvania,Education,Some college,26,White,R+1,-1
+Pennsylvania,Education,Some college,26,Black,R+10,-10
+Pennsylvania,Education,Some college,26,Hispanic,R+17,-17
+Pennsylvania,Education,Some college,26,Asian,No estimate,
+Pennsylvania,Education,Some college,26,Other,No estimate,
+Pennsylvania,Education,College grad.,23,All voters,R+3,-3
+Pennsylvania,Education,College grad.,23,White,R+2,-2
+Pennsylvania,Education,College grad.,23,Black,R+7,-7
+Pennsylvania,Education,College grad.,23,Hispanic,R+11,-11
+Pennsylvania,Education,College grad.,23,Asian,No estimate,
+Pennsylvania,Education,College grad.,23,Other,No estimate,
+Pennsylvania,Education,Postgraduate,16,All voters,D+2,2
+Pennsylvania,Education,Postgraduate,16,White,D+2,2
+Pennsylvania,Education,Postgraduate,16,Black,R+8,-8
+Pennsylvania,Education,Postgraduate,16,Hispanic,R+5,-5
+Pennsylvania,Education,Postgraduate,16,Asian,No estimate,
+Pennsylvania,Education,Postgraduate,16,Other,No estimate,
+New York,All,All,100,All voters,R+10,-10
+New York,All,All,100,White,R+7,-7
+New York,All,All,100,Black,R+12,-12
+New York,All,All,100,Hispanic,R+25,-25
+New York,All,All,100,Asian,R+19,-19
+New York,All,All,100,Other,No estimate,
+New York,Gender,Male,45,All voters,R+14,-14
+New York,Gender,Male,45,White,R+10,-10
+New York,Gender,Male,45,Black,R+21,-21
+New York,Gender,Male,45,Hispanic,R+28,-28
+New York,Gender,Male,45,Asian,R+19,-19
+New York,Gender,Male,45,Other,No estimate,
+New York,Gender,Female,55,All voters,R+8,-8
+New York,Gender,Female,55,White,R+4,-4
+New York,Gender,Female,55,Black,R+6,-6
+New York,Gender,Female,55,Hispanic,R+22,-22
+New York,Gender,Female,55,Asian,No estimate,
+New York,Gender,Female,55,Other,No estimate,
+New York,Age,18-29,14,All voters,R+25,-25
+New York,Age,18-29,14,White,R+22,-22
+New York,Age,18-29,14,Black,R+16,-16
+New York,Age,18-29,14,Hispanic,R+44,-44
+New York,Age,18-29,14,Asian,No estimate,
+New York,Age,18-29,14,Other,No estimate,
+New York,Age,30-44,23,All voters,R+14,-14
+New York,Age,30-44,23,White,R+7,-7
+New York,Age,30-44,23,Black,R+19,-19
+New York,Age,30-44,23,Hispanic,R+33,-33
+New York,Age,30-44,23,Asian,No estimate,
+New York,Age,30-44,23,Other,No estimate,
+New York,Age,45-64,34,All voters,R+8,-8
+New York,Age,45-64,34,White,R+6,-6
+New York,Age,45-64,34,Black,R+10,-10
+New York,Age,45-64,34,Hispanic,R+20,-20
+New York,Age,45-64,34,Asian,No estimate,
+New York,Age,45-64,34,Other,No estimate,
+New York,Age,65+,29,All voters,R+2,-2
+New York,Age,65+,29,White,R+2,-2
+New York,Age,65+,29,Black,R+7,-7
+New York,Age,65+,29,Hispanic,R+3,-3
+New York,Age,65+,29,Asian,No estimate,
+New York,Age,65+,29,Other,No estimate,
+New York,Education,High school,27,All voters,R+16,-16
+New York,Education,High school,27,White,R+12,-12
+New York,Education,High school,27,Black,R+14,-14
+New York,Education,High school,27,Hispanic,R+34,-34
+New York,Education,High school,27,Asian,No estimate,
+New York,Education,High school,27,Other,No estimate,
+New York,Education,Some college,26,All voters,R+12,-12
+New York,Education,Some college,26,White,R+9,-9
+New York,Education,Some college,26,Black,R+13,-13
+New York,Education,Some college,26,Hispanic,R+25,-25
+New York,Education,Some college,26,Asian,No estimate,
+New York,Education,Some college,26,Other,No estimate,
+New York,Education,College grad.,26,All voters,R+9,-9
+New York,Education,College grad.,26,White,R+6,-6
+New York,Education,College grad.,26,Black,R+9,-9
+New York,Education,College grad.,26,Hispanic,R+17,-17
+New York,Education,College grad.,26,Asian,No estimate,
+New York,Education,College grad.,26,Other,No estimate,
+New York,Education,Postgraduate,21,All voters,R+6,-6
+New York,Education,Postgraduate,21,White,R+6,-6
+New York,Education,Postgraduate,21,Black,R+9,-9
+New York,Education,Postgraduate,21,Hispanic,R+12,-12
+New York,Education,Postgraduate,21,Asian,No estimate,
+New York,Education,Postgraduate,21,Other,No estimate,
+Virginia,All,All,100,All voters,R+3,-3
+Virginia,All,All,100,White,No change,0
+Virginia,All,All,100,Black,R+8,-8
+Virginia,All,All,100,Hispanic,R+15,-15
+Virginia,All,All,100,Asian,R+26,-26
+Virginia,All,All,100,Other,No estimate,
+Virginia,Gender,Male,46,All voters,R+7,-7
+Virginia,Gender,Male,46,White,R+3,-3
+Virginia,Gender,Male,46,Black,R+16,-16
+Virginia,Gender,Male,46,Hispanic,No estimate,
+Virginia,Gender,Male,46,Asian,R+26,-26
+Virginia,Gender,Male,46,Other,No estimate,
+Virginia,Gender,Female,54,All voters,No change,0
+Virginia,Gender,Female,54,White,D+3,3
+Virginia,Gender,Female,54,Black,R+2,-2
+Virginia,Gender,Female,54,Hispanic,No estimate,
+Virginia,Gender,Female,54,Asian,No estimate,
+Virginia,Gender,Female,54,Other,No estimate,
+Virginia,Age,18-29,16,All voters,R+10,-10
+Virginia,Age,18-29,16,White,R+7,-7
+Virginia,Age,18-29,16,Black,R+10,-10
+Virginia,Age,18-29,16,Hispanic,No estimate,
+Virginia,Age,18-29,16,Asian,No estimate,
+Virginia,Age,18-29,16,Other,No estimate,
+Virginia,Age,30-44,23,All voters,R+6,-6
+Virginia,Age,30-44,23,White,R+2,-2
+Virginia,Age,30-44,23,Black,R+12,-12
+Virginia,Age,30-44,23,Hispanic,No estimate,
+Virginia,Age,30-44,23,Asian,No estimate,
+Virginia,Age,30-44,23,Other,No estimate,
+Virginia,Age,45-64,34,All voters,R+3,-3
+Virginia,Age,45-64,34,White,No change,0
+Virginia,Age,45-64,34,Black,R+7,-7
+Virginia,Age,45-64,34,Hispanic,No estimate,
+Virginia,Age,45-64,34,Asian,No estimate,
+Virginia,Age,45-64,34,Other,No estimate,
+Virginia,Age,65+,27,All voters,D+3,3
+Virginia,Age,65+,27,White,D+4,4
+Virginia,Age,65+,27,Black,R+3,-3
+Virginia,Age,65+,27,Hispanic,No estimate,
+Virginia,Age,65+,27,Asian,No estimate,
+Virginia,Age,65+,27,Other,No estimate,
+Virginia,Education,High school,27,All voters,R+7,-7
+Virginia,Education,High school,27,White,R+4,-4
+Virginia,Education,High school,27,Black,R+10,-10
+Virginia,Education,High school,27,Hispanic,No estimate,
+Virginia,Education,High school,27,Asian,No estimate,
+Virginia,Education,High school,27,Other,No estimate,
+Virginia,Education,Some college,27,All voters,R+3,-3
+Virginia,Education,Some college,27,White,R+2,-2
+Virginia,Education,Some college,27,Black,R+7,-7
+Virginia,Education,Some college,27,Hispanic,No estimate,
+Virginia,Education,Some college,27,Asian,No estimate,
+Virginia,Education,Some college,27,Other,No estimate,
+Virginia,Education,College grad.,26,All voters,R+2,-2
+Virginia,Education,College grad.,26,White,No change,0
+Virginia,Education,College grad.,26,Black,R+6,-6
+Virginia,Education,College grad.,26,Hispanic,No estimate,
+Virginia,Education,College grad.,26,Asian,No estimate,
+Virginia,Education,College grad.,26,Other,No estimate,
+Virginia,Education,Postgraduate,20,All voters,R+5,-5
+Virginia,Education,Postgraduate,20,White,R+1,-1
+Virginia,Education,Postgraduate,20,Black,R+7,-7
+Virginia,Education,Postgraduate,20,Hispanic,No estimate,
+Virginia,Education,Postgraduate,20,Asian,No estimate,
+Virginia,Education,Postgraduate,20,Other,No estimate,
+Vermont,All,All,100,All voters,R+3,-3
+Vermont,All,All,100,White,R+2,-2
+Vermont,All,All,100,Black,No estimate,
+Vermont,Gender,Male,48,All voters,R+6,-6
+Vermont,Gender,Male,48,White,R+5,-5
+Vermont,Gender,Male,48,Black,No estimate,
+Vermont,Gender,Female,52,All voters,R+1,-1
+Vermont,Gender,Female,52,White,No change,0
+Vermont,Gender,Female,52,Black,No estimate,
+Vermont,Age,18-29,12,All voters,R+14,-14
+Vermont,Age,18-29,12,White,R+12,-12
+Vermont,Age,18-29,12,Black,No estimate,
+Vermont,Age,30-44,22,All voters,R+5,-5
+Vermont,Age,30-44,22,White,R+4,-4
+Vermont,Age,30-44,22,Black,No estimate,
+Vermont,Age,45-64,33,All voters,R+1,-1
+Vermont,Age,45-64,33,White,R+1,-1
+Vermont,Age,45-64,33,Black,No estimate,
+Vermont,Age,65+,33,All voters,R+1,-1
+Vermont,Age,65+,33,White,R+1,-1
+Vermont,Age,65+,33,Black,No estimate,
+Vermont,Education,High school,27,All voters,R+14,-14
+Vermont,Education,High school,27,White,R+14,-14
+Vermont,Education,High school,27,Black,No estimate,
+Vermont,Education,Some college,25,All voters,R+7,-7
+Vermont,Education,Some college,25,White,R+6,-6
+Vermont,Education,Some college,25,Black,No estimate,
+Vermont,Education,College grad.,28,All voters,R+2,-2
+Vermont,Education,College grad.,28,White,R+1,-1
+Vermont,Education,College grad.,28,Black,No estimate,
+Vermont,Education,Postgraduate,21,All voters,D+1,1
+Vermont,Education,Postgraduate,21,White,D+2,2
+Vermont,Education,Postgraduate,21,Black,No estimate,
+South Carolina,All,All,100,All voters,R+6,-6
+South Carolina,All,All,100,White,No change,0
+South Carolina,All,All,100,Black,R+7,-7
+South Carolina,All,All,100,Hispanic,No estimate,
+South Carolina,All,All,100,Asian,No estimate,
+South Carolina,All,All,100,Other,No estimate,
+South Carolina,Gender,Male,44,All voters,R+10,-10
+South Carolina,Gender,Male,44,White,R+4,-4
+South Carolina,Gender,Male,44,Black,R+16,-16
+South Carolina,Gender,Male,44,Hispanic,No estimate,
+South Carolina,Gender,Male,44,Asian,No estimate,
+South Carolina,Gender,Male,44,Other,No estimate,
+South Carolina,Gender,Female,56,All voters,R+2,-2
+South Carolina,Gender,Female,56,White,D+3,3
+South Carolina,Gender,Female,56,Black,R+2,-2
+South Carolina,Gender,Female,56,Hispanic,No estimate,
+South Carolina,Gender,Female,56,Asian,No estimate,
+South Carolina,Gender,Female,56,Other,No estimate,
+South Carolina,Age,18-29,12,All voters,R+17,-17
+South Carolina,Age,18-29,12,White,R+11,-11
+South Carolina,Age,18-29,12,Black,R+13,-13
+South Carolina,Age,18-29,12,Hispanic,No estimate,
+South Carolina,Age,18-29,12,Asian,No estimate,
+South Carolina,Age,18-29,12,Other,No estimate,
+South Carolina,Age,30-44,21,All voters,R+10,-10
+South Carolina,Age,30-44,21,White,R+2,-2
+South Carolina,Age,30-44,21,Black,R+12,-12
+South Carolina,Age,30-44,21,Hispanic,No estimate,
+South Carolina,Age,30-44,21,Asian,No estimate,
+South Carolina,Age,30-44,21,Other,No estimate,
+South Carolina,Age,45-64,35,All voters,R+5,-5
+South Carolina,Age,45-64,35,White,No change,0
+South Carolina,Age,45-64,35,Black,R+7,-7
+South Carolina,Age,45-64,35,Hispanic,No estimate,
+South Carolina,Age,45-64,35,Asian,No estimate,
+South Carolina,Age,45-64,35,Other,No estimate,
+South Carolina,Age,65+,32,All voters,D+2,2
+South Carolina,Age,65+,32,White,D+5,5
+South Carolina,Age,65+,32,Black,R+4,-4
+South Carolina,Age,65+,32,Hispanic,No estimate,
+South Carolina,Age,65+,32,Asian,No estimate,
+South Carolina,Age,65+,32,Other,No estimate,
+South Carolina,Education,High school,30,All voters,R+9,-9
+South Carolina,Education,High school,30,White,R+2,-2
+South Carolina,Education,High school,30,Black,R+9,-9
+South Carolina,Education,High school,30,Hispanic,No estimate,
+South Carolina,Education,High school,30,Asian,No estimate,
+South Carolina,Education,High school,30,Other,No estimate,
+South Carolina,Education,Some college,32,All voters,R+5,-5
+South Carolina,Education,Some college,32,White,R+1,-1
+South Carolina,Education,Some college,32,Black,R+7,-7
+South Carolina,Education,Some college,32,Hispanic,No estimate,
+South Carolina,Education,Some college,32,Asian,No estimate,
+South Carolina,Education,Some college,32,Other,No estimate,
+South Carolina,Education,College grad.,23,All voters,R+3,-3
+South Carolina,Education,College grad.,23,White,D+1,1
+South Carolina,Education,College grad.,23,Black,R+5,-5
+South Carolina,Education,College grad.,23,Hispanic,No estimate,
+South Carolina,Education,College grad.,23,Asian,No estimate,
+South Carolina,Education,College grad.,23,Other,No estimate,
+South Carolina,Education,Postgraduate,15,All voters,R+8,-8
+South Carolina,Education,Postgraduate,15,White,R+4,-4
+South Carolina,Education,Postgraduate,15,Black,R+7,-7
+South Carolina,Education,Postgraduate,15,Hispanic,No estimate,
+South Carolina,Education,Postgraduate,15,Asian,No estimate,
+South Carolina,Education,Postgraduate,15,Other,No estimate,
+Rhode Island,All,All,100,All voters,R+7,-7
+Rhode Island,All,All,100,White,R+5,-5
+Rhode Island,All,All,100,Black,No estimate,
+Rhode Island,All,All,100,Hispanic,R+21,-21
+Rhode Island,All,All,100,Asian,No estimate,
+Rhode Island,All,All,100,Other,No estimate,
+Rhode Island,Gender,Male,46,All voters,R+11,-11
+Rhode Island,Gender,Male,46,White,R+9,-9
+Rhode Island,Gender,Male,46,Black,No estimate,
+Rhode Island,Gender,Male,46,Hispanic,R+24,-24
+Rhode Island,Gender,Male,46,Asian,No estimate,
+Rhode Island,Gender,Male,46,Other,No estimate,
+Rhode Island,Gender,Female,54,All voters,R+4,-4
+Rhode Island,Gender,Female,54,White,R+2,-2
+Rhode Island,Gender,Female,54,Black,No estimate,
+Rhode Island,Gender,Female,54,Hispanic,R+18,-18
+Rhode Island,Gender,Female,54,Asian,No estimate,
+Rhode Island,Gender,Female,54,Other,No estimate,
+Rhode Island,Age,18-29,14,All voters,R+24,-24
+Rhode Island,Age,18-29,14,White,R+21,-21
+Rhode Island,Age,18-29,14,Black,No estimate,
+Rhode Island,Age,18-29,14,Hispanic,R+43,-43
+Rhode Island,Age,18-29,14,Asian,No estimate,
+Rhode Island,Age,18-29,14,Other,No estimate,
+Rhode Island,Age,30-44,22,All voters,R+10,-10
+Rhode Island,Age,30-44,22,White,R+6,-6
+Rhode Island,Age,30-44,22,Black,No estimate,
+Rhode Island,Age,30-44,22,Hispanic,R+30,-30
+Rhode Island,Age,30-44,22,Asian,No estimate,
+Rhode Island,Age,30-44,22,Other,No estimate,
+Rhode Island,Age,45-64,33,All voters,R+6,-6
+Rhode Island,Age,45-64,33,White,R+7,-7
+Rhode Island,Age,45-64,33,Black,No estimate,
+Rhode Island,Age,45-64,33,Hispanic,R+11,-11
+Rhode Island,Age,45-64,33,Asian,No estimate,
+Rhode Island,Age,45-64,33,Other,No estimate,
+Rhode Island,Age,65+,30,All voters,D+2,2
+Rhode Island,Age,65+,30,White,D+1,1
+Rhode Island,Age,65+,30,Black,No estimate,
+Rhode Island,Age,65+,30,Hispanic,D+6,6
+Rhode Island,Age,65+,30,Asian,No estimate,
+Rhode Island,Age,65+,30,Other,No estimate,
+Rhode Island,Education,High school,29,All voters,R+11,-11
+Rhode Island,Education,High school,29,White,R+9,-9
+Rhode Island,Education,High school,29,Black,No estimate,
+Rhode Island,Education,High school,29,Hispanic,R+27,-27
+Rhode Island,Education,High school,29,Asian,No estimate,
+Rhode Island,Education,High school,29,Other,No estimate,
+Rhode Island,Education,Some college,26,All voters,R+8,-8
+Rhode Island,Education,Some college,26,White,R+7,-7
+Rhode Island,Education,Some college,26,Black,No estimate,
+Rhode Island,Education,Some college,26,Hispanic,R+16,-16
+Rhode Island,Education,Some college,26,Asian,No estimate,
+Rhode Island,Education,Some college,26,Other,No estimate,
+Rhode Island,Education,College grad.,26,All voters,R+7,-7
+Rhode Island,Education,College grad.,26,White,R+6,-6
+Rhode Island,Education,College grad.,26,Black,No estimate,
+Rhode Island,Education,College grad.,26,Hispanic,R+17,-17
+Rhode Island,Education,College grad.,26,Asian,No estimate,
+Rhode Island,Education,College grad.,26,Other,No estimate,
+Rhode Island,Education,Postgraduate,19,All voters,R+7,-7
+Rhode Island,Education,Postgraduate,19,White,R+7,-7
+Rhode Island,Education,Postgraduate,19,Black,No estimate,
+Rhode Island,Education,Postgraduate,19,Hispanic,R+12,-12
+Rhode Island,Education,Postgraduate,19,Asian,No estimate,
+Rhode Island,Education,Postgraduate,19,Other,No estimate,
+South Dakota,All,All,100,All voters,R+3,-3
+South Dakota,All,All,100,White,R+3,-3
+South Dakota,All,All,100,Black,R+7,-7
+South Dakota,Gender,Male,49,All voters,R+5,-5
+South Dakota,Gender,Male,49,White,R+5,-5
+South Dakota,Gender,Male,49,Black,R+12,-12
+South Dakota,Gender,Female,51,All voters,No change,0
+South Dakota,Gender,Female,51,White,No change,0
+South Dakota,Gender,Female,51,Black,R+3,-3
+South Dakota,Age,18-29,12,All voters,R+11,-11
+South Dakota,Age,18-29,12,White,R+11,-11
+South Dakota,Age,18-29,12,Black,R+16,-16
+South Dakota,Age,30-44,23,All voters,R+2,-2
+South Dakota,Age,30-44,23,White,R+2,-2
+South Dakota,Age,30-44,23,Black,R+7,-7
+South Dakota,Age,45-64,32,All voters,R+3,-3
+South Dakota,Age,45-64,32,White,R+3,-3
+South Dakota,Age,45-64,32,Black,R+9,-9
+South Dakota,Age,65+,32,All voters,R+1,-1
+South Dakota,Age,65+,32,White,R+1,-1
+South Dakota,Age,65+,32,Black,D+3,3
+South Dakota,Education,High school,28,All voters,R+5,-5
+South Dakota,Education,High school,28,White,R+6,-6
+South Dakota,Education,High school,28,Black,R+7,-7
+South Dakota,Education,Some college,35,All voters,R+5,-5
+South Dakota,Education,Some college,35,White,R+5,-5
+South Dakota,Education,Some college,35,Black,R+8,-8
+South Dakota,Education,College grad.,25,All voters,R+1,-1
+South Dakota,Education,College grad.,25,White,R+1,-1
+South Dakota,Education,College grad.,25,Black,R+8,-8
+South Dakota,Education,Postgraduate,12,All voters,R+6,-6
+South Dakota,Education,Postgraduate,12,White,R+6,-6
+South Dakota,Education,Postgraduate,12,Black,R+7,-7
+Tennessee,All,All,100,All voters,R+6,-6
+Tennessee,All,All,100,White,R+4,-4
+Tennessee,All,All,100,Black,R+8,-8
+Tennessee,All,All,100,Hispanic,No estimate,
+Tennessee,All,All,100,Asian,No estimate,
+Tennessee,All,All,100,Other,No estimate,
+Tennessee,Gender,Male,45,All voters,R+10,-10
+Tennessee,Gender,Male,45,White,R+7,-7
+Tennessee,Gender,Male,45,Black,R+17,-17
+Tennessee,Gender,Male,45,Hispanic,No estimate,
+Tennessee,Gender,Male,45,Asian,No estimate,
+Tennessee,Gender,Male,45,Other,No estimate,
+Tennessee,Gender,Female,55,All voters,R+3,-3
+Tennessee,Gender,Female,55,White,R+1,-1
+Tennessee,Gender,Female,55,Black,R+3,-3
+Tennessee,Gender,Female,55,Hispanic,No estimate,
+Tennessee,Gender,Female,55,Asian,No estimate,
+Tennessee,Gender,Female,55,Other,No estimate,
+Tennessee,Age,18-29,14,All voters,R+16,-16
+Tennessee,Age,18-29,14,White,R+14,-14
+Tennessee,Age,18-29,14,Black,R+12,-12
+Tennessee,Age,18-29,14,Hispanic,No estimate,
+Tennessee,Age,18-29,14,Asian,No estimate,
+Tennessee,Age,18-29,14,Other,No estimate,
+Tennessee,Age,30-44,22,All voters,R+6,-6
+Tennessee,Age,30-44,22,White,R+1,-1
+Tennessee,Age,30-44,22,Black,R+12,-12
+Tennessee,Age,30-44,22,Hispanic,No estimate,
+Tennessee,Age,30-44,22,Asian,No estimate,
+Tennessee,Age,30-44,22,Other,No estimate,
+Tennessee,Age,45-64,35,All voters,R+5,-5
+Tennessee,Age,45-64,35,White,R+3,-3
+Tennessee,Age,45-64,35,Black,R+7,-7
+Tennessee,Age,45-64,35,Hispanic,No estimate,
+Tennessee,Age,45-64,35,Asian,No estimate,
+Tennessee,Age,45-64,35,Other,No estimate,
+Tennessee,Age,65+,29,All voters,R+2,-2
+Tennessee,Age,65+,29,White,R+2,-2
+Tennessee,Age,65+,29,Black,R+5,-5
+Tennessee,Age,65+,29,Hispanic,No estimate,
+Tennessee,Age,65+,29,Asian,No estimate,
+Tennessee,Age,65+,29,Other,No estimate,
+Tennessee,Education,High school,33,All voters,R+9,-9
+Tennessee,Education,High school,33,White,R+7,-7
+Tennessee,Education,High school,33,Black,R+9,-9
+Tennessee,Education,High school,33,Hispanic,No estimate,
+Tennessee,Education,High school,33,Asian,No estimate,
+Tennessee,Education,High school,33,Other,No estimate,
+Tennessee,Education,Some college,30,All voters,R+6,-6
+Tennessee,Education,Some college,30,White,R+4,-4
+Tennessee,Education,Some college,30,Black,R+8,-8
+Tennessee,Education,Some college,30,Hispanic,No estimate,
+Tennessee,Education,Some college,30,Asian,No estimate,
+Tennessee,Education,Some college,30,Other,No estimate,
+Tennessee,Education,College grad.,23,All voters,R+5,-5
+Tennessee,Education,College grad.,23,White,R+3,-3
+Tennessee,Education,College grad.,23,Black,R+5,-5
+Tennessee,Education,College grad.,23,Hispanic,No estimate,
+Tennessee,Education,College grad.,23,Asian,No estimate,
+Tennessee,Education,College grad.,23,Other,No estimate,
+Tennessee,Education,Postgraduate,15,All voters,R+7,-7
+Tennessee,Education,Postgraduate,15,White,R+5,-5
+Tennessee,Education,Postgraduate,15,Black,R+8,-8
+Tennessee,Education,Postgraduate,15,Hispanic,No estimate,
+Tennessee,Education,Postgraduate,15,Asian,No estimate,
+Tennessee,Education,Postgraduate,15,Other,No estimate,
+Utah,All,All,100,All voters,R+1,-1
+Utah,All,All,100,White,R+1,-1
+Utah,All,All,100,Black,No estimate,
+Utah,All,All,100,Hispanic,R+10,-10
+Utah,All,All,100,Asian,No estimate,
+Utah,All,All,100,Other,No estimate,
+Utah,Gender,Male,50,All voters,R+4,-4
+Utah,Gender,Male,50,White,R+3,-3
+Utah,Gender,Male,50,Black,No estimate,
+Utah,Gender,Male,50,Hispanic,No estimate,
+Utah,Gender,Male,50,Asian,No estimate,
+Utah,Gender,Male,50,Other,No estimate,
+Utah,Gender,Female,50,All voters,D+2,2
+Utah,Gender,Female,50,White,D+3,3
+Utah,Gender,Female,50,Black,No estimate,
+Utah,Gender,Female,50,Hispanic,No estimate,
+Utah,Gender,Female,50,Asian,No estimate,
+Utah,Gender,Female,50,Other,No estimate,
+Utah,Age,18-29,20,All voters,R+8,-8
+Utah,Age,18-29,20,White,R+7,-7
+Utah,Age,18-29,20,Black,No estimate,
+Utah,Age,18-29,20,Hispanic,No estimate,
+Utah,Age,18-29,20,Asian,No estimate,
+Utah,Age,18-29,20,Other,No estimate,
+Utah,Age,30-44,27,All voters,No change,0
+Utah,Age,30-44,27,White,No change,0
+Utah,Age,30-44,27,Black,No estimate,
+Utah,Age,30-44,27,Hispanic,No estimate,
+Utah,Age,30-44,27,Asian,No estimate,
+Utah,Age,30-44,27,Other,No estimate,
+Utah,Age,45-64,31,All voters,D+1,1
+Utah,Age,45-64,31,White,D+1,1
+Utah,Age,45-64,31,Black,No estimate,
+Utah,Age,45-64,31,Hispanic,No estimate,
+Utah,Age,45-64,31,Asian,No estimate,
+Utah,Age,45-64,31,Other,No estimate,
+Utah,Age,65+,23,All voters,D+2,2
+Utah,Age,65+,23,White,D+2,2
+Utah,Age,65+,23,Black,No estimate,
+Utah,Age,65+,23,Hispanic,No estimate,
+Utah,Age,65+,23,Asian,No estimate,
+Utah,Age,65+,23,Other,No estimate,
+Utah,Education,High school,21,All voters,R+2,-2
+Utah,Education,High school,21,White,R+3,-3
+Utah,Education,High school,21,Black,No estimate,
+Utah,Education,High school,21,Hispanic,No estimate,
+Utah,Education,High school,21,Asian,No estimate,
+Utah,Education,High school,21,Other,No estimate,
+Utah,Education,Some college,36,All voters,No change,0
+Utah,Education,Some college,36,White,No change,0
+Utah,Education,Some college,36,Black,No estimate,
+Utah,Education,Some college,36,Hispanic,No estimate,
+Utah,Education,Some college,36,Asian,No estimate,
+Utah,Education,Some college,36,Other,No estimate,
+Utah,Education,College grad.,28,All voters,R+2,-2
+Utah,Education,College grad.,28,White,R+1,-1
+Utah,Education,College grad.,28,Black,No estimate,
+Utah,Education,College grad.,28,Hispanic,No estimate,
+Utah,Education,College grad.,28,Asian,No estimate,
+Utah,Education,College grad.,28,Other,No estimate,
+Utah,Education,Postgraduate,15,All voters,R+5,-5
+Utah,Education,Postgraduate,15,White,R+5,-5
+Utah,Education,Postgraduate,15,Black,No estimate,
+Utah,Education,Postgraduate,15,Hispanic,No estimate,
+Utah,Education,Postgraduate,15,Asian,No estimate,
+Utah,Education,Postgraduate,15,Other,No estimate,
+Texas,All,All,100,All voters,R+8,-8
+Texas,All,All,100,White,R+2,-2
+Texas,All,All,100,Black,R+7,-7
+Texas,All,All,100,Hispanic,R+21,-21
+Texas,All,All,100,Asian,R+32,-32
+Texas,All,All,100,Other,No estimate,
+Texas,Gender,Male,46,All voters,R+11,-11
+Texas,Gender,Male,46,White,R+5,-5
+Texas,Gender,Male,46,Black,R+16,-16
+Texas,Gender,Male,46,Hispanic,R+22,-22
+Texas,Gender,Male,46,Asian,R+32,-32
+Texas,Gender,Male,46,Other,No estimate,
+Texas,Gender,Female,54,All voters,R+5,-5
+Texas,Gender,Female,54,White,D+1,1
+Texas,Gender,Female,54,Black,R+2,-2
+Texas,Gender,Female,54,Hispanic,R+20,-20
+Texas,Gender,Female,54,Asian,No estimate,
+Texas,Gender,Female,54,Other,No estimate,
+Texas,Age,18-29,15,All voters,R+19,-19
+Texas,Age,18-29,15,White,R+10,-10
+Texas,Age,18-29,15,Black,R+9,-9
+Texas,Age,18-29,15,Hispanic,R+35,-35
+Texas,Age,18-29,15,Asian,No estimate,
+Texas,Age,18-29,15,Other,No estimate,
+Texas,Age,30-44,24,All voters,R+13,-13
+Texas,Age,30-44,24,White,R+6,-6
+Texas,Age,30-44,24,Black,R+12,-12
+Texas,Age,30-44,24,Hispanic,R+25,-25
+Texas,Age,30-44,24,Asian,No estimate,
+Texas,Age,30-44,24,Other,No estimate,
+Texas,Age,45-64,35,All voters,R+6,-6
+Texas,Age,45-64,35,White,R+1,-1
+Texas,Age,45-64,35,Black,R+6,-6
+Texas,Age,45-64,35,Hispanic,R+18,-18
+Texas,Age,45-64,35,Asian,No estimate,
+Texas,Age,45-64,35,Other,No estimate,
+Texas,Age,65+,26,All voters,D+2,2
+Texas,Age,65+,26,White,D+4,4
+Texas,Age,65+,26,Black,R+4,-4
+Texas,Age,65+,26,Hispanic,R+1,-1
+Texas,Age,65+,26,Asian,No estimate,
+Texas,Age,65+,26,Other,No estimate,
+Texas,Education,High school,26,All voters,R+10,-10
+Texas,Education,High school,26,White,R+1,-1
+Texas,Education,High school,26,Black,R+9,-9
+Texas,Education,High school,26,Hispanic,R+27,-27
+Texas,Education,High school,26,Asian,No estimate,
+Texas,Education,High school,26,Other,No estimate,
+Texas,Education,Some college,31,All voters,R+8,-8
+Texas,Education,Some college,31,White,R+2,-2
+Texas,Education,Some college,31,Black,R+7,-7
+Texas,Education,Some college,31,Hispanic,R+20,-20
+Texas,Education,Some college,31,Asian,No estimate,
+Texas,Education,Some college,31,Other,No estimate,
+Texas,Education,College grad.,27,All voters,R+7,-7
+Texas,Education,College grad.,27,White,R+4,-4
+Texas,Education,College grad.,27,Black,R+5,-5
+Texas,Education,College grad.,27,Hispanic,R+17,-17
+Texas,Education,College grad.,27,Asian,No estimate,
+Texas,Education,College grad.,27,Other,No estimate,
+Texas,Education,Postgraduate,16,All voters,R+10,-10
+Texas,Education,Postgraduate,16,White,R+7,-7
+Texas,Education,Postgraduate,16,Black,R+7,-7
+Texas,Education,Postgraduate,16,Hispanic,R+15,-15
+Texas,Education,Postgraduate,16,Asian,No estimate,
+Texas,Education,Postgraduate,16,Other,No estimate,
+Washington,All,All,100,All voters,R+1,-1
+Washington,All,All,100,White,D+1,1
+Washington,All,All,100,Black,No estimate,
+Washington,All,All,100,Hispanic,R+11,-11
+Washington,All,All,100,Asian,R+8,-8
+Washington,All,All,100,Other,No estimate,
+Washington,Gender,Male,48,All voters,R+3,-3
+Washington,Gender,Male,48,White,R+1,-1
+Washington,Gender,Male,48,Black,No estimate,
+Washington,Gender,Male,48,Hispanic,No estimate,
+Washington,Gender,Male,48,Asian,No estimate,
+Washington,Gender,Male,48,Other,No estimate,
+Washington,Gender,Female,52,All voters,No change,0
+Washington,Gender,Female,52,White,D+2,2
+Washington,Gender,Female,52,Black,No estimate,
+Washington,Gender,Female,52,Hispanic,No estimate,
+Washington,Gender,Female,52,Asian,No estimate,
+Washington,Gender,Female,52,Other,No estimate,
+Washington,Age,18-29,14,All voters,R+9,-9
+Washington,Age,18-29,14,White,R+6,-6
+Washington,Age,18-29,14,Black,No estimate,
+Washington,Age,18-29,14,Hispanic,No estimate,
+Washington,Age,18-29,14,Asian,No estimate,
+Washington,Age,18-29,14,Other,No estimate,
+Washington,Age,30-44,25,All voters,R+1,-1
+Washington,Age,30-44,25,White,D+1,1
+Washington,Age,30-44,25,Black,No estimate,
+Washington,Age,30-44,25,Hispanic,No estimate,
+Washington,Age,30-44,25,Asian,No estimate,
+Washington,Age,30-44,25,Other,No estimate,
+Washington,Age,45-64,32,All voters,No change,0
+Washington,Age,45-64,32,White,D+1,1
+Washington,Age,45-64,32,Black,No estimate,
+Washington,Age,45-64,32,Hispanic,No estimate,
+Washington,Age,45-64,32,Asian,No estimate,
+Washington,Age,45-64,32,Other,No estimate,
+Washington,Age,65+,29,All voters,D+3,3
+Washington,Age,65+,29,White,D+4,4
+Washington,Age,65+,29,Black,No estimate,
+Washington,Age,65+,29,Hispanic,No estimate,
+Washington,Age,65+,29,Asian,No estimate,
+Washington,Age,65+,29,Other,No estimate,
+Washington,Education,High school,24,All voters,R+4,-4
+Washington,Education,High school,24,White,R+2,-2
+Washington,Education,High school,24,Black,No estimate,
+Washington,Education,High school,24,Hispanic,No estimate,
+Washington,Education,High school,24,Asian,No estimate,
+Washington,Education,High school,24,Other,No estimate,
+Washington,Education,Some college,32,All voters,R+1,-1
+Washington,Education,Some college,32,White,D+1,1
+Washington,Education,Some college,32,Black,No estimate,
+Washington,Education,Some college,32,Hispanic,No estimate,
+Washington,Education,Some college,32,Asian,No estimate,
+Washington,Education,Some college,32,Other,No estimate,
+Washington,Education,College grad.,27,All voters,R+3,-3
+Washington,Education,College grad.,27,White,R+2,-2
+Washington,Education,College grad.,27,Black,No estimate,
+Washington,Education,College grad.,27,Hispanic,No estimate,
+Washington,Education,College grad.,27,Asian,No estimate,
+Washington,Education,College grad.,27,Other,No estimate,
+Washington,Education,Postgraduate,17,All voters,R+4,-4
+Washington,Education,Postgraduate,17,White,R+3,-3
+Washington,Education,Postgraduate,17,Black,No estimate,
+Washington,Education,Postgraduate,17,Hispanic,No estimate,
+Washington,Education,Postgraduate,17,Asian,No estimate,
+Washington,Education,Postgraduate,17,Other,No estimate,
+Wyoming,All,All,100,All voters,R+3,-3
+Wyoming,All,All,100,White,R+2,-2
+Wyoming,All,All,100,Black,R+7,-7
+Wyoming,Gender,Male,49,All voters,R+4,-4
+Wyoming,Gender,Male,49,White,R+4,-4
+Wyoming,Gender,Male,49,Black,R+9,-9
+Wyoming,Gender,Female,51,All voters,R+1,-1
+Wyoming,Gender,Female,51,White,R+1,-1
+Wyoming,Gender,Female,51,Black,R+5,-5
+Wyoming,Age,18-29,15,All voters,R+3,-3
+Wyoming,Age,18-29,15,White,R+2,-2
+Wyoming,Age,18-29,15,Black,R+10,-10
+Wyoming,Age,30-44,21,All voters,R+2,-2
+Wyoming,Age,30-44,21,White,R+2,-2
+Wyoming,Age,30-44,21,Black,R+2,-2
+Wyoming,Age,45-64,33,All voters,R+2,-2
+Wyoming,Age,45-64,33,White,R+2,-2
+Wyoming,Age,45-64,33,Black,R+7,-7
+Wyoming,Age,65+,32,All voters,R+3,-3
+Wyoming,Age,65+,32,White,R+3,-3
+Wyoming,Age,65+,32,Black,R+5,-5
+Wyoming,Education,High school,27,All voters,R+2,-2
+Wyoming,Education,High school,27,White,R+2,-2
+Wyoming,Education,High school,27,Black,R+2,-2
+Wyoming,Education,Some college,37,All voters,R+1,-1
+Wyoming,Education,Some college,37,White,R+1,-1
+Wyoming,Education,Some college,37,Black,R+3,-3
+Wyoming,Education,College grad.,23,All voters,R+9,-9
+Wyoming,Education,College grad.,23,White,R+8,-8
+Wyoming,Education,College grad.,23,Black,R+17,-17
+Wyoming,Education,Postgraduate,13,All voters,R+9,-9
+Wyoming,Education,Postgraduate,13,White,R+8,-8
+Wyoming,Education,Postgraduate,13,Black,R+20,-20
+West Virginia,All,All,100,All voters,R+3,-3
+West Virginia,All,All,100,White,R+3,-3
+West Virginia,All,All,100,Black,R+11,-11
+West Virginia,Gender,Male,47,All voters,R+6,-6
+West Virginia,Gender,Male,47,White,R+6,-6
+West Virginia,Gender,Male,47,Black,No estimate,
+West Virginia,Gender,Female,53,All voters,R+1,-1
+West Virginia,Gender,Female,53,White,No change,0
+West Virginia,Gender,Female,53,Black,No estimate,
+West Virginia,Age,18-29,13,All voters,R+14,-14
+West Virginia,Age,18-29,13,White,R+14,-14
+West Virginia,Age,18-29,13,Black,No estimate,
+West Virginia,Age,30-44,19,All voters,D+2,2
+West Virginia,Age,30-44,19,White,D+3,3
+West Virginia,Age,30-44,19,Black,No estimate,
+West Virginia,Age,45-64,35,All voters,R+5,-5
+West Virginia,Age,45-64,35,White,R+5,-5
+West Virginia,Age,45-64,35,Black,No estimate,
+West Virginia,Age,65+,33,All voters,R+2,-2
+West Virginia,Age,65+,33,White,R+2,-2
+West Virginia,Age,65+,33,Black,No estimate,
+West Virginia,Education,High school,42,All voters,R+9,-9
+West Virginia,Education,High school,42,White,R+9,-9
+West Virginia,Education,High school,42,Black,No estimate,
+West Virginia,Education,Some college,29,All voters,R+2,-2
+West Virginia,Education,Some college,29,White,R+2,-2
+West Virginia,Education,Some college,29,Black,No estimate,
+West Virginia,Education,College grad.,17,All voters,D+1,1
+West Virginia,Education,College grad.,17,White,D+1,1
+West Virginia,Education,College grad.,17,Black,No estimate,
+West Virginia,Education,Postgraduate,12,All voters,D+2,2
+West Virginia,Education,Postgraduate,12,White,D+2,2
+West Virginia,Education,Postgraduate,12,Black,No estimate,
+Wisconsin,All,All,100,All voters,R+1,-1
+Wisconsin,All,All,100,White,R+1,-1
+Wisconsin,All,All,100,Black,R+7,-7
+Wisconsin,All,All,100,Hispanic,R+16,-16
+Wisconsin,All,All,100,Asian,No estimate,
+Wisconsin,All,All,100,Other,No estimate,
+Wisconsin,Gender,Male,49,All voters,R+6,-6
+Wisconsin,Gender,Male,49,White,R+5,-5
+Wisconsin,Gender,Male,49,Black,R+15,-15
+Wisconsin,Gender,Male,49,Hispanic,R+18,-18
+Wisconsin,Gender,Male,49,Asian,No estimate,
+Wisconsin,Gender,Male,49,Other,No estimate,
+Wisconsin,Gender,Female,51,All voters,D+3,3
+Wisconsin,Gender,Female,51,White,D+3,3
+Wisconsin,Gender,Female,51,Black,R+2,-2
+Wisconsin,Gender,Female,51,Hispanic,R+15,-15
+Wisconsin,Gender,Female,51,Asian,No estimate,
+Wisconsin,Gender,Female,51,Other,No estimate,
+Wisconsin,Age,18-29,13,All voters,R+10,-10
+Wisconsin,Age,18-29,13,White,R+10,-10
+Wisconsin,Age,18-29,13,Black,R+8,-8
+Wisconsin,Age,18-29,13,Hispanic,R+25,-25
+Wisconsin,Age,18-29,13,Asian,No estimate,
+Wisconsin,Age,18-29,13,Other,No estimate,
+Wisconsin,Age,30-44,21,All voters,R+1,-1
+Wisconsin,Age,30-44,21,White,No change,0
+Wisconsin,Age,30-44,21,Black,R+14,-14
+Wisconsin,Age,30-44,21,Hispanic,R+23,-23
+Wisconsin,Age,30-44,21,Asian,No estimate,
+Wisconsin,Age,30-44,21,Other,No estimate,
+Wisconsin,Age,45-64,36,All voters,D+1,1
+Wisconsin,Age,45-64,36,White,D+1,1
+Wisconsin,Age,45-64,36,Black,R+5,-5
+Wisconsin,Age,45-64,36,Hispanic,R+8,-8
+Wisconsin,Age,45-64,36,Asian,No estimate,
+Wisconsin,Age,45-64,36,Other,No estimate,
+Wisconsin,Age,65+,30,All voters,R+1,-1
+Wisconsin,Age,65+,30,White,R+1,-1
+Wisconsin,Age,65+,30,Black,R+4,-4
+Wisconsin,Age,65+,30,Hispanic,R+1,-1
+Wisconsin,Age,65+,30,Asian,No estimate,
+Wisconsin,Age,65+,30,Other,No estimate,
+Wisconsin,Education,High school,32,All voters,R+6,-6
+Wisconsin,Education,High school,32,White,R+6,-6
+Wisconsin,Education,High school,32,Black,R+10,-10
+Wisconsin,Education,High school,32,Hispanic,R+24,-24
+Wisconsin,Education,High school,32,Asian,No estimate,
+Wisconsin,Education,High school,32,Other,No estimate,
+Wisconsin,Education,Some college,32,All voters,R+1,-1
+Wisconsin,Education,Some college,32,White,R+1,-1
+Wisconsin,Education,Some college,32,Black,R+7,-7
+Wisconsin,Education,Some college,32,Hispanic,R+16,-16
+Wisconsin,Education,Some college,32,Asian,No estimate,
+Wisconsin,Education,Some college,32,Other,No estimate,
+Wisconsin,Education,College grad.,24,All voters,D+2,2
+Wisconsin,Education,College grad.,24,White,D+1,1
+Wisconsin,Education,College grad.,24,Black,R+3,-3
+Wisconsin,Education,College grad.,24,Hispanic,R+6,-6
+Wisconsin,Education,College grad.,24,Asian,No estimate,
+Wisconsin,Education,College grad.,24,Other,No estimate,
+Wisconsin,Education,Postgraduate,12,All voters,No change,0
+Wisconsin,Education,Postgraduate,12,White,No change,0
+Wisconsin,Education,Postgraduate,12,Black,R+2,-2
+Wisconsin,Education,Postgraduate,12,Hispanic,D+1,1
+Wisconsin,Education,Postgraduate,12,Asian,No estimate,
+Wisconsin,Education,Postgraduate,12,Other,No estimate,

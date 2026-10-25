@@ -1,0 +1,1813 @@
+state,category,group,share_of_voters_pct,margin_label,margin_signed_pts_pos_D,harris_pct,trump_pct,shift_from_2020_label,shift_signed_pts_pos_D
+Alabama,All voters,All voters,100,R+30,-30,34,64,R+5,-5
+Alabama,Gender,Male,44,R+45,-45,27,72,R+9,-9
+Alabama,Gender,Female,56,R+19,-19,40,59,R+2,-2
+Alabama,Race,White,73,R+64,-64,17,81,R+1,-1
+Alabama,Race,Black,22,D+78,78,88,11,R+5,-5
+Alabama,Race,Hispanic,2,,,,,,
+Alabama,Race,Asian,1,,,,,,
+Alabama,Race,Other,2,,,,,,
+Alabama,Age,18-29,14,R+18,-18,40,58,R+12,-12
+Alabama,Age,30-44,21,R+25,-25,36,62,R+6,-6
+Alabama,Age,45-64,35,R+35,-35,32,67,R+4,-4
+Alabama,Age,65+,30,R+34,-34,33,67,No change,0
+Alabama,Education,High school,34,R+37,-37,31,68,R+8,-8
+Alabama,Education,Some college,33,R+33,-33,33,66,R+3,-3
+Alabama,Education,College degree,20,R+25,-25,37,62,R+2,-2
+Alabama,Education,Postgraduate,13,R+15,-15,42,57,R+6,-6
+Alabama,Education by race,White college,25,R+47,-47,26,73,R+1,-1
+Alabama,Education by race,White non-college,48,R+73,-73,13,86,R+2,-2
+Alabama,Education by race,Nonwhite college,8,D+60,60,79,19,R+4,-4
+Alabama,Education by race,Nonwhite non-college,19,D+60,60,79,19,R+5,-5
+Alabama,Gender by race,White men,34,R+71,-71,13,85,R+4,-4
+Alabama,Gender by race,White women,39,R+58,-58,21,78,D+2,2
+Alabama,Gender by race,Nonwhite men,10,D+44,44,71,27,R+12,-12
+Alabama,Gender by race,Nonwhite women,17,D+70,70,84,15,R+1,-1
+Alabama,Age by race,White 18-44,25,R+54,-54,22,76,R+1,-1
+Alabama,Age by race,White 45+,48,R+69,-69,15,84,No change,0
+Alabama,Age by race,Nonwhite 18-44,10,D+53,53,75,23,R+10,-10
+Alabama,Age by race,Nonwhite 45+,17,D+64,64,82,17,R+2,-2
+Alabama,Age by gender,Men 18-44,15,R+43,-43,27,70,R+14,-14
+Alabama,Age by gender,Men 45+,29,R+45,-45,27,72,R+6,-6
+Alabama,Age by gender,Women 18-44,20,R+7,-7,46,53,R+4,-4
+Alabama,Age by gender,Women 45+,36,R+26,-26,37,62,No change,0
+Alabama,Voted in the last presidential election,Voted,79,R+30,-30,34,65,No estimate,
+Alabama,Voted in the last presidential election,Didn’t vote,21,R+30,-30,34,64,No estimate,
+Alabama,Voted in the last midterm election,Voted,56,R+33,-33,33,66,No estimate,
+Alabama,Voted in the last midterm election,Didn’t vote,44,R+27,-27,36,63,No estimate,
+Alaska,All voters,All voters,100,R+12,-12,42,54,R+2,-2
+Alaska,Gender,Male,49,R+25,-25,35,60,R+5,-5
+Alaska,Gender,Female,51,Even,0,48,48,D+1,1
+Alaska,Race,White,77,R+18,-18,39,57,No change,0
+Alaska,Race,Black,3,,,,,,
+Alaska,Race,Hispanic,4,,,,,,
+Alaska,Race,Asian,3,,,,,,
+Alaska,Race,Other,13,D+1,1,47,46,No estimate,
+Alaska,Age,18-29,14,R+2,-2,46,48,R+9,-9
+Alaska,Age,30-44,23,R+11,-11,41,52,D+1,1
+Alaska,Age,45-64,35,R+21,-21,37,59,R+3,-3
+Alaska,Age,65+,27,R+7,-7,45,53,D+1,1
+Alaska,Education,High school,31,R+22,-22,37,59,R+2,-2
+Alaska,Education,Some college,33,R+19,-19,38,57,R+2,-2
+Alaska,Education,College degree,22,R+2,-2,47,49,R+3,-3
+Alaska,Education,Postgraduate,14,D+9,9,53,43,R+7,-7
+Alaska,Education by race,White college,29,Even,0,48,48,R+3,-3
+Alaska,Education by race,White non-college,48,R+28,-28,34,62,No change,0
+Alaska,Education by race,Nonwhite college,7,D+13,13,54,41,R+7,-7
+Alaska,Education by race,Nonwhite non-college,16,D+3,3,49,46,R+8,-8
+Alaska,Gender by race,White men,39,R+30,-30,33,63,R+3,-3
+Alaska,Gender by race,White women,38,R+6,-6,46,51,D+2,2
+Alaska,Gender by race,Nonwhite men,11,R+8,-8,43,51,R+13,-13
+Alaska,Gender by race,Nonwhite women,13,D+19,19,57,38,R+3,-3
+Alaska,Age by race,White 18-44,26,R+13,-13,41,54,No change,0
+Alaska,Age by race,White 45+,51,R+20,-20,38,59,No change,0
+Alaska,Age by race,Nonwhite 18-44,11,D+7,7,50,43,R+11,-11
+Alaska,Age by race,Nonwhite 45+,12,D+6,6,51,45,R+3,-3
+Alaska,Age by gender,Men 18-44,18,R+24,-24,34,58,R+6,-6
+Alaska,Age by gender,Men 45+,31,R+26,-26,35,61,R+4,-4
+Alaska,Age by gender,Women 18-44,19,D+8,8,52,43,R+1,-1
+Alaska,Age by gender,Women 45+,31,R+5,-5,47,51,D+3,3
+Alaska,Voted in the last presidential election,Voted,76,R+11,-11,43,54,No estimate,
+Alaska,Voted in the last presidential election,Didn’t vote,24,R+16,-16,39,55,No estimate,
+Alaska,Voted in the last midterm election,Voted,68,R+10,-10,43,53,No estimate,
+Alaska,Voted in the last midterm election,Didn’t vote,32,R+16,-16,39,56,No estimate,
+Arizona,All voters,All voters,100,R+6,-6,47,52,R+6,-6
+Arizona,Gender,Male,47,R+18,-18,40,58,R+8,-8
+Arizona,Gender,Female,53,D+5,5,52,47,R+3,-3
+Arizona,Race,White,68,R+19,-19,40,59,R+4,-4
+Arizona,Race,Black,4,D+57,57,78,21,No estimate,
+Arizona,Race,Hispanic,18,D+20,20,60,39,R+15,-15
+Arizona,Race,Asian,2,,,,,,
+Arizona,Race,Other,7,D+9,9,54,44,No estimate,
+Arizona,Age,18-29,15,D+9,9,54,45,R+18,-18
+Arizona,Age,30-44,21,R+2,-2,48,50,R+8,-8
+Arizona,Age,45-64,31,R+14,-14,43,56,R+4,-4
+Arizona,Age,65+,33,R+7,-7,46,53,No change,0
+Arizona,Education,High school,25,R+13,-13,43,56,R+7,-7
+Arizona,Education,Some college,35,R+12,-12,43,56,R+7,-7
+Arizona,Education,College degree,24,Even,0,49,49,R+4,-4
+Arizona,Education,Postgraduate,16,D+11,11,55,44,R+6,-6
+Arizona,Education by race,White college,30,R+3,-3,48,51,R+4,-4
+Arizona,Education by race,White non-college,38,R+31,-31,34,65,R+5,-5
+Arizona,Education by race,Nonwhite college,10,D+27,27,63,36,R+8,-8
+Arizona,Education by race,Nonwhite non-college,21,D+21,21,60,39,R+14,-14
+Arizona,Gender by race,White men,33,R+29,-29,35,64,R+6,-6
+Arizona,Gender by race,White women,35,R+9,-9,45,54,R+1,-1
+Arizona,Gender by race,Nonwhite men,14,D+9,9,54,45,R+15,-15
+Arizona,Gender by race,Nonwhite women,17,D+33,33,66,33,R+9,-9
+Arizona,Age by race,White 18-44,20,R+12,-12,43,55,R+8,-8
+Arizona,Age by race,White 45+,48,R+22,-22,39,61,R+2,-2
+Arizona,Age by race,Nonwhite 18-44,16,D+21,21,60,39,R+19,-19
+Arizona,Age by race,Nonwhite 45+,16,D+24,24,62,38,R+5,-5
+Arizona,Age by gender,Men 18-44,17,R+14,-14,42,56,R+15,-15
+Arizona,Age by gender,Men 45+,30,R+20,-20,39,60,R+4,-4
+Arizona,Age by gender,Women 18-44,18,D+18,18,58,40,R+9,-9
+Arizona,Age by gender,Women 45+,34,R+1,-1,49,50,D+1,1
+Arizona,Voted in the last presidential election,Voted,76,R+4,-4,47,52,No estimate,
+Arizona,Voted in the last presidential election,Didn’t vote,24,R+11,-11,44,55,No estimate,
+Arizona,Voted in the last midterm election,Voted,68,R+4,-4,47,52,No estimate,
+Arizona,Voted in the last midterm election,Didn’t vote,32,R+9,-9,45,54,No estimate,
+Arkansas,All voters,All voters,100,R+30,-30,34,64,R+3,-3
+Arkansas,Gender,Male,47,R+43,-43,27,70,R+6,-6
+Arkansas,Gender,Female,53,R+19,-19,40,59,D+1,1
+Arkansas,Race,White,81,R+44,-44,27,71,No change,0
+Arkansas,Race,Black,11,D+67,67,83,16,R+7,-7
+Arkansas,Race,Hispanic,3,,,,,,
+Arkansas,Race,Asian,1,,,,,,
+Arkansas,Race,Other,4,,,,,,
+Arkansas,Age,18-29,13,R+18,-18,39,58,R+8,-8
+Arkansas,Age,30-44,20,R+25,-25,36,61,No change,0
+Arkansas,Age,45-64,34,R+37,-37,31,67,R+3,-3
+Arkansas,Age,65+,32,R+30,-30,34,65,R+3,-3
+Arkansas,Education,High school,33,R+42,-42,28,70,R+7,-7
+Arkansas,Education,Some college,33,R+34,-34,32,66,R+2,-2
+Arkansas,Education,College degree,21,R+19,-19,39,58,R+1,-1
+Arkansas,Education,Postgraduate,13,R+6,-6,46,52,R+6,-6
+Arkansas,Education by race,White college,28,R+24,-24,37,61,No change,0
+Arkansas,Education by race,White non-college,53,R+55,-55,21,77,R+2,-2
+Arkansas,Education by race,Nonwhite college,6,D+35,35,66,31,R+10,-10
+Arkansas,Education by race,Nonwhite non-college,13,D+32,32,65,33,R+10,-10
+Arkansas,Gender by race,White men,39,R+54,-54,22,76,R+3,-3
+Arkansas,Gender by race,White women,42,R+36,-36,31,67,D+3,3
+Arkansas,Gender by race,Nonwhite men,8,D+15,15,56,41,R+17,-17
+Arkansas,Gender by race,Nonwhite women,11,D+46,46,72,26,R+5,-5
+Arkansas,Age by race,White 18-44,26,R+36,-36,30,66,D+2,2
+Arkansas,Age by race,White 45+,56,R+49,-49,25,73,R+1,-1
+Arkansas,Age by race,Nonwhite 18-44,8,D+22,22,59,37,R+14,-14
+Arkansas,Age by race,Nonwhite 45+,11,D+41,41,70,29,R+7,-7
+Arkansas,Age by gender,Men 18-44,16,R+40,-40,28,68,R+7,-7
+Arkansas,Age by gender,Men 45+,31,R+44,-44,27,71,R+6,-6
+Arkansas,Age by gender,Women 18-44,17,R+7,-7,45,52,D+2,2
+Arkansas,Age by gender,Women 45+,36,R+25,-25,37,62,No change,0
+Arkansas,Voted in the last presidential election,Voted,78,R+30,-30,34,64,No estimate,
+Arkansas,Voted in the last presidential election,Didn’t vote,22,R+29,-29,34,63,No estimate,
+Arkansas,Voted in the last midterm election,Voted,67,R+31,-31,34,64,No estimate,
+Arkansas,Voted in the last midterm election,Didn’t vote,33,R+28,-28,35,63,No estimate,
+California,All voters,All voters,100,D+20,20,58,38,R+9,-9
+California,Gender,Male,48,D+10,10,53,43,R+11,-11
+California,Gender,Female,52,D+29,29,63,34,R+7,-7
+California,Race,White,49,D+10,10,54,43,R+4,-4
+California,Race,Black,6,D+66,66,82,16,R+10,-10
+California,Race,Hispanic,27,D+23,23,60,37,R+18,-18
+California,Race,Asian,13,D+32,32,64,32,R+7,-7
+California,Race,Other,5,D+16,16,55,39,No estimate,
+California,Age,18-29,16,D+31,31,63,32,R+19,-19
+California,Age,30-44,24,D+21,21,58,37,R+12,-12
+California,Age,45-64,32,D+13,13,55,42,R+6,-6
+California,Age,65+,28,D+20,20,60,39,R+1,-1
+California,Education,High school,25,D+7,7,52,45,R+13,-13
+California,Education,Some college,31,D+12,12,54,43,R+9,-9
+California,Education,College degree,27,D+29,29,63,34,R+8,-8
+California,Education,Postgraduate,17,D+40,40,68,29,R+9,-9
+California,Education by race,White college,25,D+29,29,63,34,R+7,-7
+California,Education by race,White non-college,25,R+8,-8,45,53,R+4,-4
+California,Education by race,Nonwhite college,20,D+39,39,67,29,R+11,-11
+California,Education by race,Nonwhite non-college,31,D+24,24,60,37,R+17,-17
+California,Gender by race,White men,24,D+1,1,49,48,R+6,-6
+California,Gender by race,White women,25,D+19,19,59,39,R+2,-2
+California,Gender by race,Nonwhite men,23,D+19,19,57,39,R+16,-16
+California,Gender by race,Nonwhite women,27,D+39,39,68,29,R+12,-12
+California,Age by race,White 18-44,15,D+19,19,57,38,R+8,-8
+California,Age by race,White 45+,34,D+7,7,52,46,R+1,-1
+California,Age by race,Nonwhite 18-44,25,D+29,29,62,33,R+21,-21
+California,Age by race,Nonwhite 45+,26,D+29,29,64,34,R+7,-7
+California,Age by gender,Men 18-44,19,D+11,11,53,41,R+18,-18
+California,Age by gender,Men 45+,28,D+8,8,53,45,R+5,-5
+California,Age by gender,Women 18-44,21,D+38,38,67,29,R+13,-13
+California,Age by gender,Women 45+,32,D+24,24,61,37,R+2,-2
+California,Voted in the last presidential election,Voted,82,D+21,21,59,38,No estimate,
+California,Voted in the last presidential election,Didn’t vote,18,D+15,15,55,40,No estimate,
+California,Voted in the last midterm election,Voted,62,D+23,23,60,37,No estimate,
+California,Voted in the last midterm election,Didn’t vote,38,D+15,15,55,41,No estimate,
+Colorado,All voters,All voters,100,D+11,11,54,43,R+2,-2
+Colorado,Gender,Male,48,R+2,-2,48,49,R+5,-5
+Colorado,Gender,Female,52,D+22,22,60,38,No change,0
+Colorado,Race,White,78,D+7,7,52,45,R+1,-1
+Colorado,Race,Black,4,,,,,,
+Colorado,Race,Hispanic,12,D+18,18,58,40,R+14,-14
+Colorado,Race,Asian,2,,,,,,
+Colorado,Race,Other,5,,,,,,
+Colorado,Age,18-29,17,D+20,20,58,38,R+12,-12
+Colorado,Age,30-44,27,D+17,17,56,40,R+4,-4
+Colorado,Age,45-64,31,D+2,2,50,48,No change,0
+Colorado,Age,65+,25,D+9,9,54,45,D+3,3
+Colorado,Education,High school,21,R+9,-9,44,54,R+5,-5
+Colorado,Education,Some college,28,R+1,-1,48,49,R+3,-3
+Colorado,Education,College degree,31,D+21,21,59,38,R+3,-3
+Colorado,Education,Postgraduate,20,D+31,31,64,33,R+6,-6
+Colorado,Education by race,White college,42,D+24,24,60,37,R+4,-4
+Colorado,Education by race,White non-college,36,R+12,-12,43,55,R+1,-1
+Colorado,Education by race,Nonwhite college,9,D+33,33,65,32,R+5,-5
+Colorado,Education by race,Nonwhite non-college,13,D+17,17,57,40,R+12,-12
+Colorado,Gender by race,White men,38,R+4,-4,46,51,R+3,-3
+Colorado,Gender by race,White women,40,D+18,18,58,40,D+2,2
+Colorado,Gender by race,Nonwhite men,10,D+10,10,53,43,R+13,-13
+Colorado,Gender by race,Nonwhite women,12,D+35,35,66,31,R+6,-6
+Colorado,Age by race,White 18-44,31,D+16,16,56,40,R+4,-4
+Colorado,Age by race,White 45+,47,D+1,1,50,49,D+2,2
+Colorado,Age by race,Nonwhite 18-44,12,D+22,22,59,37,R+15,-15
+Colorado,Age by race,Nonwhite 45+,10,D+25,25,62,36,R+2,-2
+Colorado,Age by gender,Men 18-44,21,D+3,3,49,46,R+10,-10
+Colorado,Age by gender,Men 45+,27,R+5,-5,46,51,R+2,-2
+Colorado,Age by gender,Women 18-44,22,D+32,32,64,32,R+4,-4
+Colorado,Age by gender,Women 45+,30,D+14,14,57,42,D+4,4
+Colorado,Voted in the last presidential election,Voted,78,D+10,10,54,44,No estimate,
+Colorado,Voted in the last presidential election,Didn’t vote,22,D+12,12,54,42,No estimate,
+Colorado,Voted in the last midterm election,Voted,71,D+12,12,55,43,No estimate,
+Colorado,Voted in the last midterm election,Didn’t vote,29,D+7,7,52,45,No estimate,
+"Washington, D.C.",All voters,All voters,100,D+84,84,90,6,R+3,-3
+"Washington, D.C.",Gender,Male,45,D+79,79,87,8,R+5,-5
+"Washington, D.C.",Gender,Female,55,D+88,88,93,5,R+1,-1
+"Washington, D.C.",Race,White,48,D+82,82,89,7,R+1,-1
+"Washington, D.C.",Race,Black,37,D+89,89,93,4,R+4,-4
+"Washington, D.C.",Race,Hispanic,6,D+71,71,84,13,No estimate,
+"Washington, D.C.",Race,Asian,4,,,,,,
+"Washington, D.C.",Race,Other,5,D+77,77,85,8,No estimate,
+"Washington, D.C.",Age,18-29,20,D+83,83,89,6,R+2,-2
+"Washington, D.C.",Age,30-44,29,D+82,82,89,7,R+5,-5
+"Washington, D.C.",Age,45-64,29,D+83,83,90,7,R+3,-3
+"Washington, D.C.",Age,65+,22,D+88,88,93,6,R+1,-1
+"Washington, D.C.",Education,High school,16,D+83,83,90,7,R+4,-4
+"Washington, D.C.",Education,Some college,14,D+83,83,90,7,R+3,-3
+"Washington, D.C.",Education,College degree,29,D+83,83,90,7,R+2,-2
+"Washington, D.C.",Education,Postgraduate,41,D+85,85,91,6,R+3,-3
+"Washington, D.C.",Education by race,White college,42,D+83,83,90,7,R+2,-2
+"Washington, D.C.",Education by race,White non-college,6,D+76,76,86,10,D+2,2
+"Washington, D.C.",Education by race,Nonwhite college,28,D+86,86,91,5,R+4,-4
+"Washington, D.C.",Education by race,Nonwhite non-college,24,D+85,85,91,6,R+5,-5
+"Washington, D.C.",Gender by race,White men,23,D+78,78,87,9,R+2,-2
+"Washington, D.C.",Gender by race,White women,25,D+86,86,92,6,No change,0
+"Washington, D.C.",Gender by race,Nonwhite men,22,D+80,80,88,8,R+8,-8
+"Washington, D.C.",Gender by race,Nonwhite women,30,D+89,89,93,4,R+2,-2
+"Washington, D.C.",Age by race,White 18-44,24,D+83,83,89,6,R+1,-1
+"Washington, D.C.",Age by race,White 45+,24,D+81,81,89,8,R+1,-1
+"Washington, D.C.",Age by race,Nonwhite 18-44,25,D+82,82,89,7,R+7,-7
+"Washington, D.C.",Age by race,Nonwhite 45+,27,D+89,89,94,5,R+3,-3
+"Washington, D.C.",Age by gender,Men 18-44,23,D+77,77,86,9,R+6,-6
+"Washington, D.C.",Age by gender,Men 45+,22,D+81,81,89,8,R+4,-4
+"Washington, D.C.",Age by gender,Women 18-44,27,D+87,87,92,5,R+2,-2
+"Washington, D.C.",Age by gender,Women 45+,28,D+88,88,93,5,R+1,-1
+"Washington, D.C.",Voted in the last presidential election,Voted,68,D+85,85,91,6,No estimate,
+"Washington, D.C.",Voted in the last presidential election,Didn’t vote,32,D+81,81,88,8,No estimate,
+"Washington, D.C.",Voted in the last midterm election,Voted,54,D+87,87,92,5,No estimate,
+"Washington, D.C.",Voted in the last midterm election,Didn’t vote,46,D+80,80,88,8,No estimate,
+Delaware,All voters,All voters,100,D+15,15,57,42,R+4,-4
+Delaware,Gender,Male,46,Even,0,49,49,R+8,-8
+Delaware,Gender,Female,54,D+27,27,63,36,R+1,-1
+Delaware,Race,White,70,R+4,-4,47,51,R+4,-4
+Delaware,Race,Black,19,D+77,77,88,11,R+12,-12
+Delaware,Race,Hispanic,4,,,,,,
+Delaware,Race,Asian,2,,,,,,
+Delaware,Race,Other,4,,,,,,
+Delaware,Age,18-29,13,D+21,21,59,38,R+17,-17
+Delaware,Age,30-44,19,D+17,17,57,40,R+10,-10
+Delaware,Age,45-64,34,D+10,10,54,44,R+2,-2
+Delaware,Age,65+,35,D+16,16,58,42,D+3,3
+Delaware,Education,High school,30,D+1,1,50,49,R+9,-9
+Delaware,Education,Some college,30,D+10,10,54,44,R+5,-5
+Delaware,Education,College degree,22,D+23,23,61,38,R+2,-2
+Delaware,Education,Postgraduate,18,D+36,36,67,31,R+4,-4
+Delaware,Education by race,White college,29,D+18,18,58,40,R+2,-2
+Delaware,Education by race,White non-college,41,R+19,-19,40,59,R+8,-8
+Delaware,Education by race,Nonwhite college,10,D+59,59,79,19,R+7,-7
+Delaware,Education by race,Nonwhite non-college,20,D+57,57,78,21,R+14,-14
+Delaware,Gender by race,White men,33,R+16,-16,41,57,R+7,-7
+Delaware,Gender by race,White women,37,D+7,7,53,46,R+1,-1
+Delaware,Gender by race,Nonwhite men,12,D+44,44,71,27,R+18,-18
+Delaware,Gender by race,Nonwhite women,17,D+68,68,83,16,R+7,-7
+Delaware,Age by race,White 18-44,20,R+3,-3,47,50,R+13,-13
+Delaware,Age by race,White 45+,51,R+4,-4,48,51,No change,0
+Delaware,Age by race,Nonwhite 18-44,12,D+53,53,75,22,R+18,-18
+Delaware,Age by race,Nonwhite 45+,17,D+62,62,80,19,R+7,-7
+Delaware,Age by gender,Men 18-44,15,R+1,-1,48,49,R+18,-18
+Delaware,Age by gender,Men 45+,31,D+1,1,50,49,R+3,-3
+Delaware,Age by gender,Women 18-44,17,D+36,36,67,31,R+8,-8
+Delaware,Age by gender,Women 45+,37,D+23,23,61,38,D+3,3
+Delaware,Voted in the last presidential election,Voted,76,D+16,16,57,42,No estimate,
+Delaware,Voted in the last presidential election,Didn’t vote,24,D+12,12,55,43,No estimate,
+Delaware,Voted in the last midterm election,Voted,58,D+15,15,57,42,No estimate,
+Delaware,Voted in the last midterm election,Didn’t vote,42,D+14,14,56,42,No estimate,
+Connecticut,All voters,All voters,100,D+15,15,56,42,R+5,-5
+Connecticut,Gender,Male,46,R+1,-1,48,50,R+9,-9
+Connecticut,Gender,Female,54,D+28,28,63,35,R+2,-2
+Connecticut,Race,White,76,D+8,8,53,45,R+3,-3
+Connecticut,Race,Black,8,D+69,69,84,15,R+13,-13
+Connecticut,Race,Hispanic,10,D+21,21,59,39,R+19,-19
+Connecticut,Race,Asian,3,,,,,,
+Connecticut,Race,Other,4,,,,,,
+Connecticut,Age,18-29,14,D+20,20,59,39,R+17,-17
+Connecticut,Age,30-44,21,D+15,15,56,41,R+10,-10
+Connecticut,Age,45-64,35,D+7,7,53,46,R+4,-4
+Connecticut,Age,65+,30,D+21,21,60,39,D+1,1
+Connecticut,Education,High school,26,R+1,-1,49,50,R+10,-10
+Connecticut,Education,Some college,26,D+7,7,53,46,R+6,-6
+Connecticut,Education,College degree,26,D+21,21,60,38,R+3,-3
+Connecticut,Education,Postgraduate,22,D+34,34,66,32,R+6,-6
+Connecticut,Education by race,White college,39,D+24,24,61,37,R+3,-3
+Connecticut,Education by race,White non-college,37,R+9,-9,45,54,R+6,-6
+Connecticut,Education by race,Nonwhite college,9,D+41,41,69,29,R+8,-8
+Connecticut,Education by race,Nonwhite non-college,15,D+32,32,65,33,R+19,-19
+Connecticut,Gender by race,White men,35,R+7,-7,45,53,R+7,-7
+Connecticut,Gender by race,White women,40,D+22,22,60,39,No change,0
+Connecticut,Gender by race,Nonwhite men,10,D+19,19,58,39,R+21,-21
+Connecticut,Gender by race,Nonwhite women,14,D+47,47,72,26,R+11,-11
+Connecticut,Age by race,White 18-44,24,D+11,11,54,43,R+9,-9
+Connecticut,Age by race,White 45+,52,D+7,7,53,46,No change,0
+Connecticut,Age by race,Nonwhite 18-44,11,D+30,30,64,33,R+22,-22
+Connecticut,Age by race,Nonwhite 45+,14,D+39,39,69,30,R+9,-9
+Connecticut,Age by gender,Men 18-44,16,R+5,-5,46,51,R+18,-18
+Connecticut,Age by gender,Men 45+,30,Even,0,49,49,R+5,-5
+Connecticut,Age by gender,Women 18-44,19,D+35,35,66,31,R+9,-9
+Connecticut,Age by gender,Women 45+,36,D+24,24,62,37,D+2,2
+Connecticut,Voted in the last presidential election,Voted,80,D+15,15,57,42,No estimate,
+Connecticut,Voted in the last presidential election,Didn’t vote,20,D+12,12,55,43,No estimate,
+Connecticut,Voted in the last midterm election,Voted,65,D+17,17,58,41,No estimate,
+Connecticut,Voted in the last midterm election,Didn’t vote,35,D+11,11,54,43,No estimate,
+Hawaii,All voters,All voters,100,D+23,23,61,37,R+6,-6
+Hawaii,Gender,Male,48,D+14,14,56,42,R+6,-6
+Hawaii,Gender,Female,52,D+32,32,65,33,R+7,-7
+Hawaii,Race,White,33,D+31,31,65,34,No estimate,
+Hawaii,Race,Black,2,,,,,,
+Hawaii,Race,Hispanic,4,,,,,,
+Hawaii,Race,Asian,34,D+20,20,59,39,No estimate,
+Hawaii,Race,Other,26,D+21,21,59,38,No estimate,
+Hawaii,Age,18-29,12,D+35,35,66,31,R+12,-12
+Hawaii,Age,30-44,17,D+28,28,62,35,R+3,-3
+Hawaii,Age,45-64,34,D+17,17,58,40,R+3,-3
+Hawaii,Age,65+,37,D+22,22,61,38,R+9,-9
+Hawaii,Education,High school,26,D+7,7,53,45,R+13,-13
+Hawaii,Education,Some college,30,D+17,17,57,41,R+7,-7
+Hawaii,Education,College degree,27,D+31,31,64,34,R+6,-6
+Hawaii,Education,Postgraduate,17,D+46,46,72,26,R+3,-3
+Hawaii,Education by race,White college,14,D+46,46,72,26,No estimate,
+Hawaii,Education by race,White non-college,19,D+20,20,59,39,No estimate,
+Hawaii,Education by race,Nonwhite college,30,D+32,32,65,33,No estimate,
+Hawaii,Education by race,Nonwhite non-college,37,D+8,8,53,45,No estimate,
+Hawaii,Gender by race,White men,16,D+23,23,60,38,No estimate,
+Hawaii,Gender by race,White women,17,D+40,40,69,29,No estimate,
+Hawaii,Gender by race,Nonwhite men,31,D+9,9,53,44,No estimate,
+Hawaii,Gender by race,Nonwhite women,35,D+28,28,63,35,No estimate,
+Hawaii,Age by race,White 18-44,8,D+42,42,70,27,No estimate,
+Hawaii,Age by race,White 45+,25,D+28,28,63,35,No estimate,
+Hawaii,Age by race,Nonwhite 18-44,21,D+27,27,62,35,No estimate,
+Hawaii,Age by race,Nonwhite 45+,46,D+16,16,57,41,No estimate,
+Hawaii,Age by gender,Men 18-44,14,D+17,17,57,40,R+8,-8
+Hawaii,Age by gender,Men 45+,34,D+13,13,56,43,R+4,-4
+Hawaii,Age by gender,Women 18-44,15,D+44,44,71,27,R+6,-6
+Hawaii,Age by gender,Women 45+,37,D+27,27,63,36,R+6,-6
+Hawaii,Voted in the last presidential election,Voted,79,D+25,25,62,37,No estimate,
+Hawaii,Voted in the last presidential election,Didn’t vote,21,D+17,17,57,40,No estimate,
+Hawaii,Voted in the last midterm election,Voted,69,D+27,27,63,36,No estimate,
+Hawaii,Voted in the last midterm election,Didn’t vote,31,D+15,15,56,41,No estimate,
+Idaho,All voters,All voters,100,R+37,-37,30,67,R+6,-6
+Idaho,Gender,Male,48,R+47,-47,25,72,R+8,-8
+Idaho,Gender,Female,52,R+28,-28,35,63,R+4,-4
+Idaho,Race,White,89,R+39,-39,29,68,R+5,-5
+Idaho,Race,Black,1,,,,,,
+Idaho,Race,Hispanic,6,R+22,-22,37,60,R+21,-21
+Idaho,Race,Asian,1,,,,,,
+Idaho,Race,Other,4,,,,,,
+Idaho,Age,18-29,15,R+26,-26,35,61,R+16,-16
+Idaho,Age,30-44,23,R+34,-34,31,65,R+5,-5
+Idaho,Age,45-64,32,R+44,-44,27,71,R+4,-4
+Idaho,Age,65+,30,R+38,-38,31,68,R+3,-3
+Idaho,Education,High school,26,R+51,-51,23,74,R+6,-6
+Idaho,Education,Some college,36,R+45,-45,26,71,R+7,-7
+Idaho,Education,College degree,25,R+24,-24,37,60,R+7,-7
+Idaho,Education,Postgraduate,13,R+12,-12,43,54,R+8,-8
+Idaho,Education by race,White college,34,R+20,-20,39,58,R+6,-6
+Idaho,Education by race,White non-college,55,R+50,-50,24,74,R+6,-6
+Idaho,Education by race,Nonwhite college,4,R+17,-17,39,56,R+14,-14
+Idaho,Education by race,Nonwhite non-college,8,R+25,-25,35,61,R+9,-9
+Idaho,Gender by race,White men,43,R+48,-48,25,72,R+7,-7
+Idaho,Gender by race,White women,46,R+30,-30,34,64,R+3,-3
+Idaho,Gender by race,Nonwhite men,5,R+36,-36,30,66,R+13,-13
+Idaho,Gender by race,Nonwhite women,6,R+12,-12,42,54,R+8,-8
+Idaho,Age by race,White 18-44,32,R+33,-33,31,64,R+8,-8
+Idaho,Age by race,White 45+,57,R+42,-42,28,70,R+3,-3
+Idaho,Age by race,Nonwhite 18-44,6,R+19,-19,38,57,R+15,-15
+Idaho,Age by race,Nonwhite 45+,5,R+28,-28,35,63,R+4,-4
+Idaho,Age by gender,Men 18-44,18,R+43,-43,26,69,R+10,-10
+Idaho,Age by gender,Men 45+,30,R+49,-49,25,73,R+6,-6
+Idaho,Age by gender,Women 18-44,20,R+19,-19,39,58,R+8,-8
+Idaho,Age by gender,Women 45+,32,R+33,-33,33,66,R+1,-1
+Idaho,Voted in the last presidential election,Voted,74,R+36,-36,31,67,No estimate,
+Idaho,Voted in the last presidential election,Didn’t vote,26,R+39,-39,29,68,No estimate,
+Idaho,Voted in the last midterm election,Voted,60,R+38,-38,30,68,No estimate,
+Idaho,Voted in the last midterm election,Didn’t vote,40,R+35,-35,31,66,No estimate,
+Georgia,All voters,All voters,100,R+2,-2,49,51,R+2,-2
+Georgia,Gender,Male,44,R+18,-18,41,59,R+7,-7
+Georgia,Gender,Female,56,D+10,10,55,44,D+2,2
+Georgia,Race,White,60,R+44,-44,28,71,D+1,1
+Georgia,Race,Black,29,D+80,80,90,10,R+5,-5
+Georgia,Race,Hispanic,5,D+8,8,54,46,No estimate,
+Georgia,Race,Asian,4,,,,,,
+Georgia,Race,Other,3,,,,,,
+Georgia,Age,18-29,16,D+12,12,56,43,R+10,-10
+Georgia,Age,30-44,23,D+5,5,52,47,R+5,-5
+Georgia,Age,45-64,35,R+6,-6,47,53,No change,0
+Georgia,Age,65+,25,R+13,-13,43,56,D+4,4
+Georgia,Education,High school,30,R+15,-15,42,57,R+4,-4
+Georgia,Education,Some college,30,R+7,-7,46,53,R+2,-2
+Georgia,Education,College degree,24,D+6,6,53,46,R+1,-1
+Georgia,Education,Postgraduate,16,D+17,17,58,41,R+5,-5
+Georgia,Education by race,White college,25,R+21,-21,39,60,R+1,-1
+Georgia,Education by race,White non-college,35,R+60,-60,20,80,No change,0
+Georgia,Education by race,Nonwhite college,16,D+61,61,80,19,R+7,-7
+Georgia,Education by race,Nonwhite non-college,25,D+58,58,79,21,R+9,-9
+Georgia,Gender by race,White men,28,R+53,-53,23,76,R+3,-3
+Georgia,Gender by race,White women,31,R+35,-35,32,67,D+4,4
+Georgia,Gender by race,Nonwhite men,16,D+44,44,71,28,R+15,-15
+Georgia,Gender by race,Nonwhite women,24,D+70,70,84,15,R+4,-4
+Georgia,Age by race,White 18-44,22,R+30,-30,34,65,R+3,-3
+Georgia,Age by race,White 45+,38,R+51,-51,24,75,D+2,2
+Georgia,Age by race,Nonwhite 18-44,18,D+55,55,77,22,R+12,-12
+Georgia,Age by race,Nonwhite 45+,22,D+62,62,81,18,R+5,-5
+Georgia,Age by gender,Men 18-44,17,R+13,-13,43,56,R+14,-14
+Georgia,Age by gender,Men 45+,27,R+21,-21,39,60,R+3,-3
+Georgia,Age by gender,Women 18-44,22,D+25,25,62,37,R+2,-2
+Georgia,Age by gender,Women 45+,33,D+1,1,50,49,D+4,4
+Georgia,Voted in the last presidential election,Voted,77,R+3,-3,48,51,No estimate,
+Georgia,Voted in the last presidential election,Didn’t vote,23,D+2,2,51,49,No estimate,
+Georgia,Voted in the last midterm election,Voted,69,R+4,-4,48,51,No estimate,
+Georgia,Voted in the last midterm election,Didn’t vote,31,D+1,1,50,49,No estimate,
+Florida,All voters,All voters,100,R+13,-13,43,56,R+10,-10
+Florida,Gender,Male,45,R+26,-26,36,62,R+13,-13
+Florida,Gender,Female,55,R+2,-2,48,50,R+7,-7
+Florida,Race,White,65,R+29,-29,35,64,R+5,-5
+Florida,Race,Black,12,D+73,73,86,13,R+11,-11
+Florida,Race,Hispanic,19,R+13,-13,43,56,R+21,-21
+Florida,Race,Asian,2,,,,,,
+Florida,Race,Other,2,,,,,,
+Florida,Age,18-29,13,R+2,-2,48,50,R+23,-23
+Florida,Age,30-44,20,R+11,-11,44,54,R+16,-16
+Florida,Age,45-64,34,R+20,-20,39,59,R+8,-8
+Florida,Age,65+,33,R+12,-12,44,56,R+1,-1
+Florida,Education,High school,29,R+24,-24,38,61,R+14,-14
+Florida,Education,Some college,31,R+19,-19,40,59,R+11,-11
+Florida,Education,College degree,24,R+4,-4,47,51,R+6,-6
+Florida,Education,Postgraduate,16,D+4,4,51,47,R+10,-10
+Florida,Education by race,White college,26,R+10,-10,44,54,R+3,-3
+Florida,Education by race,White non-college,39,R+42,-42,28,71,R+8,-8
+Florida,Education by race,Nonwhite college,14,D+17,17,58,41,R+18,-18
+Florida,Education by race,Nonwhite non-college,22,D+16,16,57,41,R+17,-17
+Florida,Gender by race,White men,31,R+40,-40,29,69,R+8,-8
+Florida,Gender by race,White women,34,R+19,-19,40,59,R+2,-2
+Florida,Gender by race,Nonwhite men,15,D+2,2,50,48,R+21,-21
+Florida,Gender by race,Nonwhite women,20,D+27,27,63,36,R+14,-14
+Florida,Age by race,White 18-44,19,R+24,-24,37,61,R+11,-11
+Florida,Age by race,White 45+,46,R+31,-31,34,65,R+3,-3
+Florida,Age by race,Nonwhite 18-44,14,D+15,15,57,41,R+27,-27
+Florida,Age by race,Nonwhite 45+,21,D+17,17,58,41,R+10,-10
+Florida,Age by gender,Men 18-44,15,R+26,-26,36,62,R+23,-23
+Florida,Age by gender,Men 45+,31,R+27,-27,36,63,R+8,-8
+Florida,Age by gender,Women 18-44,18,D+8,8,53,45,R+16,-16
+Florida,Age by gender,Women 45+,37,R+7,-7,46,53,R+2,-2
+Florida,Voted in the last presidential election,Voted,78,R+11,-11,44,55,No estimate,
+Florida,Voted in the last presidential election,Didn’t vote,22,R+20,-20,39,59,No estimate,
+Florida,Voted in the last midterm election,Voted,64,R+14,-14,42,56,No estimate,
+Florida,Voted in the last midterm election,Didn’t vote,36,R+11,-11,43,55,No estimate,
+Iowa,All voters,All voters,100,R+13,-13,43,56,R+5,-5
+Iowa,Gender,Male,48,R+28,-28,35,63,R+9,-9
+Iowa,Gender,Female,52,Even,0,49,49,R+2,-2
+Iowa,Race,White,91,R+16,-16,41,57,R+5,-5
+Iowa,Race,Nonwhite,9,D+14,14,56,42,R+12,-12
+Iowa,Age,18-29,16,R+9,-9,44,53,R+18,-18
+Iowa,Age,30-44,22,R+13,-13,42,55,R+4,-4
+Iowa,Age,45-64,32,R+21,-21,39,60,R+4,-4
+Iowa,Age,65+,30,R+7,-7,46,53,R+1,-1
+Iowa,Education,High school,30,R+29,-29,35,64,R+10,-10
+Iowa,Education,Some college,36,R+19,-19,39,59,R+7,-7
+Iowa,Education,College degree,23,D+2,2,50,48,R+1,-1
+Iowa,Education,Postgraduate,11,D+18,18,58,40,R+5,-5
+Iowa,Education by race,White college,31,D+6,6,52,46,R+2,-2
+Iowa,Education by race,White non-college,59,R+28,-28,35,63,R+8,-8
+Iowa,Education by race,Nonwhite college,3,D+20,20,59,39,R+9,-9
+Iowa,Education by race,Nonwhite non-college,6,D+11,11,54,43,R+14,-14
+Iowa,Gender by race,White men,43,R+31,-31,34,64,R+9,-9
+Iowa,Gender by race,White women,47,R+3,-3,48,51,R+1,-1
+Iowa,Gender by race,Nonwhite men,4,R+3,-3,47,50,R+19,-19
+Iowa,Gender by race,Nonwhite women,5,D+28,28,63,35,R+7,-7
+Iowa,Age by race,White 18-44,33,R+15,-15,41,56,R+9,-9
+Iowa,Age by race,White 45+,57,R+17,-17,41,58,R+3,-3
+Iowa,Age by race,Nonwhite 18-44,5,D+13,13,55,42,R+18,-18
+Iowa,Age by race,Nonwhite 45+,4,D+15,15,57,42,R+6,-6
+Iowa,Age by gender,Men 18-44,19,R+31,-31,33,64,R+14,-14
+Iowa,Age by gender,Men 45+,29,R+27,-27,36,63,R+6,-6
+Iowa,Age by gender,Women 18-44,20,D+6,6,52,46,R+6,-6
+Iowa,Age by gender,Women 45+,32,R+3,-3,48,51,D+1,1
+Iowa,Voted in the last presidential election,Voted,81,R+12,-12,43,55,No estimate,
+Iowa,Voted in the last presidential election,Didn’t vote,19,R+17,-17,40,57,No estimate,
+Iowa,Voted in the last midterm election,Voted,68,R+11,-11,44,55,No estimate,
+Iowa,Voted in the last midterm election,Didn’t vote,32,R+18,-18,40,58,No estimate,
+Indiana,All voters,All voters,100,R+18,-18,40,58,R+2,-2
+Indiana,Gender,Male,47,R+33,-33,32,65,R+6,-6
+Indiana,Gender,Female,53,R+6,-6,46,52,D+1,1
+Indiana,Race,White,84,R+28,-28,35,63,R+2,-2
+Indiana,Race,Black,8,D+70,70,84,14,R+10,-10
+Indiana,Race,Hispanic,4,,,,,,
+Indiana,Race,Asian,1,,,,,,
+Indiana,Race,Other,3,,,,,,
+Indiana,Age,18-29,14,R+6,-6,46,52,R+12,-12
+Indiana,Age,30-44,21,R+14,-14,41,55,R+1,-1
+Indiana,Age,45-64,35,R+26,-26,36,62,R+1,-1
+Indiana,Age,65+,30,R+18,-18,40,59,No change,0
+Indiana,Education,High school,34,R+34,-34,32,66,R+6,-6
+Indiana,Education,Some college,31,R+23,-23,37,61,R+2,-2
+Indiana,Education,College degree,23,R+4,-4,47,51,R+1,-1
+Indiana,Education,Postgraduate,13,D+9,9,53,44,R+5,-5
+Indiana,Education by race,White college,30,R+5,-5,46,52,R+1,-1
+Indiana,Education by race,White non-college,54,R+41,-41,29,70,R+4,-4
+Indiana,Education by race,Nonwhite college,5,D+34,34,66,32,R+9,-9
+Indiana,Education by race,Nonwhite non-college,11,D+30,30,64,34,R+12,-12
+Indiana,Gender by race,White men,40,R+41,-41,29,69,R+5,-5
+Indiana,Gender by race,White women,44,R+16,-16,41,57,D+2,2
+Indiana,Gender by race,Nonwhite men,7,D+14,14,55,42,R+17,-17
+Indiana,Gender by race,Nonwhite women,9,D+45,45,72,27,R+7,-7
+Indiana,Age by race,White 18-44,28,R+20,-20,38,59,R+4,-4
+Indiana,Age by race,White 45+,56,R+32,-32,33,65,No change,0
+Indiana,Age by race,Nonwhite 18-44,7,D+25,25,61,36,R+16,-16
+Indiana,Age by race,Nonwhite 45+,9,D+37,37,68,31,R+8,-8
+Indiana,Age by gender,Men 18-44,17,R+31,-31,33,64,R+10,-10
+Indiana,Age by gender,Men 45+,30,R+34,-34,32,66,R+4,-4
+Indiana,Age by gender,Women 18-44,19,D+7,7,52,45,R+1,-1
+Indiana,Age by gender,Women 45+,34,R+12,-12,43,56,D+3,3
+Indiana,Voted in the last presidential election,Voted,80,R+19,-19,40,58,No estimate,
+Indiana,Voted in the last presidential election,Didn’t vote,20,R+17,-17,40,57,No estimate,
+Indiana,Voted in the last midterm election,Voted,59,R+19,-19,40,59,No estimate,
+Indiana,Voted in the last midterm election,Didn’t vote,41,R+18,-18,40,58,No estimate,
+Kentucky,All voters,All voters,100,R+31,-31,34,65,R+5,-5
+Kentucky,Gender,Male,46,R+42,-42,28,70,R+8,-8
+Kentucky,Gender,Female,54,R+21,-21,39,60,R+2,-2
+Kentucky,Race,White,88,R+38,-38,30,68,R+4,-4
+Kentucky,Race,Black,6,D+65,65,82,17,R+10,-10
+Kentucky,Race,Hispanic,2,,,,,,
+Kentucky,Race,Asian,1,,,,,,
+Kentucky,Race,Other,3,,,,,,
+Kentucky,Age,18-29,14,R+32,-32,33,65,R+18,-18
+Kentucky,Age,30-44,22,R+30,-30,34,64,R+2,-2
+Kentucky,Age,45-64,35,R+38,-38,30,68,R+5,-5
+Kentucky,Age,65+,29,R+21,-21,39,60,R+1,-1
+Kentucky,Education,High school,37,R+49,-49,25,74,R+11,-11
+Kentucky,Education,Some college,31,R+34,-34,32,66,R+5,-5
+Kentucky,Education,College degree,18,R+12,-12,43,55,D+1,1
+Kentucky,Education,Postgraduate,13,D+2,2,50,48,R+1,-1
+Kentucky,Education by race,White college,28,R+11,-11,44,54,D+1,1
+Kentucky,Education by race,White non-college,61,R+50,-50,24,75,R+7,-7
+Kentucky,Education by race,Nonwhite college,4,D+30,30,64,34,R+4,-4
+Kentucky,Education by race,Nonwhite non-college,8,D+22,22,60,38,R+11,-11
+Kentucky,Gender by race,White men,41,R+48,-48,25,73,R+7,-7
+Kentucky,Gender by race,White women,47,R+29,-29,35,64,R+1,-1
+Kentucky,Gender by race,Nonwhite men,5,D+8,8,53,45,R+15,-15
+Kentucky,Gender by race,Nonwhite women,7,D+36,36,67,31,R+5,-5
+Kentucky,Age by race,White 18-44,31,R+39,-39,30,68,R+7,-7
+Kentucky,Age by race,White 45+,57,R+38,-38,31,68,R+2,-2
+Kentucky,Age by race,Nonwhite 18-44,5,D+15,15,56,41,R+16,-16
+Kentucky,Age by race,Nonwhite 45+,6,D+32,32,65,33,R+4,-4
+Kentucky,Age by gender,Men 18-44,17,R+46,-46,25,72,R+12,-12
+Kentucky,Age by gender,Men 45+,29,R+40,-40,29,69,R+6,-6
+Kentucky,Age by gender,Women 18-44,20,R+18,-18,40,58,R+6,-6
+Kentucky,Age by gender,Women 45+,34,R+22,-22,38,61,No change,0
+Kentucky,Voted in the last presidential election,Voted,80,R+28,-28,35,63,No estimate,
+Kentucky,Voted in the last presidential election,Didn’t vote,20,R+40,-40,29,69,No estimate,
+Kentucky,Voted in the last midterm election,Voted,65,R+24,-24,37,62,No estimate,
+Kentucky,Voted in the last midterm election,Didn’t vote,35,R+42,-42,28,70,No estimate,
+Maine,All voters,All voters,100,D+7,7,52,46,R+3,-3
+Maine,Gender,Male,48,R+8,-8,45,53,R+6,-6
+Maine,Gender,Female,52,D+20,20,59,39,No change,0
+Maine,Race,White,94,D+7,7,52,46,R+2,-2
+Maine,Race,Nonwhite,6,D+3,3,50,47,R+17,-17
+Maine,Age,18-29,13,D+4,4,50,46,R+19,-19
+Maine,Age,30-44,21,D+8,8,52,44,D+1,1
+Maine,Age,45-64,33,R+4,-4,47,51,R+4,-4
+Maine,Age,65+,33,D+17,17,58,41,D+2,2
+Maine,Education,High school,32,R+17,-17,41,58,R+8,-8
+Maine,Education,Some college,30,R+2,-2,48,50,R+6,-6
+Maine,Education,College degree,23,D+26,26,62,36,R+1,-1
+Maine,Education,Postgraduate,15,D+45,45,71,27,D+1,1
+Maine,Education by race,White college,36,D+34,34,66,32,D+2,2
+Maine,Education by race,White non-college,58,R+10,-10,44,54,R+6,-6
+Maine,Education by race,Nonwhite college,2,,,,,,
+Maine,Education by race,Nonwhite non-college,4,,,,,,
+Maine,Gender by race,White men,45,R+8,-8,45,53,R+5,-5
+Maine,Gender by race,White women,49,D+20,20,59,39,D+1,1
+Maine,Gender by race,Nonwhite men,3,,,,,,
+Maine,Gender by race,Nonwhite women,3,,,,,,
+Maine,Age by race,White 18-44,31,D+7,7,52,45,R+6,-6
+Maine,Age by race,White 45+,63,D+7,7,53,46,No change,0
+Maine,Age by race,Nonwhite 18-44,3,,,,,,
+Maine,Age by race,Nonwhite 45+,3,,,,,,
+Maine,Age by gender,Men 18-44,17,R+11,-11,42,53,R+10,-10
+Maine,Age by gender,Men 45+,31,R+6,-6,46,52,R+3,-3
+Maine,Age by gender,Women 18-44,17,D+25,25,61,36,R+4,-4
+Maine,Age by gender,Women 45+,35,D+18,18,58,41,D+2,2
+Maine,Voted in the last presidential election,Voted,79,D+9,9,53,45,No estimate,
+Maine,Voted in the last presidential election,Didn’t vote,21,R+1,-1,48,49,No estimate,
+Maine,Voted in the last midterm election,Voted,73,D+11,11,55,44,No estimate,
+Maine,Voted in the last midterm election,Didn’t vote,27,R+6,-6,46,51,No estimate,
+Kansas,All voters,All voters,100,R+16,-16,41,57,R+2,-2
+Kansas,Gender,Male,47,R+29,-29,34,63,R+5,-5
+Kansas,Gender,Female,53,R+5,-5,47,52,D+2,2
+Kansas,Race,White,85,R+22,-22,38,60,R+1,-1
+Kansas,Race,Black,4,D+62,62,80,18,R+13,-13
+Kansas,Race,Hispanic,5,D+11,11,55,43,R+13,-13
+Kansas,Race,Asian,2,,,,,,
+Kansas,Race,Other,4,,,,,,
+Kansas,Age,18-29,15,R+2,-2,48,49,R+10,-10
+Kansas,Age,30-44,22,R+10,-10,43,54,R+2,-2
+Kansas,Age,45-64,33,R+25,-25,37,62,D+1,1
+Kansas,Age,65+,30,R+18,-18,41,59,No change,0
+Kansas,Education,High school,26,R+31,-31,34,65,R+5,-5
+Kansas,Education,Some college,34,R+25,-25,37,62,R+2,-2
+Kansas,Education,College degree,26,R+4,-4,47,51,D+1,1
+Kansas,Education,Postgraduate,15,D+9,9,54,45,R+5,-5
+Kansas,Education by race,White college,35,R+3,-3,48,50,R+1,-1
+Kansas,Education by race,White non-college,50,R+36,-36,31,67,R+3,-3
+Kansas,Education by race,Nonwhite college,5,D+24,24,61,37,R+6,-6
+Kansas,Education by race,Nonwhite non-college,10,D+18,18,58,40,R+9,-9
+Kansas,Gender by race,White men,40,R+34,-34,32,66,R+5,-5
+Kansas,Gender by race,White women,45,R+11,-11,44,55,D+2,2
+Kansas,Gender by race,Nonwhite men,6,D+5,5,51,46,R+12,-12
+Kansas,Gender by race,Nonwhite women,8,D+32,32,65,33,R+5,-5
+Kansas,Age by race,White 18-44,29,R+14,-14,42,56,R+4,-4
+Kansas,Age by race,White 45+,56,R+27,-27,36,63,D+1,1
+Kansas,Age by race,Nonwhite 18-44,8,D+20,20,58,38,R+12,-12
+Kansas,Age by race,Nonwhite 45+,7,D+20,20,59,39,R+4,-4
+Kansas,Age by gender,Men 18-44,17,R+24,-24,36,60,R+9,-9
+Kansas,Age by gender,Men 45+,29,R+32,-32,33,65,R+3,-3
+Kansas,Age by gender,Women 18-44,20,D+8,8,53,45,R+1,-1
+Kansas,Age by gender,Women 45+,34,R+12,-12,44,56,D+4,4
+Kansas,Voted in the last presidential election,Voted,80,R+17,-17,41,58,No estimate,
+Kansas,Voted in the last presidential election,Didn’t vote,20,R+12,-12,42,55,No estimate,
+Kansas,Voted in the last midterm election,Voted,68,R+16,-16,41,57,No estimate,
+Kansas,Voted in the last midterm election,Didn’t vote,32,R+16,-16,41,57,No estimate,
+Maryland,All voters,All voters,100,D+29,29,63,34,R+4,-4
+Maryland,Gender,Male,44,D+14,14,56,41,R+8,-8
+Maryland,Gender,Female,56,D+40,40,69,29,R+2,-2
+Maryland,Race,White,58,D+2,2,50,48,R+1,-1
+Maryland,Race,Black,27,D+82,82,90,8,R+8,-8
+Maryland,Race,Hispanic,5,D+31,31,64,33,No estimate,
+Maryland,Race,Asian,5,D+41,41,69,27,R+14,-14
+Maryland,Race,Other,4,,,,,,
+Maryland,Age,18-29,14,D+37,37,67,29,R+11,-11
+Maryland,Age,30-44,24,D+30,30,63,33,R+8,-8
+Maryland,Age,45-64,35,D+23,23,60,37,R+2,-2
+Maryland,Age,65+,27,D+30,30,64,35,No change,0
+Maryland,Education,High school,26,D+14,14,56,42,R+8,-8
+Maryland,Education,Some college,26,D+20,20,59,39,R+6,-6
+Maryland,Education,College degree,25,D+34,34,65,32,R+3,-3
+Maryland,Education,Postgraduate,23,D+49,49,73,24,R+4,-4
+Maryland,Education by race,White college,30,D+25,25,61,36,No change,0
+Maryland,Education by race,White non-college,28,R+22,-22,38,60,R+6,-6
+Maryland,Education by race,Nonwhite college,18,D+67,67,82,15,R+9,-9
+Maryland,Education by race,Nonwhite non-college,23,D+64,64,81,17,R+12,-12
+Maryland,Gender by race,White men,28,R+10,-10,44,53,R+4,-4
+Maryland,Gender by race,White women,31,D+13,13,55,43,D+1,1
+Maryland,Gender by race,Nonwhite men,17,D+54,54,75,21,R+17,-17
+Maryland,Gender by race,Nonwhite women,25,D+73,73,85,12,R+7,-7
+Maryland,Age by race,White 18-44,20,D+8,8,52,44,R+6,-6
+Maryland,Age by race,White 45+,38,R+1,-1,49,50,D+1,1
+Maryland,Age by race,Nonwhite 18-44,18,D+60,60,78,18,R+15,-15
+Maryland,Age by race,Nonwhite 45+,24,D+69,69,84,14,R+7,-7
+Maryland,Age by gender,Men 18-44,17,D+16,16,55,40,R+14,-14
+Maryland,Age by gender,Men 45+,28,D+14,14,56,42,R+4,-4
+Maryland,Age by gender,Women 18-44,21,D+47,47,72,25,R+6,-6
+Maryland,Age by gender,Women 45+,34,D+36,36,67,32,D+1,1
+Maryland,Voted in the last presidential election,Voted,78,D+29,29,63,34,No estimate,
+Maryland,Voted in the last presidential election,Didn’t vote,22,D+26,26,61,35,No estimate,
+Maryland,Voted in the last midterm election,Voted,61,D+30,30,64,34,No estimate,
+Maryland,Voted in the last midterm election,Didn’t vote,39,D+26,26,62,35,No estimate,
+Illinois,All voters,All voters,100,D+11,11,54,44,R+6,-6
+Illinois,Gender,Male,46,R+3,-3,47,50,R+10,-10
+Illinois,Gender,Female,54,D+23,23,61,38,R+3,-3
+Illinois,Race,White,71,R+3,-3,48,50,R+2,-2
+Illinois,Race,Black,12,D+78,78,89,10,R+9,-9
+Illinois,Race,Hispanic,10,D+23,23,60,38,R+27,-27
+Illinois,Race,Asian,4,D+23,23,60,37,R+16,-16
+Illinois,Race,Other,3,,,,,,
+Illinois,Age,18-29,14,D+21,21,59,38,R+19,-19
+Illinois,Age,30-44,23,D+14,14,55,41,R+9,-9
+Illinois,Age,45-64,34,D+4,4,51,47,R+4,-4
+Illinois,Age,65+,29,D+11,11,55,44,D+2,2
+Illinois,Education,High school,26,R+8,-8,45,53,R+12,-12
+Illinois,Education,Some college,30,D+1,1,50,48,R+5,-5
+Illinois,Education,College degree,26,D+23,23,60,37,R+5,-5
+Illinois,Education,Postgraduate,18,D+37,37,67,30,R+7,-7
+Illinois,Education by race,White college,32,D+22,22,60,38,R+4,-4
+Illinois,Education by race,White non-college,38,R+24,-24,37,61,R+4,-4
+Illinois,Education by race,Nonwhite college,11,D+49,49,73,24,R+11,-11
+Illinois,Education by race,Nonwhite non-college,18,D+41,41,70,29,R+20,-20
+Illinois,Gender by race,White men,33,R+15,-15,41,56,R+6,-6
+Illinois,Gender by race,White women,37,D+8,8,53,45,D+1,1
+Illinois,Gender by race,Nonwhite men,12,D+30,30,64,34,R+22,-22
+Illinois,Gender by race,Nonwhite women,17,D+54,54,76,22,R+12,-12
+Illinois,Age by race,White 18-44,24,D+5,5,51,46,R+8,-8
+Illinois,Age by race,White 45+,47,R+7,-7,46,53,D+1,1
+Illinois,Age by race,Nonwhite 18-44,13,D+37,37,67,30,R+23,-23
+Illinois,Age by race,Nonwhite 45+,16,D+50,50,74,24,R+11,-11
+Illinois,Age by gender,Men 18-44,17,R+2,-2,47,49,R+18,-18
+Illinois,Age by gender,Men 45+,29,R+4,-4,47,51,R+5,-5
+Illinois,Age by gender,Women 18-44,20,D+32,32,65,33,R+9,-9
+Illinois,Age by gender,Women 45+,34,D+17,17,58,41,D+2,2
+Illinois,Voted in the last presidential election,Voted,81,D+12,12,55,43,No estimate,
+Illinois,Voted in the last presidential election,Didn’t vote,19,D+7,7,52,46,No estimate,
+Illinois,Voted in the last midterm election,Voted,66,D+13,13,56,43,No estimate,
+Illinois,Voted in the last midterm election,Didn’t vote,34,D+7,7,52,45,No estimate,
+Louisiana,All voters,All voters,100,R+22,-22,38,60,R+2,-2
+Louisiana,Gender,Male,44,R+35,-35,31,67,R+6,-6
+Louisiana,Gender,Female,56,R+11,-11,44,55,No change,0
+Louisiana,Race,White,68,R+61,-61,19,79,D+2,2
+Louisiana,Race,Black,27,D+77,77,88,11,R+7,-7
+Louisiana,Race,Hispanic,2,,,,,,
+Louisiana,Race,Asian,1,,,,,,
+Louisiana,Race,Other,2,,,,,,
+Louisiana,Age,18-29,13,R+22,-22,38,60,R+13,-13
+Louisiana,Age,30-44,22,R+22,-22,38,60,R+3,-3
+Louisiana,Age,45-64,35,R+26,-26,36,62,R+2,-2
+Louisiana,Age,65+,31,R+16,-16,41,58,D+2,2
+Louisiana,Education,High school,38,R+28,-28,35,63,R+9,-9
+Louisiana,Education,Some college,31,R+23,-23,38,60,R+1,-1
+Louisiana,Education,College degree,19,R+19,-19,39,59,D+5,5
+Louisiana,Education,Postgraduate,12,R+3,-3,47,51,D+1,1
+Louisiana,Education by race,White college,23,R+41,-41,29,69,D+7,7
+Louisiana,Education by race,White non-college,45,R+71,-71,14,85,R+1,-1
+Louisiana,Education by race,Nonwhite college,9,D+57,57,78,21,R+2,-2
+Louisiana,Education by race,Nonwhite non-college,24,D+60,60,79,19,R+7,-7
+Louisiana,Gender by race,White men,31,R+67,-67,16,82,No change,0
+Louisiana,Gender by race,White women,36,R+55,-55,22,77,D+4,4
+Louisiana,Gender by race,Nonwhite men,12,D+44,44,71,27,R+12,-12
+Louisiana,Gender by race,Nonwhite women,20,D+68,68,83,15,R+2,-2
+Louisiana,Age by race,White 18-44,23,R+61,-61,18,79,D+1,1
+Louisiana,Age by race,White 45+,45,R+61,-61,19,80,D+3,3
+Louisiana,Age by race,Nonwhite 18-44,12,D+50,50,74,24,R+12,-12
+Louisiana,Age by race,Nonwhite 45+,20,D+64,64,82,17,R+3,-3
+Louisiana,Age by gender,Men 18-44,15,R+41,-41,28,69,R+12,-12
+Louisiana,Age by gender,Men 45+,29,R+33,-33,33,66,R+3,-3
+Louisiana,Age by gender,Women 18-44,20,R+9,-9,45,53,R+4,-4
+Louisiana,Age by gender,Women 45+,36,R+13,-13,43,56,D+3,3
+Louisiana,Voted in the last presidential election,Voted,85,R+21,-21,39,60,No estimate,
+Louisiana,Voted in the last presidential election,Didn’t vote,15,R+24,-24,37,61,No estimate,
+Louisiana,Voted in the last midterm election,Voted,64,R+22,-22,38,61,No estimate,
+Louisiana,Voted in the last midterm election,Didn’t vote,36,R+21,-21,39,59,No estimate,
+New Hampshire,All voters,All voters,100,D+3,3,51,48,R+5,-5
+New Hampshire,Gender,Male,49,R+13,-13,43,56,R+7,-7
+New Hampshire,Gender,Female,51,D+18,18,58,41,R+2,-2
+New Hampshire,Race,White,92,D+2,2,51,48,R+4,-4
+New Hampshire,Race,Nonwhite,8,D+6,6,52,46,R+14,-14
+New Hampshire,Age,18-29,13,D+9,9,53,45,R+16,-16
+New Hampshire,Age,30-44,20,D+4,4,51,47,R+5,-5
+New Hampshire,Age,45-64,35,R+6,-6,46,53,R+4,-4
+New Hampshire,Age,65+,31,D+9,9,54,45,No change,0
+New Hampshire,Education,High school,29,R+17,-17,41,58,R+6,-6
+New Hampshire,Education,Some college,29,R+6,-6,46,53,R+5,-5
+New Hampshire,Education,College degree,25,D+16,16,57,42,R+7,-7
+New Hampshire,Education,Postgraduate,16,D+34,34,66,32,R+4,-4
+New Hampshire,Education by race,White college,39,D+24,24,61,38,R+5,-5
+New Hampshire,Education by race,White non-college,54,R+13,-13,43,56,R+5,-5
+New Hampshire,Education by race,Nonwhite college,3,,,,,,
+New Hampshire,Education by race,Nonwhite non-college,5,,,,,,
+New Hampshire,Gender by race,White men,45,R+13,-13,43,56,R+7,-7
+New Hampshire,Gender by race,White women,47,D+17,17,58,41,R+1,-1
+New Hampshire,Gender by race,Nonwhite men,4,,,,,,
+New Hampshire,Gender by race,Nonwhite women,4,,,,,,
+New Hampshire,Age by race,White 18-44,30,D+6,6,52,46,R+9,-9
+New Hampshire,Age by race,White 45+,63,D+1,1,50,49,R+1,-1
+New Hampshire,Age by race,Nonwhite 18-44,4,,,,,,
+New Hampshire,Age by race,Nonwhite 45+,4,,,,,,
+New Hampshire,Age by gender,Men 18-44,17,R+13,-13,42,56,R+13,-13
+New Hampshire,Age by gender,Men 45+,32,R+13,-13,43,56,R+5,-5
+New Hampshire,Age by gender,Women 18-44,17,D+25,25,62,37,R+7,-7
+New Hampshire,Age by gender,Women 45+,34,D+14,14,57,43,D+1,1
+New Hampshire,Voted in the last presidential election,Voted,77,D+4,4,52,47,No estimate,
+New Hampshire,Voted in the last presidential election,Didn’t vote,23,R+2,-2,48,50,No estimate,
+New Hampshire,Voted in the last midterm election,Voted,68,D+6,6,53,47,No estimate,
+New Hampshire,Voted in the last midterm election,Didn’t vote,32,R+4,-4,47,52,No estimate,
+Michigan,All voters,All voters,100,R+1,-1,48,50,R+4,-4
+Michigan,Gender,Male,47,R+17,-17,40,57,R+9,-9
+Michigan,Gender,Female,53,D+12,12,55,43,No change,0
+Michigan,Race,White,80,R+13,-13,42,56,R+3,-3
+Michigan,Race,Black,11,D+77,77,87,11,R+9,-9
+Michigan,Race,Hispanic,3,,,,,,
+Michigan,Race,Asian,2,,,,,,
+Michigan,Race,Other,4,,,,,,
+Michigan,Age,18-29,16,D+10,10,53,43,R+21,-21
+Michigan,Age,30-44,22,D+5,5,51,46,R+4,-4
+Michigan,Age,45-64,33,R+11,-11,43,55,R+3,-3
+Michigan,Age,65+,29,R+1,-1,49,50,D+1,1
+Michigan,Education,High school,31,R+14,-14,42,56,R+6,-6
+Michigan,Education,Some college,33,R+7,-7,45,52,R+4,-4
+Michigan,Education,College degree,22,D+9,9,53,44,R+5,-5
+Michigan,Education,Postgraduate,13,D+24,24,61,37,R+5,-5
+Michigan,Education by race,White college,29,D+8,8,53,45,R+4,-4
+Michigan,Education by race,White non-college,51,R+25,-25,36,62,R+4,-4
+Michigan,Education by race,Nonwhite college,6,D+45,45,71,26,R+10,-10
+Michigan,Education by race,Nonwhite non-college,14,D+46,46,72,26,R+14,-14
+Michigan,Gender by race,White men,38,R+28,-28,35,63,R+8,-8
+Michigan,Gender by race,White women,41,Even,0,49,49,D+1,1
+Michigan,Gender by race,Nonwhite men,8,D+30,30,63,34,R+20,-20
+Michigan,Gender by race,Nonwhite women,12,D+57,57,77,21,R+8,-8
+Michigan,Age by race,White 18-44,28,R+4,-4,46,50,R+9,-9
+Michigan,Age by race,White 45+,51,R+18,-18,40,59,No change,0
+Michigan,Age by race,Nonwhite 18-44,9,D+40,40,68,28,R+18,-18
+Michigan,Age by race,Nonwhite 45+,11,D+50,50,74,24,R+9,-9
+Michigan,Age by gender,Men 18-44,18,R+14,-14,41,55,R+17,-17
+Michigan,Age by gender,Men 45+,29,R+19,-19,39,59,R+5,-5
+Michigan,Age by gender,Women 18-44,20,D+26,26,62,36,R+6,-6
+Michigan,Age by gender,Women 45+,33,D+4,4,52,47,D+3,3
+Michigan,Voted in the last presidential election,Voted,81,Even,0,49,49,No estimate,
+Michigan,Voted in the last presidential election,Didn’t vote,19,R+7,-7,45,52,No estimate,
+Michigan,Voted in the last midterm election,Voted,73,D+1,1,50,48,No estimate,
+Michigan,Voted in the last midterm election,Didn’t vote,27,R+9,-9,44,53,No estimate,
+Nevada,All voters,All voters,100,R+3,-3,47,51,R+6,-6
+Nevada,Gender,Male,49,R+15,-15,41,57,R+8,-8
+Nevada,Gender,Female,51,D+9,9,54,45,R+3,-3
+Nevada,Race,White,60,R+21,-21,39,60,R+4,-4
+Nevada,Race,Black,9,D+63,63,81,18,R+11,-11
+Nevada,Race,Hispanic,19,D+16,16,57,41,R+15,-15
+Nevada,Race,Asian,6,D+12,12,55,43,R+2,-2
+Nevada,Race,Other,6,R+5,-5,46,51,No estimate,
+Nevada,Age,18-29,16,D+14,14,56,41,R+14,-14
+Nevada,Age,30-44,24,R+2,-2,47,49,R+8,-8
+Nevada,Age,45-64,33,R+11,-11,44,55,R+4,-4
+Nevada,Age,65+,28,R+5,-5,47,52,No change,0
+Nevada,Education,High school,33,R+7,-7,46,52,R+7,-7
+Nevada,Education,Some college,35,R+8,-8,45,53,R+5,-5
+Nevada,Education,College degree,21,D+2,2,50,48,R+4,-4
+Nevada,Education,Postgraduate,11,D+11,11,54,44,R+7,-7
+Nevada,Education by race,White college,21,R+6,-6,46,52,R+5,-5
+Nevada,Education by race,White non-college,39,R+29,-29,35,64,R+3,-3
+Nevada,Education by race,Nonwhite college,11,D+26,26,62,36,R+8,-8
+Nevada,Education by race,Nonwhite non-college,29,D+22,22,60,38,R+14,-14
+Nevada,Gender by race,White men,31,R+31,-31,33,65,R+5,-5
+Nevada,Gender by race,White women,29,R+10,-10,44,54,R+1,-1
+Nevada,Gender by race,Nonwhite men,19,D+10,10,54,43,R+15,-15
+Nevada,Gender by race,Nonwhite women,22,D+34,34,66,32,R+10,-10
+Nevada,Age by race,White 18-44,19,R+15,-15,41,56,R+7,-7
+Nevada,Age by race,White 45+,41,R+24,-24,38,61,R+2,-2
+Nevada,Age by race,Nonwhite 18-44,21,D+22,22,60,37,R+18,-18
+Nevada,Age by race,Nonwhite 45+,20,D+24,24,61,37,R+7,-7
+Nevada,Age by gender,Men 18-44,20,R+12,-12,42,54,R+13,-13
+Nevada,Age by gender,Men 45+,30,R+18,-18,40,58,R+4,-4
+Nevada,Age by gender,Women 18-44,20,D+21,21,59,38,R+7,-7
+Nevada,Age by gender,Women 45+,31,D+1,1,50,49,No change,0
+Nevada,Voted in the last presidential election,Voted,70,R+3,-3,48,51,No estimate,
+Nevada,Voted in the last presidential election,Didn’t vote,30,R+4,-4,47,51,No estimate,
+Nevada,Voted in the last midterm election,Voted,61,R+4,-4,47,51,No estimate,
+Nevada,Voted in the last midterm election,Didn’t vote,39,R+3,-3,47,50,No estimate,
+Mississippi,All voters,All voters,100,R+22,-22,38,61,R+6,-6
+Mississippi,Gender,Male,45,R+37,-37,31,68,R+10,-10
+Mississippi,Gender,Female,55,R+10,-10,44,55,R+2,-2
+Mississippi,Race,White,65,R+67,-67,16,83,R+1,-1
+Mississippi,Race,Black,30,D+76,76,88,11,R+7,-7
+Mississippi,Race,Hispanic,2,,,,,,
+Mississippi,Race,Asian,1,,,,,,
+Mississippi,Race,Other,3,,,,,,
+Mississippi,Age,18-29,11,R+15,-15,42,57,R+15,-15
+Mississippi,Age,30-44,18,R+20,-20,39,59,R+10,-10
+Mississippi,Age,45-64,38,R+23,-23,38,61,R+4,-4
+Mississippi,Age,65+,33,R+24,-24,38,62,D+1,1
+Mississippi,Education,High school,34,R+23,-23,38,61,R+10,-10
+Mississippi,Education,Some college,35,R+24,-24,38,61,R+4,-4
+Mississippi,Education,College degree,19,R+23,-23,38,61,R+1,-1
+Mississippi,Education,Postgraduate,12,R+13,-13,43,56,R+7,-7
+Mississippi,Education by race,White college,21,R+54,-54,22,77,R+1,-1
+Mississippi,Education by race,White non-college,44,R+73,-73,13,86,R+3,-3
+Mississippi,Education by race,Nonwhite college,9,D+60,60,79,19,R+6,-6
+Mississippi,Education by race,Nonwhite non-college,26,D+61,61,80,19,R+7,-7
+Mississippi,Gender by race,White men,31,R+74,-74,12,86,R+4,-4
+Mississippi,Gender by race,White women,34,R+61,-61,19,80,D+1,1
+Mississippi,Gender by race,Nonwhite men,14,D+46,46,72,27,R+14,-14
+Mississippi,Gender by race,Nonwhite women,21,D+71,71,85,14,R+2,-2
+Mississippi,Age by race,White 18-44,18,R+61,-61,19,79,R+3,-3
+Mississippi,Age by race,White 45+,47,R+70,-70,15,84,No change,0
+Mississippi,Age by race,Nonwhite 18-44,11,D+48,48,73,25,R+16,-16
+Mississippi,Age by race,Nonwhite 45+,24,D+66,66,83,16,R+3,-3
+Mississippi,Age by gender,Men 18-44,13,R+40,-40,29,69,R+18,-18
+Mississippi,Age by gender,Men 45+,32,R+36,-36,32,67,R+6,-6
+Mississippi,Age by gender,Women 18-44,16,R+1,-1,49,50,R+7,-7
+Mississippi,Age by gender,Women 45+,39,R+14,-14,43,57,D+1,1
+Mississippi,Voted in the last presidential election,Voted,80,R+22,-22,39,60,No estimate,
+Mississippi,Voted in the last presidential election,Didn’t vote,20,R+23,-23,38,61,No estimate,
+Mississippi,Voted in the last midterm election,Voted,51,R+26,-26,37,62,No estimate,
+Mississippi,Voted in the last midterm election,Didn’t vote,49,R+18,-18,40,59,No estimate,
+Massachusetts,All voters,All voters,100,D+25,25,61,36,R+8,-8
+Massachusetts,Gender,Male,46,D+11,11,53,42,R+12,-12
+Massachusetts,Gender,Female,54,D+37,37,67,30,R+5,-5
+Massachusetts,Race,White,80,D+22,22,59,37,R+7,-7
+Massachusetts,Race,Black,6,D+67,67,82,15,R+14,-14
+Massachusetts,Race,Hispanic,7,D+23,23,60,37,R+23,-23
+Massachusetts,Race,Asian,4,,,,,,
+Massachusetts,Race,Other,3,,,,,,
+Massachusetts,Age,18-29,14,D+29,29,62,33,R+18,-18
+Massachusetts,Age,30-44,22,D+26,26,60,34,R+10,-10
+Massachusetts,Age,45-64,34,D+16,16,56,40,R+9,-9
+Massachusetts,Age,65+,30,D+33,33,66,33,R+2,-2
+Massachusetts,Education,High school,24,D+3,3,50,47,R+13,-13
+Massachusetts,Education,Some college,23,D+15,15,55,41,R+10,-10
+Massachusetts,Education,College degree,29,D+33,33,64,31,R+9,-9
+Massachusetts,Education,Postgraduate,24,D+47,47,72,24,R+8,-8
+Massachusetts,Education by race,White college,44,D+38,38,67,29,R+8,-8
+Massachusetts,Education by race,White non-college,36,D+2,2,49,47,R+10,-10
+Massachusetts,Education by race,Nonwhite college,9,D+47,47,71,24,R+6,-6
+Massachusetts,Education by race,Nonwhite non-college,11,D+31,31,63,33,R+20,-20
+Massachusetts,Gender by race,White men,37,D+8,8,52,44,R+10,-10
+Massachusetts,Gender by race,White women,43,D+34,34,65,32,R+4,-4
+Massachusetts,Gender by race,Nonwhite men,9,D+25,25,60,35,R+20,-20
+Massachusetts,Gender by race,Nonwhite women,11,D+49,49,73,24,R+9,-9
+Massachusetts,Age by race,White 18-44,27,D+25,25,59,35,R+12,-12
+Massachusetts,Age by race,White 45+,53,D+20,20,59,38,R+4,-4
+Massachusetts,Age by race,Nonwhite 18-44,9,D+35,35,64,30,R+20,-20
+Massachusetts,Age by race,Nonwhite 45+,11,D+41,41,69,28,R+8,-8
+Massachusetts,Age by gender,Men 18-44,17,D+10,10,51,42,R+17,-17
+Massachusetts,Age by gender,Men 45+,29,D+12,12,54,42,R+9,-9
+Massachusetts,Age by gender,Women 18-44,19,D+43,43,69,26,R+11,-11
+Massachusetts,Age by gender,Women 45+,35,D+34,34,66,32,R+2,-2
+Massachusetts,Voted in the last presidential election,Voted,81,D+27,27,62,35,No estimate,
+Massachusetts,Voted in the last presidential election,Didn’t vote,19,D+17,17,56,39,No estimate,
+Massachusetts,Voted in the last midterm election,Voted,65,D+30,30,63,33,No estimate,
+Massachusetts,Voted in the last midterm election,Didn’t vote,35,D+17,17,56,39,No estimate,
+Missouri,All voters,All voters,100,R+18,-18,40,58,R+3,-3
+Missouri,Gender,Male,48,R+32,-32,33,65,R+7,-7
+Missouri,Gender,Female,52,R+6,-6,47,52,D+1,1
+Missouri,Race,White,85,R+28,-28,35,63,R+2,-2
+Missouri,Race,Black,8,D+76,76,87,11,R+4,-4
+Missouri,Race,Hispanic,2,,,,,,
+Missouri,Race,Asian,1,,,,,,
+Missouri,Race,Other,3,,,,,,
+Missouri,Age,18-29,14,R+11,-11,44,54,R+14,-14
+Missouri,Age,30-44,23,R+14,-14,42,56,R+2,-2
+Missouri,Age,45-64,34,R+26,-26,36,62,R+1,-1
+Missouri,Age,65+,29,R+16,-16,42,58,R+2,-2
+Missouri,Education,High school,32,R+38,-38,31,68,R+8,-8
+Missouri,Education,Some college,31,R+25,-25,37,62,R+3,-3
+Missouri,Education,College degree,23,R+3,-3,48,51,R+2,-2
+Missouri,Education,Postgraduate,14,D+16,16,57,41,R+1,-1
+Missouri,Education by race,White college,32,R+2,-2,48,50,R+1,-1
+Missouri,Education by race,White non-college,53,R+44,-44,27,71,R+6,-6
+Missouri,Education by race,Nonwhite college,5,D+42,42,70,28,No estimate,
+Missouri,Education by race,Nonwhite non-college,10,D+35,35,67,32,R+10,-10
+Missouri,Gender by race,White men,41,R+40,-40,29,69,R+6,-6
+Missouri,Gender by race,White women,44,R+17,-17,41,58,D+1,1
+Missouri,Gender by race,Nonwhite men,7,D+20,20,59,39,R+13,-13
+Missouri,Gender by race,Nonwhite women,9,D+50,50,74,24,R+3,-3
+Missouri,Age by race,White 18-44,30,R+22,-22,38,60,R+5,-5
+Missouri,Age by race,White 45+,55,R+31,-31,34,65,R+1,-1
+Missouri,Age by race,Nonwhite 18-44,7,D+29,29,63,34,R+13,-13
+Missouri,Age by race,Nonwhite 45+,8,D+44,44,72,27,R+3,-3
+Missouri,Age by gender,Men 18-44,18,R+31,-31,33,64,R+11,-11
+Missouri,Age by gender,Men 45+,29,R+33,-33,33,66,R+4,-4
+Missouri,Age by gender,Women 18-44,19,D+5,5,52,47,R+1,-1
+Missouri,Age by gender,Women 45+,34,R+12,-12,44,55,D+2,2
+Missouri,Voted in the last presidential election,Voted,80,R+17,-17,41,58,No estimate,
+Missouri,Voted in the last presidential election,Didn’t vote,20,R+22,-22,38,60,No estimate,
+Missouri,Voted in the last midterm election,Voted,63,R+16,-16,41,57,No estimate,
+Missouri,Voted in the last midterm election,Didn’t vote,37,R+22,-22,38,60,No estimate,
+Montana,All voters,All voters,100,R+20,-20,38,58,R+4,-4
+Montana,Gender,Male,50,R+31,-31,33,63,R+6,-6
+Montana,Gender,Female,50,R+9,-9,44,53,R+2,-2
+Montana,Race,White,90,R+22,-22,38,59,R+4,-4
+Montana,Race,Black,1,,,,,,
+Montana,Race,Hispanic,2,,,,,,
+Montana,Race,Asian,1,,,,,,
+Montana,Race,Other,6,R+8,-8,43,51,No estimate,
+Montana,Age,18-29,13,R+6,-6,45,51,R+9,-9
+Montana,Age,30-44,22,R+14,-14,40,54,No change,0
+Montana,Age,45-64,32,R+30,-30,34,63,R+1,-1
+Montana,Age,65+,34,R+20,-20,39,59,R+7,-7
+Montana,Education,High school,27,R+39,-39,29,68,R+8,-8
+Montana,Education,Some college,33,R+29,-29,34,63,R+5,-5
+Montana,Education,College degree,26,R+6,-6,45,51,R+3,-3
+Montana,Education,Postgraduate,13,D+15,15,56,41,R+3,-3
+Montana,Education by race,White college,36,Even,0,48,48,R+4,-4
+Montana,Education by race,White non-college,54,R+36,-36,31,67,R+7,-7
+Montana,Education by race,Nonwhite college,3,,,,,,
+Montana,Education by race,Nonwhite non-college,7,R+12,-12,42,54,R+4,-4
+Montana,Gender by race,White men,45,R+32,-32,32,64,R+6,-6
+Montana,Gender by race,White women,45,R+11,-11,43,54,R+3,-3
+Montana,Gender by race,Nonwhite men,5,,,,,,
+Montana,Gender by race,Nonwhite women,5,D+7,7,52,44,No estimate,
+Montana,Age by race,White 18-44,30,R+12,-12,41,54,R+3,-3
+Montana,Age by race,White 45+,60,R+26,-26,36,62,R+4,-4
+Montana,Age by race,Nonwhite 18-44,5,,,,,,
+Montana,Age by race,Nonwhite 45+,5,R+9,-9,44,53,D+3,3
+Montana,Age by gender,Men 18-44,18,R+26,-26,34,60,R+7,-7
+Montana,Age by gender,Men 45+,32,R+33,-33,32,65,R+5,-5
+Montana,Age by gender,Women 18-44,17,D+5,5,51,45,No change,0
+Montana,Age by gender,Women 45+,33,R+17,-17,41,57,R+3,-3
+Montana,Voted in the last presidential election,Voted,79,R+19,-19,39,58,No estimate,
+Montana,Voted in the last presidential election,Didn’t vote,21,,,,,,
+Montana,Voted in the last midterm election,Voted,70,R+18,-18,40,57,No estimate,
+Montana,Voted in the last midterm election,Didn’t vote,30,R+26,-26,35,61,No estimate,
+New Jersey,All voters,All voters,100,D+6,6,52,46,R+10,-10
+New Jersey,Gender,Male,46,R+8,-8,45,53,R+14,-14
+New Jersey,Gender,Female,54,D+18,18,58,40,R+7,-7
+New Jersey,Race,White,65,R+7,-7,45,53,R+8,-8
+New Jersey,Race,Black,11,D+73,73,86,13,R+10,-10
+New Jersey,Race,Hispanic,13,D+9,9,53,44,R+23,-23
+New Jersey,Race,Asian,7,D+22,22,59,38,R+16,-16
+New Jersey,Race,Other,4,,,,,,
+New Jersey,Age,18-29,15,D+11,11,54,43,R+22,-22
+New Jersey,Age,30-44,22,D+8,8,52,44,R+14,-14
+New Jersey,Age,45-64,36,Even,0,49,49,R+8,-8
+New Jersey,Age,65+,28,D+9,9,54,45,R+1,-1
+New Jersey,Education,High school,27,R+7,-7,46,53,R+14,-14
+New Jersey,Education,Some college,24,R+1,-1,48,49,R+11,-11
+New Jersey,Education,College degree,30,D+12,12,55,43,R+8,-8
+New Jersey,Education,Postgraduate,20,D+24,24,61,37,R+10,-10
+New Jersey,Education by race,White college,34,D+8,8,53,45,R+8,-8
+New Jersey,Education by race,White non-college,31,R+25,-25,37,61,R+10,-10
+New Jersey,Education by race,Nonwhite college,15,D+35,35,66,31,R+12,-12
+New Jersey,Education by race,Nonwhite non-college,20,D+28,28,63,35,R+21,-21
+New Jersey,Gender by race,White men,31,R+20,-20,39,59,R+11,-11
+New Jersey,Gender by race,White women,35,D+4,4,51,47,R+5,-5
+New Jersey,Gender by race,Nonwhite men,15,D+17,17,57,40,R+22,-22
+New Jersey,Gender by race,Nonwhite women,20,D+42,42,70,28,R+13,-13
+New Jersey,Age by race,White 18-44,22,R+3,-3,47,50,R+14,-14
+New Jersey,Age by race,White 45+,44,R+10,-10,45,54,R+4,-4
+New Jersey,Age by race,Nonwhite 18-44,15,D+26,26,61,35,R+25,-25
+New Jersey,Age by race,Nonwhite 45+,20,D+35,35,67,32,R+11,-11
+New Jersey,Age by gender,Men 18-44,17,R+10,-10,43,53,R+22,-22
+New Jersey,Age by gender,Men 45+,29,R+7,-7,46,52,R+9,-9
+New Jersey,Age by gender,Women 18-44,20,D+25,25,61,36,R+14,-14
+New Jersey,Age by gender,Women 45+,34,D+13,13,56,43,R+2,-2
+New Jersey,Voted in the last presidential election,Voted,81,D+7,7,52,46,No estimate,
+New Jersey,Voted in the last presidential election,Didn’t vote,19,D+2,2,50,47,No estimate,
+New Jersey,Voted in the last midterm election,Voted,56,D+9,9,54,45,No estimate,
+New Jersey,Voted in the last midterm election,Didn’t vote,44,D+2,2,49,48,No estimate,
+Nebraska,All voters,All voters,100,R+21,-21,39,60,R+2,-2
+Nebraska,Gender,Male,48,R+34,-34,32,66,R+6,-6
+Nebraska,Gender,Female,52,R+9,-9,45,54,D+2,2
+Nebraska,Race,White,88,R+26,-26,37,62,R+1,-1
+Nebraska,Race,Black,3,D+61,61,80,19,R+14,-14
+Nebraska,Race,Hispanic,5,D+5,5,52,47,R+21,-21
+Nebraska,Race,Asian,1,,,,,,
+Nebraska,Race,Other,3,,,,,,
+Nebraska,Age,18-29,15,R+14,-14,42,56,R+15,-15
+Nebraska,Age,30-44,24,R+18,-18,40,58,R+4,-4
+Nebraska,Age,45-64,32,R+26,-26,36,62,D+3,3
+Nebraska,Age,65+,29,R+21,-21,39,60,D+1,1
+Nebraska,Education,High school,26,R+34,-34,32,67,R+3,-3
+Nebraska,Education,Some college,35,R+30,-30,34,64,R+5,-5
+Nebraska,Education,College degree,25,R+9,-9,45,54,D+2,2
+Nebraska,Education,Postgraduate,14,D+6,6,52,46,R+4,-4
+Nebraska,Education by race,White college,35,R+6,-6,46,52,D+1,1
+Nebraska,Education by race,White non-college,53,R+39,-39,30,69,R+4,-4
+Nebraska,Education by race,Nonwhite college,4,D+19,19,58,40,R+9,-9
+Nebraska,Education by race,Nonwhite non-college,8,D+13,13,56,42,R+14,-14
+Nebraska,Gender by race,White men,43,R+38,-38,30,68,R+5,-5
+Nebraska,Gender by race,White women,45,R+14,-14,42,57,D+3,3
+Nebraska,Gender by race,Nonwhite men,5,Even,0,49,49,R+18,-18
+Nebraska,Gender by race,Nonwhite women,7,D+28,28,63,35,R+8,-8
+Nebraska,Age by race,White 18-44,32,R+22,-22,38,60,R+7,-7
+Nebraska,Age by race,White 45+,56,R+28,-28,36,63,D+3,3
+Nebraska,Age by race,Nonwhite 18-44,6,D+11,11,54,43,R+20,-20
+Nebraska,Age by race,Nonwhite 45+,6,D+20,20,59,40,R+4,-4
+Nebraska,Age by gender,Men 18-44,19,R+33,-33,32,65,R+12,-12
+Nebraska,Age by gender,Men 45+,29,R+34,-34,32,67,R+2,-2
+Nebraska,Age by gender,Women 18-44,19,Even,0,49,49,R+4,-4
+Nebraska,Age by gender,Women 45+,32,R+14,-14,43,57,D+6,6
+Nebraska,Voted in the last presidential election,Voted,81,R+21,-21,39,60,No estimate,
+Nebraska,Voted in the last presidential election,Didn’t vote,19,R+21,-21,38,60,No estimate,
+Nebraska,Voted in the last midterm election,Voted,65,R+21,-21,39,60,No estimate,
+Nebraska,Voted in the last midterm election,Didn’t vote,35,R+20,-20,39,59,No estimate,
+Minnesota,All voters,All voters,100,D+4,4,51,47,R+3,-3
+Minnesota,Gender,Male,49,R+9,-9,44,53,R+6,-6
+Minnesota,Gender,Female,51,D+17,17,58,41,D+1,1
+Minnesota,Race,White,86,Even,0,49,49,R+2,-2
+Minnesota,Race,Nonwhite,14,D+29,29,63,34,R+10,-10
+Minnesota,Age,18-29,16,D+14,14,56,41,R+14,-14
+Minnesota,Age,30-44,25,D+9,9,53,43,R+2,-2
+Minnesota,Age,45-64,32,R+5,-5,46,51,D+1,1
+Minnesota,Age,65+,27,D+4,4,52,47,R+2,-2
+Minnesota,Education,High school,26,R+18,-18,40,58,R+8,-8
+Minnesota,Education,Some college,33,R+7,-7,45,52,R+3,-3
+Minnesota,Education,College degree,27,D+20,20,59,39,R+2,-2
+Minnesota,Education,Postgraduate,14,D+39,39,68,29,R+1,-1
+Minnesota,Education by race,White college,36,D+25,25,61,36,R+1,-1
+Minnesota,Education by race,White non-college,50,R+17,-17,40,58,R+5,-5
+Minnesota,Education by race,Nonwhite college,5,D+39,39,68,29,No estimate,
+Minnesota,Education by race,Nonwhite non-college,8,D+24,24,60,37,R+12,-12
+Minnesota,Gender by race,White men,42,R+13,-13,42,55,R+5,-5
+Minnesota,Gender by race,White women,44,D+13,13,55,43,D+1,1
+Minnesota,Gender by race,Nonwhite men,7,D+15,15,56,41,R+16,-16
+Minnesota,Gender by race,Nonwhite women,7,D+43,43,70,27,R+3,-3
+Minnesota,Age by race,White 18-44,33,D+7,7,52,45,R+5,-5
+Minnesota,Age by race,White 45+,54,R+4,-4,47,51,No change,0
+Minnesota,Age by race,Nonwhite 18-44,8,D+30,30,63,33,R+14,-14
+Minnesota,Age by race,Nonwhite 45+,6,D+29,29,64,34,R+3,-3
+Minnesota,Age by gender,Men 18-44,20,R+6,-6,45,51,R+11,-11
+Minnesota,Age by gender,Men 45+,29,R+11,-11,43,55,R+2,-2
+Minnesota,Age by gender,Women 18-44,20,D+29,29,63,34,R+2,-2
+Minnesota,Age by gender,Women 45+,31,D+9,9,54,45,D+2,2
+Minnesota,Voted in the last presidential election,Voted,82,D+5,5,51,47,No estimate,
+Minnesota,Voted in the last presidential election,Didn’t vote,18,D+2,2,49,48,No estimate,
+Minnesota,Voted in the last midterm election,Voted,72,D+7,7,52,45,No estimate,
+Minnesota,Voted in the last midterm election,Didn’t vote,28,R+3,-3,47,50,No estimate,
+New Mexico,All voters,All voters,100,D+6,6,52,46,R+5,-5
+New Mexico,Gender,Male,46,R+6,-6,46,52,R+6,-6
+New Mexico,Gender,Female,54,D+15,15,57,41,R+3,-3
+New Mexico,Race,White,53,R+1,-1,49,49,D+2,2
+New Mexico,Race,Black,2,,,,,,
+New Mexico,Race,Hispanic,34,D+11,11,54,43,R+17,-17
+New Mexico,Race,Asian,1,,,,,,
+New Mexico,Race,Other,9,D+9,9,52,43,No estimate,
+New Mexico,Age,18-29,14,Even,0,48,48,R+22,-22
+New Mexico,Age,30-44,21,R+2,-2,47,49,R+11,-11
+New Mexico,Age,45-64,32,Even,0,49,49,R+4,-4
+New Mexico,Age,65+,33,D+19,19,59,40,D+4,4
+New Mexico,Education,High school,28,R+6,-6,46,52,R+8,-8
+New Mexico,Education,Some college,33,R+2,-2,48,50,R+5,-5
+New Mexico,Education,College degree,21,D+14,14,56,42,R+2,-2
+New Mexico,Education,Postgraduate,18,D+30,30,64,34,R+5,-5
+New Mexico,Education by race,White college,24,D+20,20,59,39,No change,0
+New Mexico,Education by race,White non-college,29,R+18,-18,40,58,No change,0
+New Mexico,Education by race,Nonwhite college,14,D+23,23,60,37,R+11,-11
+New Mexico,Education by race,Nonwhite non-college,32,D+8,8,53,45,R+15,-15
+New Mexico,Gender by race,White men,25,R+11,-11,43,54,D+1,1
+New Mexico,Gender by race,White women,28,D+9,9,54,45,D+3,3
+New Mexico,Gender by race,Nonwhite men,20,Even,0,49,48,R+16,-16
+New Mexico,Gender by race,Nonwhite women,26,D+22,22,60,38,R+12,-12
+New Mexico,Age by race,White 18-44,15,R+4,-4,46,50,R+3,-3
+New Mexico,Age by race,White 45+,39,D+1,1,50,49,D+4,4
+New Mexico,Age by race,Nonwhite 18-44,20,Even,0,48,48,R+25,-25
+New Mexico,Age by race,Nonwhite 45+,26,D+22,22,60,38,R+5,-5
+New Mexico,Age by gender,Men 18-44,16,R+17,-17,39,56,R+17,-17
+New Mexico,Age by gender,Men 45+,30,Even,0,49,49,No change,0
+New Mexico,Age by gender,Women 18-44,19,D+12,12,54,43,R+13,-13
+New Mexico,Age by gender,Women 45+,35,D+17,17,58,41,D+2,2
+New Mexico,Voted in the last presidential election,Voted,76,D+9,9,53,45,No estimate,
+New Mexico,Voted in the last presidential election,Didn’t vote,24,R+4,-4,46,51,No estimate,
+New Mexico,Voted in the last midterm election,Voted,68,D+11,11,55,43,No estimate,
+New Mexico,Voted in the last midterm election,Didn’t vote,32,R+6,-6,45,52,No estimate,
+Oregon,All voters,All voters,100,D+14,14,55,41,R+2,-2
+Oregon,Gender,Male,49,D+3,3,49,46,R+4,-4
+Oregon,Gender,Female,51,D+24,24,61,36,No change,0
+Oregon,Race,White,85,D+12,12,54,42,R+1,-1
+Oregon,Race,Black,2,,,,,,
+Oregon,Race,Hispanic,6,D+24,24,60,36,R+11,-11
+Oregon,Race,Asian,3,,,,,,
+Oregon,Race,Other,4,,,,,,
+Oregon,Age,18-29,14,D+22,22,58,36,R+13,-13
+Oregon,Age,30-44,24,D+22,22,58,36,R+1,-1
+Oregon,Age,45-64,31,D+6,6,52,45,No change,0
+Oregon,Age,65+,31,D+12,12,56,43,D+2,2
+Oregon,Education,High school,26,R+9,-9,44,53,R+3,-3
+Oregon,Education,Some college,33,D+4,4,50,46,R+2,-2
+Oregon,Education,College degree,25,D+32,32,64,32,R+4,-4
+Oregon,Education,Postgraduate,16,D+46,46,71,25,R+4,-4
+Oregon,Education by race,White college,35,D+37,37,66,30,R+3,-3
+Oregon,Education by race,White non-college,50,R+5,-5,46,51,R+2,-2
+Oregon,Education by race,Nonwhite college,6,D+42,42,68,26,R+6,-6
+Oregon,Education by race,Nonwhite non-college,9,D+18,18,57,38,R+9,-9
+Oregon,Gender by race,White men,41,D+1,1,48,47,R+3,-3
+Oregon,Gender by race,White women,43,D+22,22,60,38,D+1,1
+Oregon,Gender by race,Nonwhite men,7,D+16,16,55,39,R+11,-11
+Oregon,Gender by race,Nonwhite women,8,D+38,38,67,29,R+4,-4
+Oregon,Age by race,White 18-44,29,D+20,20,57,37,R+4,-4
+Oregon,Age by race,White 45+,55,D+8,8,53,45,D+2,2
+Oregon,Age by race,Nonwhite 18-44,8,D+30,30,61,32,R+11,-11
+Oregon,Age by race,Nonwhite 45+,7,D+25,25,61,36,R+3,-3
+Oregon,Age by gender,Men 18-44,19,D+9,9,51,42,R+8,-8
+Oregon,Age by gender,Men 45+,30,Even,0,49,49,R+1,-1
+Oregon,Age by gender,Women 18-44,19,D+35,35,65,30,R+3,-3
+Oregon,Age by gender,Women 45+,33,D+18,18,58,40,D+4,4
+Oregon,Voted in the last presidential election,Voted,80,D+14,14,56,41,No estimate,
+Oregon,Voted in the last presidential election,Didn’t vote,20,D+13,13,54,41,No estimate,
+Oregon,Voted in the last midterm election,Voted,77,D+15,15,56,41,No estimate,
+Oregon,Voted in the last midterm election,Didn’t vote,23,D+12,12,53,41,No estimate,
+Oklahoma,All voters,All voters,100,R+35,-35,32,66,R+2,-2
+Oklahoma,Gender,Male,47,R+44,-44,27,71,R+4,-4
+Oklahoma,Gender,Female,53,R+26,-26,36,62,D+1,1
+Oklahoma,Race,White,80,R+44,-44,27,71,No change,0
+Oklahoma,Race,Black,6,D+58,58,78,20,R+18,-18
+Oklahoma,Race,Hispanic,4,,,,,,
+Oklahoma,Race,Asian,1,,,,,,
+Oklahoma,Race,Other,8,R+30,-30,33,63,No estimate,
+Oklahoma,Age,18-29,13,R+25,-25,36,61,R+9,-9
+Oklahoma,Age,30-44,22,R+31,-31,33,64,No change,0
+Oklahoma,Age,45-64,34,R+44,-44,27,71,R+1,-1
+Oklahoma,Age,65+,31,R+31,-31,34,65,R+1,-1
+Oklahoma,Education,High school,31,R+47,-47,26,73,R+5,-5
+Oklahoma,Education,Some college,34,R+39,-39,30,68,R+2,-2
+Oklahoma,Education,College degree,22,R+24,-24,37,61,D+1,1
+Oklahoma,Education,Postgraduate,13,R+12,-12,43,55,R+2,-2
+Oklahoma,Education by race,White college,29,R+25,-25,36,62,D+2,2
+Oklahoma,Education by race,White non-college,52,R+54,-54,22,76,R+3,-3
+Oklahoma,Education by race,Nonwhite college,7,D+5,5,51,46,R+15,-15
+Oklahoma,Education by race,Nonwhite non-college,13,D+1,1,49,48,R+9,-9
+Oklahoma,Gender by race,White men,39,R+51,-51,23,74,R+3,-3
+Oklahoma,Gender by race,White women,42,R+37,-37,31,68,D+2,2
+Oklahoma,Gender by race,Nonwhite men,9,R+11,-11,43,54,R+13,-13
+Oklahoma,Gender by race,Nonwhite women,11,D+13,13,55,42,R+7,-7
+Oklahoma,Age by race,White 18-44,26,R+39,-39,29,68,R+1,-1
+Oklahoma,Age by race,White 45+,54,R+46,-46,26,72,No change,0
+Oklahoma,Age by race,Nonwhite 18-44,9,D+1,1,48,48,R+12,-12
+Oklahoma,Age by race,Nonwhite 45+,11,D+4,4,51,47,R+9,-9
+Oklahoma,Age by gender,Men 18-44,17,R+41,-41,27,69,R+6,-6
+Oklahoma,Age by gender,Men 45+,30,R+45,-45,27,72,R+3,-3
+Oklahoma,Age by gender,Women 18-44,18,R+17,-17,40,57,No change,0
+Oklahoma,Age by gender,Women 45+,35,R+31,-31,34,65,D+2,2
+Oklahoma,Voted in the last presidential election,Voted,76,R+33,-33,32,66,No estimate,
+Oklahoma,Voted in the last presidential election,Didn’t vote,24,R+38,-38,30,68,No estimate,
+Oklahoma,Voted in the last midterm election,Voted,65,R+32,-32,33,65,No estimate,
+Oklahoma,Voted in the last midterm election,Didn’t vote,35,R+40,-40,29,69,No estimate,
+Ohio,All voters,All voters,100,R+11,-11,44,55,R+3,-3
+Ohio,Gender,Male,48,R+26,-26,36,63,R+8,-8
+Ohio,Gender,Female,52,D+3,3,51,48,D+2,2
+Ohio,Race,White,83,R+22,-22,38,61,R+3,-3
+Ohio,Race,Black,10,D+75,75,87,12,R+9,-9
+Ohio,Race,Hispanic,2,,,,,,
+Ohio,Race,Asian,2,,,,,,
+Ohio,Race,Other,3,,,,,,
+Ohio,Age,18-29,14,R+1,-1,49,50,R+12,-12
+Ohio,Age,30-44,22,R+7,-7,45,53,R+1,-1
+Ohio,Age,45-64,34,R+19,-19,40,59,R+2,-2
+Ohio,Age,65+,30,R+10,-10,45,55,R+2,-2
+Ohio,Education,High school,33,R+28,-28,36,63,R+7,-7
+Ohio,Education,Some college,30,R+15,-15,42,57,R+3,-3
+Ohio,Education,College degree,23,D+1,1,50,49,R+1,-1
+Ohio,Education,Postgraduate,14,D+17,17,58,41,R+3,-3
+Ohio,Education by race,White college,31,D+1,1,50,49,R+1,-1
+Ohio,Education by race,White non-college,52,R+36,-36,32,68,R+5,-5
+Ohio,Education by race,Nonwhite college,5,D+43,43,71,28,R+6,-6
+Ohio,Education by race,Nonwhite non-college,11,D+44,44,72,27,R+10,-10
+Ohio,Gender by race,White men,41,R+36,-36,31,67,R+7,-7
+Ohio,Gender by race,White women,43,R+9,-9,45,54,D+2,2
+Ohio,Gender by race,Nonwhite men,7,D+27,27,63,36,R+16,-16
+Ohio,Gender by race,Nonwhite women,9,D+57,57,78,21,R+3,-3
+Ohio,Age by race,White 18-44,29,R+15,-15,41,57,R+4,-4
+Ohio,Age by race,White 45+,55,R+26,-26,37,62,R+1,-1
+Ohio,Age by race,Nonwhite 18-44,7,D+37,37,68,31,R+12,-12
+Ohio,Age by race,Nonwhite 45+,9,D+50,50,74,25,R+6,-6
+Ohio,Age by gender,Men 18-44,18,R+25,-25,37,61,R+11,-11
+Ohio,Age by gender,Men 45+,30,R+27,-27,36,63,R+6,-6
+Ohio,Age by gender,Women 18-44,18,D+15,15,57,42,No change,0
+Ohio,Age by gender,Women 45+,34,R+3,-3,48,51,D+3,3
+Ohio,Voted in the last presidential election,Voted,83,R+11,-11,44,55,No estimate,
+Ohio,Voted in the last presidential election,Didn’t vote,17,R+10,-10,44,54,No estimate,
+Ohio,Voted in the last midterm election,Voted,67,R+11,-11,44,55,No estimate,
+Ohio,Voted in the last midterm election,Didn’t vote,33,R+11,-11,44,55,No estimate,
+North Carolina,All voters,All voters,100,R+3,-3,48,51,R+2,-2
+North Carolina,Gender,Male,45,R+17,-17,40,58,R+6,-6
+North Carolina,Gender,Female,55,D+9,9,54,45,D+2,2
+North Carolina,Race,White,71,R+26,-26,36,62,D+2,2
+North Carolina,Race,Black,19,D+78,78,88,11,R+7,-7
+North Carolina,Race,Hispanic,4,D+14,14,56,42,R+11,-11
+North Carolina,Race,Asian,2,,,,,,
+North Carolina,Race,Other,3,,,,,,
+North Carolina,Age,18-29,16,D+6,6,52,46,R+11,-11
+North Carolina,Age,30-44,22,D+1,1,49,48,R+3,-3
+North Carolina,Age,45-64,34,R+10,-10,44,54,R+1,-1
+North Carolina,Age,65+,28,R+3,-3,48,51,D+4,4
+North Carolina,Education,High school,28,R+17,-17,41,58,R+4,-4
+North Carolina,Education,Some college,32,R+11,-11,44,55,R+3,-3
+North Carolina,Education,College degree,25,D+8,8,53,45,D+1,1
+North Carolina,Education,Postgraduate,15,D+22,22,60,38,R+4,-4
+North Carolina,Education by race,White college,30,R+2,-2,48,50,D+2,2
+North Carolina,Education by race,White non-college,41,R+45,-45,27,72,No change,0
+North Carolina,Education by race,Nonwhite college,10,D+57,57,78,21,R+6,-6
+North Carolina,Education by race,Nonwhite non-college,19,D+53,53,76,23,R+10,-10
+North Carolina,Gender by race,White men,33,R+38,-38,30,68,R+2,-2
+North Carolina,Gender by race,White women,38,R+17,-17,41,58,D+5,5
+North Carolina,Gender by race,Nonwhite men,12,D+40,40,69,29,R+15,-15
+North Carolina,Gender by race,Nonwhite women,17,D+64,64,81,17,R+4,-4
+North Carolina,Age by race,White 18-44,25,R+19,-19,39,58,R+2,-2
+North Carolina,Age by race,White 45+,46,R+31,-31,34,65,D+4,4
+North Carolina,Age by race,Nonwhite 18-44,12,D+48,48,73,25,R+14,-14
+North Carolina,Age by race,Nonwhite 45+,16,D+59,59,79,20,R+5,-5
+North Carolina,Age by gender,Men 18-44,17,R+15,-15,41,56,R+11,-11
+North Carolina,Age by gender,Men 45+,28,R+18,-18,40,59,R+2,-2
+North Carolina,Age by gender,Women 18-44,21,D+19,19,58,40,R+3,-3
+North Carolina,Age by gender,Women 45+,34,D+2,2,51,48,D+5,5
+North Carolina,Voted in the last presidential election,Voted,77,R+3,-3,48,51,No estimate,
+North Carolina,Voted in the last presidential election,Didn’t vote,23,R+3,-3,48,50,No estimate,
+North Carolina,Voted in the last midterm election,Voted,61,R+2,-2,48,51,No estimate,
+North Carolina,Voted in the last midterm election,Didn’t vote,39,R+4,-4,47,51,No estimate,
+North Dakota,All voters,All voters,100,R+37,-37,30,67,R+3,-3
+North Dakota,Gender,Male,50,R+48,-48,24,73,R+6,-6
+North Dakota,Gender,Female,50,R+25,-25,36,61,D+1,1
+North Dakota,Race,White,90,R+38,-38,30,68,R+3,-3
+North Dakota,Race,Nonwhite,10,R+24,-24,36,60,R+9,-9
+North Dakota,Age,18-29,15,R+29,-29,34,62,R+10,-10
+North Dakota,Age,30-44,22,R+35,-35,30,66,D+1,1
+North Dakota,Age,45-64,34,R+45,-45,26,71,R+1,-1
+North Dakota,Age,65+,29,R+32,-32,33,66,R+5,-5
+North Dakota,Education,High school,25,R+53,-53,23,75,R+10,-10
+North Dakota,Education,Some college,39,R+41,-41,28,69,R+3,-3
+North Dakota,Education,College degree,26,R+26,-26,35,62,No change,0
+North Dakota,Education,Postgraduate,11,R+9,-9,44,53,R+1,-1
+North Dakota,Education by race,White college,34,R+22,-22,38,60,No change,0
+North Dakota,Education by race,White non-college,56,R+48,-48,25,73,R+5,-5
+North Dakota,Education by race,Nonwhite college,3,,,,,,
+North Dakota,Education by race,Nonwhite non-college,7,R+28,-28,34,62,R+13,-13
+North Dakota,Gender by race,White men,45,R+49,-49,24,73,R+5,-5
+North Dakota,Gender by race,White women,45,R+27,-27,36,62,D+1,1
+North Dakota,Gender by race,Nonwhite men,5,,,,,,
+North Dakota,Gender by race,Nonwhite women,5,R+9,-9,44,53,No estimate,
+North Dakota,Age by race,White 18-44,32,R+34,-34,31,65,R+2,-2
+North Dakota,Age by race,White 45+,58,R+40,-40,29,69,R+3,-3
+North Dakota,Age by race,Nonwhite 18-44,5,R+25,-25,35,60,No estimate,
+North Dakota,Age by race,Nonwhite 45+,5,,,,,,
+North Dakota,Age by gender,Men 18-44,19,R+49,-49,23,72,R+8,-8
+North Dakota,Age by gender,Men 45+,31,R+48,-48,25,73,R+5,-5
+North Dakota,Age by gender,Women 18-44,18,R+15,-15,41,56,D+2,2
+North Dakota,Age by gender,Women 45+,32,R+31,-31,34,65,No change,0
+North Dakota,Voted in the last presidential election,Voted,76,R+36,-36,31,67,No estimate,
+North Dakota,Voted in the last presidential election,Didn’t vote,24,R+38,-38,29,67,No estimate,
+North Dakota,Voted in the last midterm election,Voted,59,R+35,-35,32,66,No estimate,
+North Dakota,Voted in the last midterm election,Didn’t vote,41,R+40,-40,29,68,No estimate,
+Pennsylvania,All voters,All voters,100,R+2,-2,49,50,R+3,-3
+Pennsylvania,Gender,Male,47,R+16,-16,41,57,R+6,-6
+Pennsylvania,Gender,Female,53,D+11,11,55,44,No change,0
+Pennsylvania,Race,White,81,R+13,-13,43,56,R+2,-2
+Pennsylvania,Race,Black,9,D+77,77,88,11,R+10,-10
+Pennsylvania,Race,Hispanic,4,D+21,21,60,39,R+17,-17
+Pennsylvania,Race,Asian,2,D+28,28,63,35,No estimate,
+Pennsylvania,Race,Other,3,D+4,4,51,47,No estimate,
+Pennsylvania,Age,18-29,15,D+6,6,52,46,R+14,-14
+Pennsylvania,Age,30-44,22,D+3,3,51,48,R+3,-3
+Pennsylvania,Age,45-64,33,R+11,-11,44,55,R+2,-2
+Pennsylvania,Age,65+,30,Even,0,50,50,D+1,1
+Pennsylvania,Education,High school,35,R+22,-22,39,61,R+8,-8
+Pennsylvania,Education,Some college,26,R+7,-7,46,53,R+3,-3
+Pennsylvania,Education,College degree,23,D+11,11,55,44,R+3,-3
+Pennsylvania,Education,Postgraduate,16,D+31,31,65,34,D+2,2
+Pennsylvania,Education by race,White college,33,D+13,13,56,43,No change,0
+Pennsylvania,Education by race,White non-college,49,R+31,-31,34,65,R+6,-6
+Pennsylvania,Education by race,Nonwhite college,7,D+49,49,74,25,R+5,-5
+Pennsylvania,Education by race,Nonwhite non-college,12,D+46,46,72,26,R+13,-13
+Pennsylvania,Gender by race,White men,39,R+26,-26,37,62,R+5,-5
+Pennsylvania,Gender by race,White women,42,R+1,-1,49,50,No change,0
+Pennsylvania,Gender by race,Nonwhite men,8,D+33,33,65,33,R+15,-15
+Pennsylvania,Gender by race,Nonwhite women,11,D+57,57,78,21,R+6,-6
+Pennsylvania,Age by race,White 18-44,29,R+8,-8,45,53,R+7,-7
+Pennsylvania,Age by race,White 45+,53,R+16,-16,42,58,No change,0
+Pennsylvania,Age by race,Nonwhite 18-44,9,D+43,43,71,27,R+15,-15
+Pennsylvania,Age by race,Nonwhite 45+,10,D+50,50,75,24,R+6,-6
+Pennsylvania,Age by gender,Men 18-44,18,R+15,-15,42,56,R+12,-12
+Pennsylvania,Age by gender,Men 45+,29,R+17,-17,41,58,R+3,-3
+Pennsylvania,Age by gender,Women 18-44,20,D+21,21,60,39,R+4,-4
+Pennsylvania,Age by gender,Women 45+,33,D+4,4,52,47,D+2,2
+Pennsylvania,Voted in the last presidential election,Voted,81,R+2,-2,49,50,No estimate,
+Pennsylvania,Voted in the last presidential election,Didn’t vote,19,R+3,-3,48,51,No estimate,
+Pennsylvania,Voted in the last midterm election,Voted,71,D+1,1,50,49,No estimate,
+Pennsylvania,Voted in the last midterm election,Didn’t vote,29,R+9,-9,45,54,No estimate,
+New York,All voters,All voters,100,D+13,13,56,43,R+10,-10
+New York,Gender,Male,45,R+2,-2,48,50,R+14,-14
+New York,Gender,Female,55,D+25,25,62,37,R+8,-8
+New York,Race,White,67,R+1,-1,49,50,R+7,-7
+New York,Race,Black,12,D+76,76,87,12,R+12,-12
+New York,Race,Hispanic,12,D+21,21,60,39,R+25,-25
+New York,Race,Asian,6,D+25,25,61,36,R+19,-19
+New York,Race,Other,4,,,,,,
+New York,Age,18-29,14,D+16,16,57,41,R+25,-25
+New York,Age,30-44,23,D+17,17,58,40,R+14,-14
+New York,Age,45-64,34,D+6,6,52,46,R+8,-8
+New York,Age,65+,29,D+15,15,57,42,R+2,-2
+New York,Education,High school,27,R+6,-6,47,53,R+16,-16
+New York,Education,Some college,26,D+2,2,50,48,R+12,-12
+New York,Education,College degree,26,D+23,23,61,38,R+9,-9
+New York,Education,Postgraduate,21,D+36,36,68,31,R+6,-6
+New York,Education by race,White college,33,D+22,22,60,39,R+6,-6
+New York,Education by race,White non-college,34,R+24,-24,38,61,R+10,-10
+New York,Education by race,Nonwhite college,14,D+48,48,73,25,R+12,-12
+New York,Education by race,Nonwhite non-college,19,D+36,36,67,31,R+23,-23
+New York,Gender by race,White men,32,R+15,-15,42,57,R+10,-10
+New York,Gender by race,White women,36,D+11,11,55,44,R+4,-4
+New York,Gender by race,Nonwhite men,14,D+27,27,62,36,R+23,-23
+New York,Gender by race,Nonwhite women,19,D+50,50,75,24,R+15,-15
+New York,Age by race,White 18-44,23,D+5,5,52,46,R+13,-13
+New York,Age by race,White 45+,44,R+5,-5,47,52,R+3,-3
+New York,Age by race,Nonwhite 18-44,14,D+35,35,66,31,R+27,-27
+New York,Age by race,Nonwhite 45+,19,D+45,45,72,27,R+12,-12
+New York,Age by gender,Men 18-44,17,R+2,-2,48,50,R+22,-22
+New York,Age by gender,Men 45+,28,R+2,-2,48,51,R+8,-8
+New York,Age by gender,Women 18-44,21,D+32,32,65,33,R+15,-15
+New York,Age by gender,Women 45+,34,D+20,20,60,40,R+3,-3
+New York,Voted in the last presidential election,Voted,80,D+14,14,56,42,No estimate,
+New York,Voted in the last presidential election,Didn’t vote,20,D+6,6,52,46,No estimate,
+New York,Voted in the last midterm election,Voted,65,D+13,13,56,43,No estimate,
+New York,Voted in the last midterm election,Didn’t vote,35,D+11,11,55,44,No estimate,
+Virginia,All voters,All voters,100,D+6,6,52,46,R+3,-3
+Virginia,Gender,Male,46,R+8,-8,45,53,R+7,-7
+Virginia,Gender,Female,54,D+17,17,58,40,No change,0
+Virginia,Race,White,68,R+14,-14,42,56,No change,0
+Virginia,Race,Black,16,D+75,75,86,12,R+8,-8
+Virginia,Race,Hispanic,6,D+16,16,57,41,R+15,-15
+Virginia,Race,Asian,6,D+24,24,61,36,R+26,-26
+Virginia,Race,Other,4,,,,,,
+Virginia,Age,18-29,16,D+20,20,59,39,R+10,-10
+Virginia,Age,30-44,23,D+11,11,54,43,R+6,-6
+Virginia,Age,45-64,34,R+1,-1,48,50,R+3,-3
+Virginia,Age,65+,27,D+2,2,50,49,D+3,3
+Virginia,Education,High school,27,R+15,-15,42,57,R+7,-7
+Virginia,Education,Some college,27,R+3,-3,47,51,R+3,-3
+Virginia,Education,College degree,26,D+17,17,57,40,R+2,-2
+Virginia,Education,Postgraduate,20,D+31,31,64,33,R+5,-5
+Virginia,Education by race,White college,32,D+12,12,55,43,No change,0
+Virginia,Education by race,White non-college,36,R+37,-37,31,68,R+3,-3
+Virginia,Education by race,Nonwhite college,14,D+49,49,73,24,R+12,-12
+Virginia,Education by race,Nonwhite non-college,18,D+47,47,72,26,R+13,-13
+Virginia,Gender by race,White men,32,R+25,-25,36,61,R+3,-3
+Virginia,Gender by race,White women,36,R+4,-4,47,51,D+3,3
+Virginia,Gender by race,Nonwhite men,13,D+33,33,65,32,R+19,-19
+Virginia,Gender by race,Nonwhite women,19,D+58,58,78,20,R+8,-8
+Virginia,Age by race,White 18-44,24,R+3,-3,47,50,R+4,-4
+Virginia,Age by race,White 45+,44,R+20,-20,39,59,D+2,2
+Virginia,Age by race,Nonwhite 18-44,14,D+44,44,71,26,R+16,-16
+Virginia,Age by race,Nonwhite 45+,17,D+50,50,74,24,R+10,-10
+Virginia,Age by gender,Men 18-44,17,R+4,-4,46,50,R+12,-12
+Virginia,Age by gender,Men 45+,28,R+11,-11,43,55,R+4,-4
+Virginia,Age by gender,Women 18-44,21,D+30,30,64,34,R+4,-4
+Virginia,Age by gender,Women 45+,33,D+9,9,54,45,D+2,2
+Virginia,Voted in the last presidential election,Voted,79,D+6,6,52,46,No estimate,
+Virginia,Voted in the last presidential election,Didn’t vote,21,D+5,5,51,46,No estimate,
+Virginia,Voted in the last midterm election,Voted,63,D+7,7,52,46,No estimate,
+Virginia,Voted in the last midterm election,Didn’t vote,37,D+4,4,51,47,No estimate,
+Vermont,All voters,All voters,100,D+32,32,64,33,R+3,-3
+Vermont,Gender,Male,48,D+20,20,58,38,R+6,-6
+Vermont,Gender,Female,52,D+43,43,70,27,R+1,-1
+Vermont,Race,White,93,D+33,33,65,32,R+2,-2
+Vermont,Race,Nonwhite,7,,,,,,
+Vermont,Age,18-29,12,D+40,40,68,28,R+14,-14
+Vermont,Age,30-44,22,D+35,35,65,30,R+5,-5
+Vermont,Age,45-64,33,D+24,24,61,36,R+1,-1
+Vermont,Age,65+,33,D+34,34,66,32,R+1,-1
+Vermont,Education,High school,27,D+5,5,51,46,R+14,-14
+Vermont,Education,Some college,25,D+21,21,59,38,R+7,-7
+Vermont,Education,College degree,28,D+45,45,71,26,R+2,-2
+Vermont,Education,Postgraduate,21,D+62,62,79,17,D+1,1
+Vermont,Education by race,White college,45,D+54,54,75,21,No change,0
+Vermont,Education by race,White non-college,48,D+13,13,55,42,R+10,-10
+Vermont,Education by race,Nonwhite college,3,,,,,,
+Vermont,Education by race,Nonwhite non-college,4,,,,,,
+Vermont,Gender by race,White men,45,D+21,21,59,38,R+5,-5
+Vermont,Gender by race,White women,48,D+44,44,71,27,No change,0
+Vermont,Gender by race,Nonwhite men,3,,,,,,
+Vermont,Gender by race,Nonwhite women,4,,,,,,
+Vermont,Age by race,White 18-44,30,D+39,39,67,28,R+7,-7
+Vermont,Age by race,White 45+,63,D+30,30,64,34,No change,0
+Vermont,Age by race,Nonwhite 18-44,4,,,,,,
+Vermont,Age by race,Nonwhite 45+,3,,,,,,
+Vermont,Age by gender,Men 18-44,17,D+21,21,58,36,R+13,-13
+Vermont,Age by gender,Men 45+,31,D+19,19,58,39,R+3,-3
+Vermont,Age by gender,Women 18-44,17,D+53,53,74,22,R+4,-4
+Vermont,Age by gender,Women 45+,35,D+39,39,68,30,D+1,1
+Vermont,Voted in the last presidential election,Voted,78,D+33,33,65,32,No estimate,
+Vermont,Voted in the last presidential election,Didn’t vote,22,D+26,26,61,35,No estimate,
+Vermont,Voted in the last midterm election,Voted,70,D+37,37,67,30,No estimate,
+Vermont,Voted in the last midterm election,Didn’t vote,30,D+20,20,58,38,No estimate,
+South Carolina,All voters,All voters,100,R+18,-18,40,58,R+6,-6
+South Carolina,Gender,Male,44,R+33,-33,33,66,R+10,-10
+South Carolina,Gender,Female,56,R+5,-5,47,52,R+2,-2
+South Carolina,Race,White,73,R+45,-45,27,72,No change,0
+South Carolina,Race,Black,21,D+76,76,87,12,R+7,-7
+South Carolina,Race,Hispanic,3,,,,,,
+South Carolina,Race,Asian,1,,,,,,
+South Carolina,Race,Other,2,,,,,,
+South Carolina,Age,18-29,12,R+7,-7,46,52,R+17,-17
+South Carolina,Age,30-44,21,R+14,-14,42,56,R+10,-10
+South Carolina,Age,45-64,35,R+23,-23,38,61,R+5,-5
+South Carolina,Age,65+,32,R+19,-19,40,59,D+2,2
+South Carolina,Education,High school,30,R+25,-25,37,62,R+9,-9
+South Carolina,Education,Some college,32,R+22,-22,38,60,R+5,-5
+South Carolina,Education,College degree,23,R+13,-13,43,56,R+3,-3
+South Carolina,Education,Postgraduate,15,R+1,-1,49,50,R+8,-8
+South Carolina,Education by race,White college,29,R+26,-26,36,62,No change,0
+South Carolina,Education by race,White non-college,44,R+58,-58,20,78,R+1,-1
+South Carolina,Education by race,Nonwhite college,8,D+55,55,77,22,R+9,-9
+South Carolina,Education by race,Nonwhite non-college,19,D+58,58,78,21,R+10,-10
+South Carolina,Gender by race,White men,34,R+55,-55,22,77,R+4,-4
+South Carolina,Gender by race,White women,39,R+36,-36,31,68,D+3,3
+South Carolina,Gender by race,Nonwhite men,10,D+39,39,69,29,R+18,-18
+South Carolina,Gender by race,Nonwhite women,17,D+68,68,83,16,R+5,-5
+South Carolina,Age by race,White 18-44,23,R+36,-36,31,67,R+5,-5
+South Carolina,Age by race,White 45+,50,R+49,-49,25,74,D+3,3
+South Carolina,Age by race,Nonwhite 18-44,10,D+47,47,73,25,R+16,-16
+South Carolina,Age by race,Nonwhite 45+,17,D+62,62,81,19,R+6,-6
+South Carolina,Age by gender,Men 18-44,14,R+34,-34,32,65,R+19,-19
+South Carolina,Age by gender,Men 45+,30,R+33,-33,33,66,R+6,-6
+South Carolina,Age by gender,Women 18-44,19,D+5,5,52,46,R+8,-8
+South Carolina,Age by gender,Women 45+,37,R+11,-11,44,55,D+1,1
+South Carolina,Voted in the last presidential election,Voted,76,R+16,-16,42,57,No estimate,
+South Carolina,Voted in the last presidential election,Didn’t vote,24,R+24,-24,37,61,No estimate,
+South Carolina,Voted in the last midterm election,Voted,61,R+19,-19,40,59,No estimate,
+South Carolina,Voted in the last midterm election,Didn’t vote,39,R+16,-16,41,57,No estimate,
+Rhode Island,All voters,All voters,100,D+14,14,56,42,R+7,-7
+Rhode Island,Gender,Male,46,R+1,-1,48,49,R+11,-11
+Rhode Island,Gender,Female,54,D+27,27,63,36,R+4,-4
+Rhode Island,Race,White,81,D+11,11,55,43,R+5,-5
+Rhode Island,Race,Black,5,,,,,,
+Rhode Island,Race,Hispanic,9,D+18,18,58,40,R+21,-21
+Rhode Island,Race,Asian,1,,,,,,
+Rhode Island,Race,Other,4,,,,,,
+Rhode Island,Age,18-29,14,D+13,13,55,42,R+24,-24
+Rhode Island,Age,30-44,22,D+12,12,54,43,R+10,-10
+Rhode Island,Age,45-64,33,D+6,6,52,46,R+6,-6
+Rhode Island,Age,65+,30,D+25,25,62,37,D+2,2
+Rhode Island,Education,High school,29,R+4,-4,47,51,R+11,-11
+Rhode Island,Education,Some college,26,D+6,6,52,46,R+8,-8
+Rhode Island,Education,College degree,26,D+24,24,61,37,R+7,-7
+Rhode Island,Education,Postgraduate,19,D+38,38,68,30,R+7,-7
+Rhode Island,Education by race,White college,39,D+29,29,64,34,R+6,-6
+Rhode Island,Education by race,White non-college,42,R+5,-5,46,52,R+9,-9
+Rhode Island,Education by race,Nonwhite college,6,D+33,33,65,32,R+10,-10
+Rhode Island,Education by race,Nonwhite non-college,13,D+21,21,59,38,R+19,-19
+Rhode Island,Gender by race,White men,38,R+4,-4,47,51,R+9,-9
+Rhode Island,Gender by race,White women,43,D+25,25,61,37,R+2,-2
+Rhode Island,Gender by race,Nonwhite men,9,D+10,10,53,44,R+22,-22
+Rhode Island,Gender by race,Nonwhite women,11,D+37,37,68,31,R+11,-11
+Rhode Island,Age by race,White 18-44,27,D+10,10,53,43,R+12,-12
+Rhode Island,Age by race,White 45+,54,D+12,12,55,43,R+2,-2
+Rhode Island,Age by race,Nonwhite 18-44,9,D+17,17,57,40,R+27,-27
+Rhode Island,Age by race,Nonwhite 45+,10,D+32,32,65,33,R+6,-6
+Rhode Island,Age by gender,Men 18-44,17,R+8,-8,44,52,R+20,-20
+Rhode Island,Age by gender,Men 45+,29,D+3,3,51,48,R+5,-5
+Rhode Island,Age by gender,Women 18-44,19,D+30,30,64,34,R+12,-12
+Rhode Island,Age by gender,Women 45+,35,D+25,25,62,37,D+1,1
+Rhode Island,Voted in the last presidential election,Voted,78,D+17,17,57,41,No estimate,
+Rhode Island,Voted in the last presidential election,Didn’t vote,22,D+5,5,51,46,No estimate,
+Rhode Island,Voted in the last midterm election,Voted,64,D+20,20,59,39,No estimate,
+Rhode Island,Voted in the last midterm election,Didn’t vote,36,D+3,3,50,47,No estimate,
+South Dakota,All voters,All voters,100,R+30,-30,34,64,R+3,-3
+South Dakota,Gender,Male,49,R+41,-41,28,69,R+5,-5
+South Dakota,Gender,Female,51,R+19,-19,40,59,No change,0
+South Dakota,Race,White,91,R+32,-32,33,65,R+3,-3
+South Dakota,Race,Black,1,,,,,,
+South Dakota,Race,Hispanic,2,,,,,,
+South Dakota,Race,Asian,1,,,,,,
+South Dakota,Race,Other,5,R+7,-7,44,51,No estimate,
+South Dakota,Age,18-29,12,R+29,-29,34,62,R+11,-11
+South Dakota,Age,30-44,23,R+31,-31,32,64,R+2,-2
+South Dakota,Age,45-64,32,R+36,-36,31,67,R+3,-3
+South Dakota,Age,65+,32,R+22,-22,39,60,R+1,-1
+South Dakota,Education,High school,28,R+40,-40,29,69,R+5,-5
+South Dakota,Education,Some college,35,R+36,-36,31,67,R+5,-5
+South Dakota,Education,College degree,25,R+20,-20,39,59,R+1,-1
+South Dakota,Education,Postgraduate,12,R+6,-6,46,52,R+6,-6
+South Dakota,Education by race,White college,34,R+16,-16,41,57,R+2,-2
+South Dakota,Education by race,White non-college,57,R+41,-41,28,70,R+5,-5
+South Dakota,Education by race,Nonwhite college,3,R+6,-6,45,51,R+7,-7
+South Dakota,Education by race,Nonwhite non-college,6,R+6,-6,45,51,R+8,-8
+South Dakota,Gender by race,White men,45,R+43,-43,27,70,R+5,-5
+South Dakota,Gender by race,White women,46,R+22,-22,38,60,No change,0
+South Dakota,Gender by race,Nonwhite men,4,R+20,-20,38,58,R+12,-12
+South Dakota,Gender by race,Nonwhite women,5,D+6,6,51,46,R+3,-3
+South Dakota,Age by race,White 18-44,31,R+34,-34,31,65,R+6,-6
+South Dakota,Age by race,White 45+,59,R+31,-31,34,65,R+2,-2
+South Dakota,Age by race,Nonwhite 18-44,5,R+9,-9,43,52,R+11,-11
+South Dakota,Age by race,Nonwhite 45+,5,R+4,-4,47,51,R+4,-4
+South Dakota,Age by gender,Men 18-44,18,R+44,-44,26,70,R+7,-7
+South Dakota,Age by gender,Men 45+,31,R+39,-39,30,68,R+4,-4
+South Dakota,Age by gender,Women 18-44,17,R+17,-17,40,57,R+3,-3
+South Dakota,Age by gender,Women 45+,33,R+20,-20,39,59,D+1,1
+South Dakota,Voted in the last presidential election,Voted,77,R+28,-28,35,63,No estimate,
+South Dakota,Voted in the last presidential election,Didn’t vote,23,R+35,-35,31,66,No estimate,
+South Dakota,Voted in the last midterm election,Voted,73,R+28,-28,35,63,No estimate,
+South Dakota,Voted in the last midterm election,Didn’t vote,27,R+34,-34,32,65,No estimate,
+Tennessee,All voters,All voters,100,R+30,-30,35,64,R+6,-6
+Tennessee,Gender,Male,45,R+44,-44,27,71,R+10,-10
+Tennessee,Gender,Female,55,R+18,-18,41,58,R+3,-3
+Tennessee,Race,White,80,R+46,-46,27,72,R+4,-4
+Tennessee,Race,Black,12,D+70,70,84,14,R+8,-8
+Tennessee,Race,Hispanic,3,,,,,,
+Tennessee,Race,Asian,1,,,,,,
+Tennessee,Race,Other,5,,,,,,
+Tennessee,Age,18-29,14,R+16,-16,41,57,R+16,-16
+Tennessee,Age,30-44,22,R+22,-22,38,60,R+6,-6
+Tennessee,Age,45-64,35,R+38,-38,30,68,R+5,-5
+Tennessee,Age,65+,29,R+31,-31,34,65,R+2,-2
+Tennessee,Education,High school,33,R+45,-45,27,72,R+9,-9
+Tennessee,Education,Some college,30,R+34,-34,32,67,R+6,-6
+Tennessee,Education,College degree,23,R+17,-17,41,58,R+5,-5
+Tennessee,Education,Postgraduate,15,R+6,-6,46,52,R+7,-7
+Tennessee,Education by race,White college,30,R+24,-24,37,61,R+4,-4
+Tennessee,Education by race,White non-college,49,R+59,-59,20,79,R+5,-5
+Tennessee,Education by race,Nonwhite college,7,D+35,35,67,32,R+6,-6
+Tennessee,Education by race,Nonwhite non-college,13,D+32,32,66,33,R+8,-8
+Tennessee,Gender by race,White men,37,R+56,-56,21,77,R+7,-7
+Tennessee,Gender by race,White women,43,R+36,-36,31,68,R+1,-1
+Tennessee,Gender by race,Nonwhite men,8,D+12,12,55,43,R+15,-15
+Tennessee,Gender by race,Nonwhite women,12,D+47,47,73,26,R+3,-3
+Tennessee,Age by race,White 18-44,27,R+35,-35,31,67,R+6,-6
+Tennessee,Age by race,White 45+,53,R+51,-51,24,75,R+2,-2
+Tennessee,Age by race,Nonwhite 18-44,8,D+30,30,64,34,R+13,-13
+Tennessee,Age by race,Nonwhite 45+,12,D+36,36,67,31,R+4,-4
+Tennessee,Age by gender,Men 18-44,16,R+40,-40,29,69,R+15,-15
+Tennessee,Age by gender,Men 45+,29,R+46,-46,26,73,R+7,-7
+Tennessee,Age by gender,Women 18-44,20,R+4,-4,47,51,R+6,-6
+Tennessee,Age by gender,Women 45+,35,R+25,-25,37,62,R+1,-1
+Tennessee,Voted in the last presidential election,Voted,76,R+29,-29,35,64,No estimate,
+Tennessee,Voted in the last presidential election,Didn’t vote,24,R+32,-32,33,65,No estimate,
+Tennessee,Voted in the last midterm election,Voted,52,R+29,-29,35,64,No estimate,
+Tennessee,Voted in the last midterm election,Didn’t vote,48,R+30,-30,34,64,No estimate,
+Utah,All voters,All voters,100,R+22,-22,37,60,R+1,-1
+Utah,Gender,Male,50,R+30,-30,33,63,R+4,-4
+Utah,Gender,Female,50,R+15,-15,42,56,D+2,2
+Utah,Race,White,86,R+26,-26,36,62,R+1,-1
+Utah,Race,Black,1,,,,,,
+Utah,Race,Hispanic,7,D+5,5,51,46,R+10,-10
+Utah,Race,Asian,1,,,,,,
+Utah,Race,Other,5,,,,,,
+Utah,Age,18-29,20,R+10,-10,43,53,R+8,-8
+Utah,Age,30-44,27,R+19,-19,38,57,No change,0
+Utah,Age,45-64,31,R+30,-30,34,64,D+1,1
+Utah,Age,65+,23,R+27,-27,36,63,D+2,2
+Utah,Education,High school,21,R+33,-33,32,65,R+2,-2
+Utah,Education,Some college,36,R+30,-30,34,63,No change,0
+Utah,Education,College degree,28,R+15,-15,41,56,R+2,-2
+Utah,Education,Postgraduate,15,R+4,-4,46,51,R+5,-5
+Utah,Education by race,White college,38,R+13,-13,42,55,R+2,-2
+Utah,Education by race,White non-college,48,R+37,-37,30,67,R+1,-1
+Utah,Education by race,Nonwhite college,5,Even,0,48,48,R+9,-9
+Utah,Education by race,Nonwhite non-college,9,R+1,-1,48,48,R+4,-4
+Utah,Gender by race,White men,43,R+33,-33,32,65,R+3,-3
+Utah,Gender by race,White women,43,R+19,-19,40,58,D+3,3
+Utah,Gender by race,Nonwhite men,7,R+11,-11,42,53,R+10,-10
+Utah,Gender by race,Nonwhite women,8,D+9,9,53,44,R+2,-2
+Utah,Age by race,White 18-44,38,R+20,-20,38,58,R+3,-3
+Utah,Age by race,White 45+,47,R+32,-32,33,65,D+1,1
+Utah,Age by race,Nonwhite 18-44,9,D+3,3,49,46,R+7,-7
+Utah,Age by race,Nonwhite 45+,6,R+6,-6,46,52,R+3,-3
+Utah,Age by gender,Men 18-44,24,R+26,-26,34,61,R+6,-6
+Utah,Age by gender,Men 45+,26,R+34,-34,32,66,R+2,-2
+Utah,Age by gender,Women 18-44,23,R+4,-4,46,50,No change,0
+Utah,Age by gender,Women 45+,27,R+23,-23,38,61,D+4,4
+Utah,Voted in the last presidential election,Voted,77,R+24,-24,36,61,No estimate,
+Utah,Voted in the last presidential election,Didn’t vote,23,R+16,-16,40,56,No estimate,
+Utah,Voted in the last midterm election,Voted,64,R+25,-25,36,61,No estimate,
+Utah,Voted in the last midterm election,Didn’t vote,36,R+18,-18,39,57,No estimate,
+Texas,All voters,All voters,100,R+14,-14,42,56,R+8,-8
+Texas,Gender,Male,46,R+28,-28,35,63,R+11,-11
+Texas,Gender,Female,54,R+2,-2,48,50,R+5,-5
+Texas,Race,White,56,R+37,-37,31,68,R+2,-2
+Texas,Race,Black,11,D+67,67,83,16,R+7,-7
+Texas,Race,Hispanic,23,Even,0,49,49,R+21,-21
+Texas,Race,Asian,5,D+3,3,51,47,R+32,-32
+Texas,Race,Other,4,,,,,,
+Texas,Age,18-29,15,D+2,2,50,48,R+19,-19
+Texas,Age,30-44,24,R+11,-11,43,54,R+13,-13
+Texas,Age,45-64,35,R+20,-20,39,59,R+6,-6
+Texas,Age,65+,26,R+17,-17,41,58,D+2,2
+Texas,Education,High school,26,R+23,-23,38,61,R+10,-10
+Texas,Education,Some college,31,R+20,-20,39,59,R+8,-8
+Texas,Education,College degree,27,R+7,-7,45,53,R+7,-7
+Texas,Education,Postgraduate,16,D+4,4,51,47,R+10,-10
+Texas,Education by race,White college,26,R+20,-20,39,59,R+5,-5
+Texas,Education by race,White non-college,30,R+52,-52,24,75,R+2,-2
+Texas,Education by race,Nonwhite college,16,D+23,23,61,37,R+16,-16
+Texas,Education by race,Nonwhite non-college,27,D+12,12,55,43,R+19,-19
+Texas,Gender by race,White men,27,R+47,-47,26,73,R+5,-5
+Texas,Gender by race,White women,29,R+28,-28,35,64,D+1,1
+Texas,Gender by race,Nonwhite men,19,Even,0,49,49,R+21,-21
+Texas,Gender by race,Nonwhite women,25,D+29,29,64,35,R+15,-15
+Texas,Age by race,White 18-44,19,R+26,-26,36,62,R+7,-7
+Texas,Age by race,White 45+,38,R+43,-43,28,71,D+1,1
+Texas,Age by race,Nonwhite 18-44,21,D+12,12,55,43,R+24,-24
+Texas,Age by race,Nonwhite 45+,23,D+21,21,60,39,R+12,-12
+Texas,Age by gender,Men 18-44,17,R+25,-25,36,61,R+19,-19
+Texas,Age by gender,Men 45+,28,R+29,-29,35,64,R+6,-6
+Texas,Age by gender,Women 18-44,22,D+9,9,54,44,R+12,-12
+Texas,Age by gender,Women 45+,33,R+10,-10,45,54,No change,0
+Texas,Voted in the last presidential election,Voted,77,R+13,-13,43,56,No estimate,
+Texas,Voted in the last presidential election,Didn’t vote,23,R+15,-15,42,57,No estimate,
+Texas,Voted in the last midterm election,Voted,65,R+13,-13,43,56,No estimate,
+Texas,Voted in the last midterm election,Didn’t vote,35,R+14,-14,42,56,No estimate,
+Washington,All voters,All voters,100,D+18,18,57,39,R+1,-1
+Washington,Gender,Male,48,D+8,8,52,44,R+3,-3
+Washington,Gender,Female,52,D+28,28,62,35,No change,0
+Washington,Race,White,79,D+15,15,56,41,D+1,1
+Washington,Race,Black,4,,,,,,
+Washington,Race,Hispanic,7,D+14,14,55,41,R+11,-11
+Washington,Race,Asian,6,D+38,38,67,29,R+8,-8
+Washington,Race,Other,5,,,,,,
+Washington,Age,18-29,14,D+26,26,60,35,R+9,-9
+Washington,Age,30-44,25,D+24,24,59,35,R+1,-1
+Washington,Age,45-64,32,D+10,10,53,43,No change,0
+Washington,Age,65+,29,D+19,19,58,40,D+3,3
+Washington,Education,High school,24,R+6,-6,46,52,R+4,-4
+Washington,Education,Some college,32,D+7,7,52,44,R+1,-1
+Washington,Education,College degree,27,D+35,35,65,31,R+3,-3
+Washington,Education,Postgraduate,17,D+47,47,71,25,R+4,-4
+Washington,Education by race,White college,34,D+38,38,67,29,R+2,-2
+Washington,Education by race,White non-college,44,R+3,-3,47,50,No change,0
+Washington,Education by race,Nonwhite college,9,D+43,43,69,26,R+7,-7
+Washington,Education by race,Nonwhite non-college,12,D+18,18,57,39,R+12,-12
+Washington,Gender by race,White men,38,D+5,5,50,45,R+1,-1
+Washington,Gender by race,White women,41,D+25,25,61,36,D+2,2
+Washington,Gender by race,Nonwhite men,9,D+18,18,56,38,R+12,-12
+Washington,Gender by race,Nonwhite women,12,D+37,37,67,30,R+7,-7
+Washington,Age by race,White 18-44,28,D+23,23,59,36,R+2,-2
+Washington,Age by race,White 45+,51,D+11,11,54,43,D+3,3
+Washington,Age by race,Nonwhite 18-44,11,D+29,29,62,33,R+11,-11
+Washington,Age by race,Nonwhite 45+,10,D+28,28,63,34,R+6,-6
+Washington,Age by gender,Men 18-44,19,D+11,11,52,41,R+6,-6
+Washington,Age by gender,Men 45+,29,D+5,5,51,46,No change,0
+Washington,Age by gender,Women 18-44,20,D+37,37,66,29,R+3,-3
+Washington,Age by gender,Women 45+,32,D+22,22,60,38,D+3,3
+Washington,Voted in the last presidential election,Voted,80,D+20,20,58,38,No estimate,
+Washington,Voted in the last presidential election,Didn’t vote,20,D+11,11,53,42,No estimate,
+Washington,Voted in the last midterm election,Voted,70,D+22,22,59,37,No estimate,
+Washington,Voted in the last midterm election,Didn’t vote,30,D+9,9,52,44,No estimate,
+Wyoming,All voters,All voters,100,R+46,-46,26,72,R+3,-3
+Wyoming,Gender,Male,49,R+54,-54,21,75,R+4,-4
+Wyoming,Gender,Female,51,R+38,-38,30,68,R+1,-1
+Wyoming,Race,White,91,R+48,-48,25,73,R+2,-2
+Wyoming,Race,Nonwhite,9,R+29,-29,33,63,R+7,-7
+Wyoming,Age,18-29,15,R+34,-34,31,65,R+3,-3
+Wyoming,Age,30-44,21,R+48,-48,24,72,R+2,-2
+Wyoming,Age,45-64,33,R+54,-54,22,76,R+2,-2
+Wyoming,Age,65+,32,R+43,-43,28,71,R+3,-3
+Wyoming,Education,High school,27,R+55,-55,21,76,R+2,-2
+Wyoming,Education,Some college,37,R+52,-52,23,75,R+1,-1
+Wyoming,Education,College degree,23,R+38,-38,30,68,R+9,-9
+Wyoming,Education,Postgraduate,13,R+26,-26,36,61,R+9,-9
+Wyoming,Education by race,White college,33,R+33,-33,32,65,R+8,-8
+Wyoming,Education by race,White non-college,58,R+56,-56,21,77,R+2,-2
+Wyoming,Education by race,Nonwhite college,3,R+32,-32,32,64,R+18,-18
+Wyoming,Education by race,Nonwhite non-college,6,R+28,-28,34,62,R+2,-2
+Wyoming,Gender by race,White men,45,R+55,-55,21,76,R+4,-4
+Wyoming,Gender by race,White women,46,R+40,-40,29,69,R+1,-1
+Wyoming,Gender by race,Nonwhite men,4,R+40,-40,28,68,R+9,-9
+Wyoming,Gender by race,Nonwhite women,5,R+19,-19,39,58,R+5,-5
+Wyoming,Age by race,White 18-44,31,R+44,-44,26,70,R+2,-2
+Wyoming,Age by race,White 45+,60,R+50,-50,24,74,R+2,-2
+Wyoming,Age by race,Nonwhite 18-44,5,R+26,-26,34,61,R+7,-7
+Wyoming,Age by race,Nonwhite 45+,4,R+32,-32,33,65,R+6,-6
+Wyoming,Age by gender,Men 18-44,18,R+52,-52,22,73,R+4,-4
+Wyoming,Age by gender,Men 45+,32,R+55,-55,21,77,R+4,-4
+Wyoming,Age by gender,Women 18-44,18,R+32,-32,32,64,R+1,-1
+Wyoming,Age by gender,Women 45+,33,R+42,-42,28,70,R+1,-1
+Wyoming,Voted in the last presidential election,Voted,74,R+48,-48,25,73,No estimate,
+Wyoming,Voted in the last presidential election,Didn’t vote,26,R+42,-42,27,69,No estimate,
+Wyoming,Voted in the last midterm election,Voted,65,R+50,-50,24,74,No estimate,
+Wyoming,Voted in the last midterm election,Didn’t vote,35,R+39,-39,29,68,No estimate,
+West Virginia,All voters,All voters,100,R+41,-41,28,70,R+3,-3
+West Virginia,Gender,Male,47,R+52,-52,23,75,R+6,-6
+West Virginia,Gender,Female,53,R+32,-32,33,65,R+1,-1
+West Virginia,Race,White,92,R+45,-45,27,71,R+3,-3
+West Virginia,Race,Nonwhite,8,R+7,-7,45,52,R+11,-11
+West Virginia,Age,18-29,13,R+46,-46,26,71,R+14,-14
+West Virginia,Age,30-44,19,R+43,-43,27,70,D+2,2
+West Virginia,Age,45-64,35,R+50,-50,24,74,R+5,-5
+West Virginia,Age,65+,33,R+30,-30,35,64,R+2,-2
+West Virginia,Education,High school,42,R+57,-57,21,78,R+9,-9
+West Virginia,Education,Some college,29,R+43,-43,28,70,R+2,-2
+West Virginia,Education,College degree,17,R+25,-25,36,62,D+1,1
+West Virginia,Education,Postgraduate,12,R+7,-7,45,52,D+2,2
+West Virginia,Education by race,White college,26,R+20,-20,39,59,D+2,2
+West Virginia,Education by race,White non-college,66,R+54,-54,22,76,R+6,-6
+West Virginia,Education by race,Nonwhite college,2,,,,,,
+West Virginia,Education by race,Nonwhite non-college,6,R+11,-11,43,54,R+13,-13
+West Virginia,Gender by race,White men,44,R+54,-54,22,76,R+6,-6
+West Virginia,Gender by race,White women,48,R+36,-36,31,67,No change,0
+West Virginia,Gender by race,Nonwhite men,4,,,,,,
+West Virginia,Gender by race,Nonwhite women,5,,,,,,
+West Virginia,Age by race,White 18-44,29,R+48,-48,25,72,R+4,-4
+West Virginia,Age by race,White 45+,63,R+43,-43,28,71,R+3,-3
+West Virginia,Age by race,Nonwhite 18-44,4,,,,,,
+West Virginia,Age by race,Nonwhite 45+,4,,,,,,
+West Virginia,Age by gender,Men 18-44,15,R+58,-58,19,77,R+8,-8
+West Virginia,Age by gender,Men 45+,32,R+49,-49,25,74,R+6,-6
+West Virginia,Age by gender,Women 18-44,17,R+31,-31,33,64,R+1,-1
+West Virginia,Age by gender,Women 45+,36,R+33,-33,33,66,No change,0
+West Virginia,Voted in the last presidential election,Voted,79,R+39,-39,30,69,No estimate,
+West Virginia,Voted in the last presidential election,Didn’t vote,21,R+51,-51,23,74,No estimate,
+West Virginia,Voted in the last midterm election,Voted,58,R+35,-35,32,67,No estimate,
+West Virginia,Voted in the last midterm election,Didn’t vote,42,R+51,-51,24,74,No estimate,
+Wisconsin,All voters,All voters,100,R+1,-1,49,50,R+1,-1
+Wisconsin,Gender,Male,49,R+16,-16,41,57,R+6,-6
+Wisconsin,Gender,Female,51,D+13,13,56,43,D+3,3
+Wisconsin,Race,White,87,R+6,-6,46,52,R+1,-1
+Wisconsin,Race,Black,4,D+74,74,86,13,R+7,-7
+Wisconsin,Race,Hispanic,4,D+15,15,57,42,R+16,-16
+Wisconsin,Race,Asian,2,,,,,,
+Wisconsin,Race,Other,3,,,,,,
+Wisconsin,Age,18-29,13,D+15,15,56,42,R+10,-10
+Wisconsin,Age,30-44,21,D+2,2,50,48,R+1,-1
+Wisconsin,Age,45-64,36,R+10,-10,44,54,D+1,1
+Wisconsin,Age,65+,30,D+2,2,51,49,R+1,-1
+Wisconsin,Education,High school,32,R+17,-17,41,58,R+6,-6
+Wisconsin,Education,Some college,32,R+7,-7,45,53,R+1,-1
+Wisconsin,Education,College degree,24,D+14,14,56,42,D+2,2
+Wisconsin,Education,Postgraduate,12,D+32,32,65,33,No change,0
+Wisconsin,Education by race,White college,31,D+17,17,58,40,D+1,1
+Wisconsin,Education by race,White non-college,56,R+19,-19,40,59,R+4,-4
+Wisconsin,Education by race,Nonwhite college,4,D+40,40,69,29,No change,0
+Wisconsin,Education by race,Nonwhite non-college,9,D+31,31,65,34,R+11,-11
+Wisconsin,Gender by race,White men,43,R+20,-20,39,59,R+5,-5
+Wisconsin,Gender by race,White women,44,D+8,8,53,45,D+3,3
+Wisconsin,Gender by race,Nonwhite men,6,D+18,18,58,40,R+13,-13
+Wisconsin,Gender by race,Nonwhite women,7,D+48,48,73,25,R+3,-3
+Wisconsin,Age by race,White 18-44,28,D+1,1,49,49,R+4,-4
+Wisconsin,Age by race,White 45+,59,R+9,-9,45,54,D+1,1
+Wisconsin,Age by race,Nonwhite 18-44,6,D+33,33,66,32,R+13,-13
+Wisconsin,Age by race,Nonwhite 45+,6,D+35,35,67,32,R+3,-3
+Wisconsin,Age by gender,Men 18-44,17,R+12,-12,43,55,R+9,-9
+Wisconsin,Age by gender,Men 45+,32,R+18,-18,41,58,R+3,-3
+Wisconsin,Age by gender,Women 18-44,17,D+25,25,62,36,D+1,1
+Wisconsin,Age by gender,Women 45+,34,D+7,7,53,46,D+5,5
+Wisconsin,Voted in the last presidential election,Voted,80,R+1,-1,49,50,No estimate,
+Wisconsin,Voted in the last presidential election,Didn’t vote,20,R+1,-1,49,50,No estimate,
+Wisconsin,Voted in the last midterm election,Voted,72,D+1,1,50,49,No estimate,
+Wisconsin,Voted in the last midterm election,Didn’t vote,28,R+6,-6,46,52,No estimate,

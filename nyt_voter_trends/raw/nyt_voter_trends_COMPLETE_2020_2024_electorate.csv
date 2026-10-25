@@ -1,0 +1,1561 @@
+year,state,category,group,share_of_voters_pct,share_of_voting_eligible_pop_pct
+2020,U.S. (national),Race,White,71,65
+2020,U.S. (national),Race,Black,11,12
+2020,U.S. (national),Race,Hispanic,10,14
+2020,U.S. (national),Race,Asian,4,5
+2020,U.S. (national),Race,Other,4,5
+2020,U.S. (national),Age,18-29,16,20
+2020,U.S. (national),Age,30-44,23,25
+2020,U.S. (national),Age,45-64,36,32
+2020,U.S. (national),Age,65+,26,23
+2020,U.S. (national),Gender,Male,46,49
+2020,U.S. (national),Gender,Female,54,51
+2020,U.S. (national),Education,High school,30,36
+2020,U.S. (national),Education,Some college,32,31
+2020,U.S. (national),Education,College grad.,24,21
+2020,U.S. (national),Education,Postgraduate,15,12
+2024,U.S. (national),Race,White,71,63
+2024,U.S. (national),Race,Black,11,12
+2024,U.S. (national),Race,Hispanic,11,14
+2024,U.S. (national),Race,Asian,4,5
+2024,U.S. (national),Race,Other,4,5
+2024,U.S. (national),Age,18-29,15,20
+2024,U.S. (national),Age,30-44,23,25
+2024,U.S. (national),Age,45-64,34,31
+2024,U.S. (national),Age,65+,29,24
+2024,U.S. (national),Gender,Male,46,49
+2024,U.S. (national),Gender,Female,54,51
+2024,U.S. (national),Education,High school,28,36
+2024,U.S. (national),Education,Some college,30,30
+2024,U.S. (national),Education,College grad.,25,22
+2024,U.S. (national),Education,Postgraduate,16,13
+2020,Alabama,Race,White,71,68
+2020,Alabama,Race,Black,24,26
+2020,Alabama,Race,Hispanic,2,2
+2020,Alabama,Race,Asian,1,1
+2020,Alabama,Race,Other,3,4
+2020,Alabama,Age,18-29,15,20
+2020,Alabama,Age,30-44,22,24
+2020,Alabama,Age,45-64,37,33
+2020,Alabama,Age,65+,26,23
+2020,Alabama,Gender,Male,44,48
+2020,Alabama,Gender,Female,56,52
+2020,Alabama,Education,High school,37,44
+2020,Alabama,Education,Some college,34,31
+2020,Alabama,Education,College grad.,19,16
+2020,Alabama,Education,Postgraduate,11,9
+2024,Alabama,Race,White,73,67
+2024,Alabama,Race,Black,22,25
+2024,Alabama,Race,Hispanic,2,3
+2024,Alabama,Race,Asian,1,1
+2024,Alabama,Race,Other,2,4
+2024,Alabama,Age,18-29,14,20
+2024,Alabama,Age,30-44,21,24
+2024,Alabama,Age,45-64,35,32
+2024,Alabama,Age,65+,30,24
+2024,Alabama,Gender,Male,44,47
+2024,Alabama,Gender,Female,56,53
+2024,Alabama,Education,High school,34,41
+2024,Alabama,Education,Some college,33,32
+2024,Alabama,Education,College grad.,20,17
+2024,Alabama,Education,Postgraduate,13,11
+2020,Alaska,Race,White,77,63
+2020,Alaska,Race,Black,3,3
+2020,Alaska,Race,Hispanic,5,6
+2020,Alaska,Race,Asian,3,6
+2020,Alaska,Race,Other,13,22
+2020,Alaska,Age,18-29,17,22
+2020,Alaska,Age,30-44,24,29
+2020,Alaska,Age,45-64,37,31
+2020,Alaska,Age,65+,22,18
+2020,Alaska,Gender,Male,49,53
+2020,Alaska,Gender,Female,51,48
+2020,Alaska,Education,High school,32,38
+2020,Alaska,Education,Some college,35,33
+2020,Alaska,Education,College grad.,21,19
+2020,Alaska,Education,Postgraduate,12,10
+2024,Alaska,Race,White,77,62
+2024,Alaska,Race,Black,3,3
+2024,Alaska,Race,Hispanic,4,7
+2024,Alaska,Race,Asian,3,5
+2024,Alaska,Race,Other,13,24
+2024,Alaska,Age,18-29,14,21
+2024,Alaska,Age,30-44,23,30
+2024,Alaska,Age,45-64,35,29
+2024,Alaska,Age,65+,27,20
+2024,Alaska,Gender,Male,49,54
+2024,Alaska,Gender,Female,51,46
+2024,Alaska,Education,High school,31,38
+2024,Alaska,Education,Some college,33,32
+2024,Alaska,Education,College grad.,22,19
+2024,Alaska,Education,Postgraduate,14,11
+2020,Arizona,Race,White,70,61
+2020,Arizona,Race,Black,4,4
+2020,Arizona,Race,Hispanic,18,25
+2020,Arizona,Race,Asian,2,3
+2020,Arizona,Race,Other,6,8
+2020,Arizona,Age,18-29,16,21
+2020,Arizona,Age,30-44,21,24
+2020,Arizona,Age,45-64,34,30
+2020,Arizona,Age,65+,30,25
+2020,Arizona,Gender,Male,47,50
+2020,Arizona,Gender,Female,53,50
+2020,Arizona,Education,High school,26,34
+2020,Arizona,Education,Some college,36,35
+2020,Arizona,Education,College grad.,23,19
+2020,Arizona,Education,Postgraduate,15,12
+2024,Arizona,Race,White,68,59
+2024,Arizona,Race,Black,4,4
+2024,Arizona,Race,Hispanic,18,25
+2024,Arizona,Race,Asian,2,3
+2024,Arizona,Race,Other,7,8
+2024,Arizona,Age,18-29,15,21
+2024,Arizona,Age,30-44,21,24
+2024,Arizona,Age,45-64,31,29
+2024,Arizona,Age,65+,33,26
+2024,Arizona,Gender,Male,47,49
+2024,Arizona,Gender,Female,53,51
+2024,Arizona,Education,High school,25,34
+2024,Arizona,Education,Some college,35,34
+2024,Arizona,Education,College grad.,24,20
+2024,Arizona,Education,Postgraduate,16,12
+2020,Arkansas,Race,White,80,74
+2020,Arkansas,Race,Black,13,15
+2020,Arkansas,Race,Hispanic,3,4
+2020,Arkansas,Race,Asian,1,1
+2020,Arkansas,Race,Other,3,7
+2020,Arkansas,Age,18-29,13,20
+2020,Arkansas,Age,30-44,21,25
+2020,Arkansas,Age,45-64,36,32
+2020,Arkansas,Age,65+,29,23
+2020,Arkansas,Gender,Male,46,49
+2020,Arkansas,Gender,Female,54,51
+2020,Arkansas,Education,High school,36,46
+2020,Arkansas,Education,Some college,34,31
+2020,Arkansas,Education,College grad.,19,15
+2020,Arkansas,Education,Postgraduate,11,8
+2024,Arkansas,Race,White,81,72
+2024,Arkansas,Race,Black,11,14
+2024,Arkansas,Race,Hispanic,3,5
+2024,Arkansas,Race,Asian,1,1
+2024,Arkansas,Race,Other,4,7
+2024,Arkansas,Age,18-29,13,20
+2024,Arkansas,Age,30-44,20,25
+2024,Arkansas,Age,45-64,34,31
+2024,Arkansas,Age,65+,32,24
+2024,Arkansas,Gender,Male,47,49
+2024,Arkansas,Gender,Female,53,52
+2024,Arkansas,Education,High school,33,44
+2024,Arkansas,Education,Some college,33,31
+2024,Arkansas,Education,College grad.,21,17
+2024,Arkansas,Education,Postgraduate,13,9
+2020,California,Race,White,50,42
+2020,California,Race,Black,6,6
+2020,California,Race,Hispanic,27,32
+2020,California,Race,Asian,12,14
+2020,California,Race,Other,5,5
+2020,California,Age,18-29,19,22
+2020,California,Age,30-44,24,26
+2020,California,Age,45-64,34,31
+2020,California,Age,65+,24,21
+2020,California,Gender,Male,47,49
+2020,California,Gender,Female,53,51
+2020,California,Education,High school,26,33
+2020,California,Education,Some college,33,32
+2020,California,Education,College grad.,26,22
+2020,California,Education,Postgraduate,16,13
+2024,California,Race,White,49,40
+2024,California,Race,Black,6,6
+2024,California,Race,Hispanic,27,33
+2024,California,Race,Asian,13,15
+2024,California,Race,Other,5,6
+2024,California,Age,18-29,16,21
+2024,California,Age,30-44,24,26
+2024,California,Age,45-64,32,30
+2024,California,Age,65+,28,23
+2024,California,Gender,Male,48,49
+2024,California,Gender,Female,52,51
+2024,California,Education,High school,25,32
+2024,California,Education,Some college,31,31
+2024,California,Education,College grad.,27,24
+2024,California,Education,Postgraduate,17,14
+2020,Colorado,Race,White,78,72
+2020,Colorado,Race,Black,4,4
+2020,Colorado,Race,Hispanic,11,17
+2020,Colorado,Race,Asian,2,3
+2020,Colorado,Race,Other,5,5
+2020,Colorado,Age,18-29,18,21
+2020,Colorado,Age,30-44,27,28
+2020,Colorado,Age,45-64,33,31
+2020,Colorado,Age,65+,22,20
+2020,Colorado,Gender,Male,48,50
+2020,Colorado,Gender,Female,52,50
+2020,Colorado,Education,High school,23,28
+2020,Colorado,Education,Some college,31,30
+2020,Colorado,Education,College grad.,29,27
+2020,Colorado,Education,Postgraduate,18,15
+2024,Colorado,Race,White,78,71
+2024,Colorado,Race,Black,4,4
+2024,Colorado,Race,Hispanic,12,18
+2024,Colorado,Race,Asian,2,3
+2024,Colorado,Race,Other,5,5
+2024,Colorado,Age,18-29,17,21
+2024,Colorado,Age,30-44,27,28
+2024,Colorado,Age,45-64,31,29
+2024,Colorado,Age,65+,25,22
+2024,Colorado,Gender,Male,48,50
+2024,Colorado,Gender,Female,52,50
+2024,Colorado,Education,High school,21,26
+2024,Colorado,Education,Some college,28,29
+2024,Colorado,Education,College grad.,31,28
+2024,Colorado,Education,Postgraduate,20,17
+2020,Connecticut,Race,White,78,70
+2020,Connecticut,Race,Black,8,10
+2020,Connecticut,Race,Hispanic,9,14
+2020,Connecticut,Race,Asian,3,3
+2020,Connecticut,Race,Other,3,4
+2020,Connecticut,Age,18-29,15,20
+2020,Connecticut,Age,30-44,20,22
+2020,Connecticut,Age,45-64,38,34
+2020,Connecticut,Age,65+,26,24
+2020,Connecticut,Gender,Male,46,48
+2020,Connecticut,Gender,Female,54,52
+2020,Connecticut,Education,High school,27,34
+2020,Connecticut,Education,Some college,27,27
+2020,Connecticut,Education,College grad.,26,23
+2020,Connecticut,Education,Postgraduate,20,17
+2024,Connecticut,Race,White,76,68
+2024,Connecticut,Race,Black,8,10
+2024,Connecticut,Race,Hispanic,10,14
+2024,Connecticut,Race,Asian,3,3
+2024,Connecticut,Race,Other,4,4
+2024,Connecticut,Age,18-29,14,19
+2024,Connecticut,Age,30-44,21,23
+2024,Connecticut,Age,45-64,35,32
+2024,Connecticut,Age,65+,30,25
+2024,Connecticut,Gender,Male,46,48
+2024,Connecticut,Gender,Female,54,52
+2024,Connecticut,Education,High school,26,33
+2024,Connecticut,Education,Some college,26,27
+2024,Connecticut,Education,College grad.,26,23
+2024,Connecticut,Education,Postgraduate,22,18
+2020,Delaware,Race,White,73,66
+2020,Delaware,Race,Black,18,20
+2020,Delaware,Race,Hispanic,4,7
+2020,Delaware,Race,Asian,2,3
+2020,Delaware,Race,Other,3,5
+2020,Delaware,Age,18-29,14,18
+2020,Delaware,Age,30-44,20,23
+2020,Delaware,Age,45-64,36,33
+2020,Delaware,Age,65+,30,26
+2020,Delaware,Gender,Male,45,48
+2020,Delaware,Gender,Female,55,53
+2020,Delaware,Education,High school,34,38
+2020,Delaware,Education,Some college,30,30
+2020,Delaware,Education,College grad.,21,19
+2020,Delaware,Education,Postgraduate,15,13
+2024,Delaware,Race,White,70,64
+2024,Delaware,Race,Black,19,21
+2024,Delaware,Race,Hispanic,4,7
+2024,Delaware,Race,Asian,2,4
+2024,Delaware,Race,Other,4,5
+2024,Delaware,Age,18-29,13,18
+2024,Delaware,Age,30-44,19,23
+2024,Delaware,Age,45-64,34,31
+2024,Delaware,Age,65+,35,28
+2024,Delaware,Gender,Male,46,47
+2024,Delaware,Gender,Female,54,53
+2024,Delaware,Education,High school,30,36
+2024,Delaware,Education,Some college,30,30
+2024,Delaware,Education,College grad.,22,19
+2024,Delaware,Education,Postgraduate,18,14
+2020,"Washington, D.C.",Race,White,47,41
+2020,"Washington, D.C.",Race,Black,40,43
+2020,"Washington, D.C.",Race,Hispanic,5,7
+2020,"Washington, D.C.",Race,Asian,2,4
+2020,"Washington, D.C.",Race,Other,6,5
+2020,"Washington, D.C.",Age,18-29,23,25
+2020,"Washington, D.C.",Age,30-44,28,34
+2020,"Washington, D.C.",Age,45-64,29,25
+2020,"Washington, D.C.",Age,65+,19,16
+2020,"Washington, D.C.",Gender,Male,47,47
+2020,"Washington, D.C.",Gender,Female,53,53
+2020,"Washington, D.C.",Education,High school,19,21
+2020,"Washington, D.C.",Education,Some college,17,20
+2020,"Washington, D.C.",Education,College grad.,28,26
+2020,"Washington, D.C.",Education,Postgraduate,36,33
+2024,"Washington, D.C.",Race,White,48,42
+2024,"Washington, D.C.",Race,Black,37,41
+2024,"Washington, D.C.",Race,Hispanic,6,8
+2024,"Washington, D.C.",Race,Asian,4,4
+2024,"Washington, D.C.",Race,Other,5,5
+2024,"Washington, D.C.",Age,18-29,20,25
+2024,"Washington, D.C.",Age,30-44,29,34
+2024,"Washington, D.C.",Age,45-64,29,23
+2024,"Washington, D.C.",Age,65+,22,17
+2024,"Washington, D.C.",Gender,Male,45,46
+2024,"Washington, D.C.",Gender,Female,55,54
+2024,"Washington, D.C.",Education,High school,16,22
+2024,"Washington, D.C.",Education,Some college,14,16
+2024,"Washington, D.C.",Education,College grad.,29,28
+2024,"Washington, D.C.",Education,Postgraduate,41,34
+2020,Florida,Race,White,64,58
+2020,Florida,Race,Black,13,14
+2020,Florida,Race,Hispanic,18,22
+2020,Florida,Race,Asian,2,2
+2020,Florida,Race,Other,3,4
+2020,Florida,Age,18-29,14,17
+2020,Florida,Age,30-44,20,23
+2020,Florida,Age,45-64,35,32
+2020,Florida,Age,65+,31,28
+2020,Florida,Gender,Male,45,48
+2020,Florida,Gender,Female,55,52
+2020,Florida,Education,High school,32,37
+2020,Florida,Education,Some college,32,31
+2020,Florida,Education,College grad.,22,20
+2020,Florida,Education,Postgraduate,14,12
+2024,Florida,Race,White,65,57
+2024,Florida,Race,Black,12,14
+2024,Florida,Race,Hispanic,19,23
+2024,Florida,Race,Asian,2,3
+2024,Florida,Race,Other,2,4
+2024,Florida,Age,18-29,13,17
+2024,Florida,Age,30-44,20,23
+2024,Florida,Age,45-64,34,31
+2024,Florida,Age,65+,33,29
+2024,Florida,Gender,Male,45,48
+2024,Florida,Gender,Female,55,52
+2024,Florida,Education,High school,29,35
+2024,Florida,Education,Some college,31,30
+2024,Florida,Education,College grad.,24,21
+2024,Florida,Education,Postgraduate,16,13
+2020,Georgia,Race,White,60,56
+2020,Georgia,Race,Black,30,31
+2020,Georgia,Race,Hispanic,4,6
+2020,Georgia,Race,Asian,3,3
+2020,Georgia,Race,Other,3,4
+2020,Georgia,Age,18-29,16,22
+2020,Georgia,Age,30-44,24,25
+2020,Georgia,Age,45-64,37,33
+2020,Georgia,Age,65+,23,20
+2020,Georgia,Gender,Male,45,48
+2020,Georgia,Gender,Female,55,52
+2020,Georgia,Education,High school,32,38
+2020,Georgia,Education,Some college,31,30
+2020,Georgia,Education,College grad.,23,20
+2020,Georgia,Education,Postgraduate,14,12
+2024,Georgia,Race,White,60,54
+2024,Georgia,Race,Black,29,32
+2024,Georgia,Race,Hispanic,5,7
+2024,Georgia,Race,Asian,4,4
+2024,Georgia,Race,Other,3,4
+2024,Georgia,Age,18-29,16,21
+2024,Georgia,Age,30-44,23,26
+2024,Georgia,Age,45-64,35,32
+2024,Georgia,Age,65+,25,22
+2024,Georgia,Gender,Male,44,48
+2024,Georgia,Gender,Female,56,52
+2024,Georgia,Education,High school,30,37
+2024,Georgia,Education,Some college,30,29
+2024,Georgia,Education,College grad.,24,21
+2024,Georgia,Education,Postgraduate,16,13
+2020,Hawaii,Race,White,32,24
+2020,Hawaii,Race,Black,2,2
+2020,Hawaii,Race,Hispanic,5,9
+2020,Hawaii,Race,Asian,34,37
+2020,Hawaii,Race,Other,27,28
+2020,Hawaii,Age,18-29,15,19
+2020,Hawaii,Age,30-44,18,25
+2020,Hawaii,Age,45-64,35,31
+2020,Hawaii,Age,65+,31,25
+2020,Hawaii,Gender,Male,48,51
+2020,Hawaii,Gender,Female,52,49
+2020,Hawaii,Education,High school,28,33
+2020,Hawaii,Education,Some college,34,33
+2020,Hawaii,Education,College grad.,24,22
+2020,Hawaii,Education,Postgraduate,14,13
+2024,Hawaii,Race,White,33,24
+2024,Hawaii,Race,Black,2,2
+2024,Hawaii,Race,Hispanic,4,9
+2024,Hawaii,Race,Asian,34,37
+2024,Hawaii,Race,Other,26,29
+2024,Hawaii,Age,18-29,12,18
+2024,Hawaii,Age,30-44,17,25
+2024,Hawaii,Age,45-64,34,29
+2024,Hawaii,Age,65+,37,28
+2024,Hawaii,Gender,Male,48,50
+2024,Hawaii,Gender,Female,52,50
+2024,Hawaii,Education,High school,26,34
+2024,Hawaii,Education,Some college,30,30
+2024,Hawaii,Education,College grad.,27,23
+2024,Hawaii,Education,Postgraduate,17,13
+2020,Idaho,Race,White,89,84
+2020,Idaho,Race,Black,1,1
+2020,Idaho,Race,Hispanic,6,9
+2020,Idaho,Race,Asian,1,1
+2020,Idaho,Race,Other,4,6
+2020,Idaho,Age,18-29,15,20
+2020,Idaho,Age,30-44,23,26
+2020,Idaho,Age,45-64,33,31
+2020,Idaho,Age,65+,28,23
+2020,Idaho,Gender,Male,47,50
+2020,Idaho,Gender,Female,53,50
+2020,Idaho,Education,High school,27,36
+2020,Idaho,Education,Some college,39,36
+2020,Idaho,Education,College grad.,24,19
+2020,Idaho,Education,Postgraduate,10,9
+2024,Idaho,Race,White,89,83
+2024,Idaho,Race,Black,1,1
+2024,Idaho,Race,Hispanic,6,10
+2024,Idaho,Race,Asian,1,1
+2024,Idaho,Race,Other,4,6
+2024,Idaho,Age,18-29,15,21
+2024,Idaho,Age,30-44,23,26
+2024,Idaho,Age,45-64,32,29
+2024,Idaho,Age,65+,30,24
+2024,Idaho,Gender,Male,48,50
+2024,Idaho,Gender,Female,52,50
+2024,Idaho,Education,High school,26,35
+2024,Idaho,Education,Some college,36,34
+2024,Idaho,Education,College grad.,25,21
+2024,Idaho,Education,Postgraduate,13,10
+2020,Illinois,Race,White,71,65
+2020,Illinois,Race,Black,12,14
+2020,Illinois,Race,Hispanic,10,13
+2020,Illinois,Race,Asian,4,5
+2020,Illinois,Race,Other,3,3
+2020,Illinois,Age,18-29,16,20
+2020,Illinois,Age,30-44,23,25
+2020,Illinois,Age,45-64,36,33
+2020,Illinois,Age,65+,25,22
+2020,Illinois,Gender,Male,46,49
+2020,Illinois,Gender,Female,54,51
+2020,Illinois,Education,High school,29,34
+2020,Illinois,Education,Some college,31,31
+2020,Illinois,Education,College grad.,25,22
+2020,Illinois,Education,Postgraduate,16,14
+2024,Illinois,Race,White,71,64
+2024,Illinois,Race,Black,12,14
+2024,Illinois,Race,Hispanic,10,14
+2024,Illinois,Race,Asian,4,5
+2024,Illinois,Race,Other,3,4
+2024,Illinois,Age,18-29,14,20
+2024,Illinois,Age,30-44,23,25
+2024,Illinois,Age,45-64,34,31
+2024,Illinois,Age,65+,29,24
+2024,Illinois,Gender,Male,46,49
+2024,Illinois,Gender,Female,54,51
+2024,Illinois,Education,High school,26,33
+2024,Illinois,Education,Some college,30,30
+2024,Illinois,Education,College grad.,26,23
+2024,Illinois,Education,Postgraduate,18,14
+2020,Indiana,Race,White,85,82
+2020,Indiana,Race,Black,8,8
+2020,Indiana,Race,Hispanic,3,5
+2020,Indiana,Race,Asian,1,2
+2020,Indiana,Race,Other,3,4
+2020,Indiana,Age,18-29,15,21
+2020,Indiana,Age,30-44,22,25
+2020,Indiana,Age,45-64,36,33
+2020,Indiana,Age,65+,27,22
+2020,Indiana,Gender,Male,47,49
+2020,Indiana,Gender,Female,53,51
+2020,Indiana,Education,High school,37,43
+2020,Indiana,Education,Some college,32,30
+2020,Indiana,Education,College grad.,20,18
+2020,Indiana,Education,Postgraduate,12,9
+2024,Indiana,Race,White,84,80
+2024,Indiana,Race,Black,8,8
+2024,Indiana,Race,Hispanic,4,6
+2024,Indiana,Race,Asian,1,2
+2024,Indiana,Race,Other,3,4
+2024,Indiana,Age,18-29,14,21
+2024,Indiana,Age,30-44,21,25
+2024,Indiana,Age,45-64,35,31
+2024,Indiana,Age,65+,30,24
+2024,Indiana,Gender,Male,47,49
+2024,Indiana,Gender,Female,53,51
+2024,Indiana,Education,High school,34,43
+2024,Indiana,Education,Some college,31,29
+2024,Indiana,Education,College grad.,23,19
+2024,Indiana,Education,Postgraduate,13,10
+2020,Iowa,Race,White,92,88
+2020,Iowa,Race,Black,2,3
+2020,Iowa,Race,Hispanic,3,4
+2020,Iowa,Race,Asian,1,2
+2020,Iowa,Race,Other,2,4
+2020,Iowa,Age,18-29,16,21
+2020,Iowa,Age,30-44,23,24
+2020,Iowa,Age,45-64,34,32
+2020,Iowa,Age,65+,27,24
+2020,Iowa,Gender,Male,48,50
+2020,Iowa,Gender,Female,52,50
+2020,Iowa,Education,High school,33,37
+2020,Iowa,Education,Some college,36,35
+2020,Iowa,Education,College grad.,21,20
+2020,Iowa,Education,Postgraduate,10,8
+2024,Iowa,Race,White,91,87
+2024,Iowa,Race,Black,3,3
+2024,Iowa,Race,Hispanic,3,5
+2024,Iowa,Race,Asian,1,2
+2024,Iowa,Race,Other,3,4
+2024,Iowa,Age,18-29,16,21
+2024,Iowa,Age,30-44,22,24
+2024,Iowa,Age,45-64,32,30
+2024,Iowa,Age,65+,30,25
+2024,Iowa,Gender,Male,48,50
+2024,Iowa,Gender,Female,52,51
+2024,Iowa,Education,High school,30,36
+2024,Iowa,Education,Some college,36,35
+2024,Iowa,Education,College grad.,23,20
+2024,Iowa,Education,Postgraduate,11,10
+2020,Kansas,Race,White,86,80
+2020,Kansas,Race,Black,4,5
+2020,Kansas,Race,Hispanic,5,8
+2020,Kansas,Race,Asian,2,2
+2020,Kansas,Race,Other,3,5
+2020,Kansas,Age,18-29,15,21
+2020,Kansas,Age,30-44,23,25
+2020,Kansas,Age,45-64,35,32
+2020,Kansas,Age,65+,27,23
+2020,Kansas,Gender,Male,47,49
+2020,Kansas,Gender,Female,53,51
+2020,Kansas,Education,High school,27,34
+2020,Kansas,Education,Some college,34,33
+2020,Kansas,Education,College grad.,24,22
+2020,Kansas,Education,Postgraduate,14,12
+2024,Kansas,Race,White,85,78
+2024,Kansas,Race,Black,4,5
+2024,Kansas,Race,Hispanic,5,9
+2024,Kansas,Race,Asian,2,2
+2024,Kansas,Race,Other,4,5
+2024,Kansas,Age,18-29,15,21
+2024,Kansas,Age,30-44,22,25
+2024,Kansas,Age,45-64,33,29
+2024,Kansas,Age,65+,30,24
+2024,Kansas,Gender,Male,47,50
+2024,Kansas,Gender,Female,53,50
+2024,Kansas,Education,High school,26,33
+2024,Kansas,Education,Some college,34,33
+2024,Kansas,Education,College grad.,26,21
+2024,Kansas,Education,Postgraduate,15,12
+2020,Kentucky,Race,White,88,86
+2020,Kentucky,Race,Black,7,7
+2020,Kentucky,Race,Hispanic,2,2
+2020,Kentucky,Race,Asian,1,1
+2020,Kentucky,Race,Other,3,4
+2020,Kentucky,Age,18-29,15,20
+2020,Kentucky,Age,30-44,22,24
+2020,Kentucky,Age,45-64,37,33
+2020,Kentucky,Age,65+,26,22
+2020,Kentucky,Gender,Male,46,49
+2020,Kentucky,Gender,Female,54,51
+2020,Kentucky,Education,High school,40,45
+2020,Kentucky,Education,Some college,32,30
+2020,Kentucky,Education,College grad.,17,16
+2020,Kentucky,Education,Postgraduate,11,10
+2024,Kentucky,Race,White,88,85
+2024,Kentucky,Race,Black,6,7
+2024,Kentucky,Race,Hispanic,2,3
+2024,Kentucky,Race,Asian,1,1
+2024,Kentucky,Race,Other,3,5
+2024,Kentucky,Age,18-29,14,20
+2024,Kentucky,Age,30-44,22,25
+2024,Kentucky,Age,45-64,35,32
+2024,Kentucky,Age,65+,29,24
+2024,Kentucky,Gender,Male,46,49
+2024,Kentucky,Gender,Female,54,51
+2024,Kentucky,Education,High school,37,44
+2024,Kentucky,Education,Some college,31,30
+2024,Kentucky,Education,College grad.,18,16
+2024,Kentucky,Education,Postgraduate,13,10
+2020,Louisiana,Race,White,66,61
+2020,Louisiana,Race,Black,28,31
+2020,Louisiana,Race,Hispanic,2,3
+2020,Louisiana,Race,Asian,1,1
+2020,Louisiana,Race,Other,3,4
+2020,Louisiana,Age,18-29,16,20
+2020,Louisiana,Age,30-44,23,26
+2020,Louisiana,Age,45-64,36,32
+2020,Louisiana,Age,65+,25,22
+2020,Louisiana,Gender,Male,44,48
+2020,Louisiana,Gender,Female,56,52
+2020,Louisiana,Education,High school,40,46
+2020,Louisiana,Education,Some college,31,29
+2020,Louisiana,Education,College grad.,19,16
+2020,Louisiana,Education,Postgraduate,11,9
+2024,Louisiana,Race,White,68,59
+2024,Louisiana,Race,Black,27,31
+2024,Louisiana,Race,Hispanic,2,5
+2024,Louisiana,Race,Asian,1,1
+2024,Louisiana,Race,Other,2,4
+2024,Louisiana,Age,18-29,13,19
+2024,Louisiana,Age,30-44,22,26
+2024,Louisiana,Age,45-64,35,31
+2024,Louisiana,Age,65+,31,24
+2024,Louisiana,Gender,Male,44,48
+2024,Louisiana,Gender,Female,56,52
+2024,Louisiana,Education,High school,38,45
+2024,Louisiana,Education,Some college,31,29
+2024,Louisiana,Education,College grad.,19,17
+2024,Louisiana,Education,Postgraduate,12,10
+2020,Maine,Race,White,95,92
+2020,Maine,Race,Black,1,1
+2020,Maine,Race,Hispanic,1,2
+2020,Maine,Race,Asian,,1
+2020,Maine,Race,Other,2,5
+2020,Maine,Age,18-29,13,16
+2020,Maine,Age,30-44,21,23
+2020,Maine,Age,45-64,36,34
+2020,Maine,Age,65+,30,27
+2020,Maine,Gender,Male,48,49
+2020,Maine,Gender,Female,52,51
+2020,Maine,Education,High school,36,37
+2020,Maine,Education,Some college,30,30
+2020,Maine,Education,College grad.,22,21
+2020,Maine,Education,Postgraduate,12,12
+2024,Maine,Race,White,94,92
+2024,Maine,Race,Black,1,1
+2024,Maine,Race,Hispanic,1,2
+2024,Maine,Race,Asian,1,1
+2024,Maine,Race,Other,3,5
+2024,Maine,Age,18-29,13,17
+2024,Maine,Age,30-44,21,23
+2024,Maine,Age,45-64,33,32
+2024,Maine,Age,65+,33,29
+2024,Maine,Gender,Male,48,49
+2024,Maine,Gender,Female,52,51
+2024,Maine,Education,High school,32,36
+2024,Maine,Education,Some college,30,30
+2024,Maine,Education,College grad.,23,22
+2024,Maine,Education,Postgraduate,15,13
+2020,Maryland,Race,White,59,54
+2020,Maryland,Race,Black,27,30
+2020,Maryland,Race,Hispanic,5,6
+2020,Maryland,Race,Asian,5,5
+2020,Maryland,Race,Other,4,5
+2020,Maryland,Age,18-29,16,19
+2020,Maryland,Age,30-44,23,25
+2020,Maryland,Age,45-64,37,34
+2020,Maryland,Age,65+,23,22
+2020,Maryland,Gender,Male,45,48
+2020,Maryland,Gender,Female,55,52
+2020,Maryland,Education,High school,27,33
+2020,Maryland,Education,Some college,27,27
+2020,Maryland,Education,College grad.,24,22
+2020,Maryland,Education,Postgraduate,21,18
+2024,Maryland,Race,White,58,52
+2024,Maryland,Race,Black,27,30
+2024,Maryland,Race,Hispanic,5,8
+2024,Maryland,Race,Asian,5,6
+2024,Maryland,Race,Other,4,5
+2024,Maryland,Age,18-29,14,19
+2024,Maryland,Age,30-44,24,25
+2024,Maryland,Age,45-64,35,32
+2024,Maryland,Age,65+,27,24
+2024,Maryland,Gender,Male,44,48
+2024,Maryland,Gender,Female,56,53
+2024,Maryland,Education,High school,26,31
+2024,Maryland,Education,Some college,26,26
+2024,Maryland,Education,College grad.,25,23
+2024,Maryland,Education,Postgraduate,23,20
+2020,Massachusetts,Race,White,80,75
+2020,Massachusetts,Race,Black,6,6
+2020,Massachusetts,Race,Hispanic,7,9
+2020,Massachusetts,Race,Asian,4,5
+2020,Massachusetts,Race,Other,3,5
+2020,Massachusetts,Age,18-29,16,21
+2020,Massachusetts,Age,30-44,22,23
+2020,Massachusetts,Age,45-64,36,33
+2020,Massachusetts,Age,65+,26,23
+2020,Massachusetts,Gender,Male,46,48
+2020,Massachusetts,Gender,Female,54,52
+2020,Massachusetts,Education,High school,26,31
+2020,Massachusetts,Education,Some college,26,25
+2020,Massachusetts,Education,College grad.,28,25
+2020,Massachusetts,Education,Postgraduate,21,19
+2024,Massachusetts,Race,White,80,74
+2024,Massachusetts,Race,Black,6,6
+2024,Massachusetts,Race,Hispanic,7,10
+2024,Massachusetts,Race,Asian,4,6
+2024,Massachusetts,Race,Other,3,5
+2024,Massachusetts,Age,18-29,14,20
+2024,Massachusetts,Age,30-44,22,24
+2024,Massachusetts,Age,45-64,34,31
+2024,Massachusetts,Age,65+,30,25
+2024,Massachusetts,Gender,Male,46,48
+2024,Massachusetts,Gender,Female,54,52
+2024,Massachusetts,Education,High school,24,31
+2024,Massachusetts,Education,Some college,23,24
+2024,Massachusetts,Education,College grad.,29,26
+2024,Massachusetts,Education,Postgraduate,24,20
+2020,Michigan,Race,White,81,77
+2020,Michigan,Race,Black,11,13
+2020,Michigan,Race,Hispanic,3,4
+2020,Michigan,Race,Asian,2,2
+2020,Michigan,Race,Other,3,4
+2020,Michigan,Age,18-29,15,20
+2020,Michigan,Age,30-44,22,23
+2020,Michigan,Age,45-64,36,33
+2020,Michigan,Age,65+,27,24
+2020,Michigan,Gender,Male,47,49
+2020,Michigan,Gender,Female,53,51
+2020,Michigan,Education,High school,33,38
+2020,Michigan,Education,Some college,34,33
+2020,Michigan,Education,College grad.,21,18
+2020,Michigan,Education,Postgraduate,12,11
+2024,Michigan,Race,White,80,76
+2024,Michigan,Race,Black,11,13
+2024,Michigan,Race,Hispanic,3,4
+2024,Michigan,Race,Asian,2,3
+2024,Michigan,Race,Other,4,5
+2024,Michigan,Age,18-29,16,20
+2024,Michigan,Age,30-44,22,24
+2024,Michigan,Age,45-64,33,31
+2024,Michigan,Age,65+,29,25
+2024,Michigan,Gender,Male,47,49
+2024,Michigan,Gender,Female,53,51
+2024,Michigan,Education,High school,31,37
+2024,Michigan,Education,Some college,33,33
+2024,Michigan,Education,College grad.,22,19
+2024,Michigan,Education,Postgraduate,13,11
+2020,Minnesota,Race,White,87,83
+2020,Minnesota,Race,Black,4,5
+2020,Minnesota,Race,Hispanic,3,4
+2020,Minnesota,Race,Asian,3,4
+2020,Minnesota,Race,Other,3,4
+2020,Minnesota,Age,18-29,16,20
+2020,Minnesota,Age,30-44,25,26
+2020,Minnesota,Age,45-64,35,33
+2020,Minnesota,Age,65+,24,23
+2020,Minnesota,Gender,Male,48,50
+2020,Minnesota,Gender,Female,52,51
+2020,Minnesota,Education,High school,27,30
+2020,Minnesota,Education,Some college,34,34
+2020,Minnesota,Education,College grad.,26,25
+2020,Minnesota,Education,Postgraduate,13,12
+2024,Minnesota,Race,White,86,81
+2024,Minnesota,Race,Black,4,6
+2024,Minnesota,Race,Hispanic,3,4
+2024,Minnesota,Race,Asian,3,4
+2024,Minnesota,Race,Other,3,5
+2024,Minnesota,Age,18-29,16,19
+2024,Minnesota,Age,30-44,25,25
+2024,Minnesota,Age,45-64,32,31
+2024,Minnesota,Age,65+,27,24
+2024,Minnesota,Gender,Male,49,49
+2024,Minnesota,Gender,Female,51,51
+2024,Minnesota,Education,High school,26,30
+2024,Minnesota,Education,Some college,33,32
+2024,Minnesota,Education,College grad.,27,25
+2024,Minnesota,Education,Postgraduate,14,13
+2020,Mississippi,Race,White,63,58
+2020,Mississippi,Race,Black,31,35
+2020,Mississippi,Race,Hispanic,2,2
+2020,Mississippi,Race,Asian,1,1
+2020,Mississippi,Race,Other,3,4
+2020,Mississippi,Age,18-29,13,21
+2020,Mississippi,Age,30-44,20,25
+2020,Mississippi,Age,45-64,38,33
+2020,Mississippi,Age,65+,28,22
+2020,Mississippi,Gender,Male,45,48
+2020,Mississippi,Gender,Female,55,52
+2020,Mississippi,Education,High school,37,43
+2020,Mississippi,Education,Some college,36,34
+2020,Mississippi,Education,College grad.,16,15
+2020,Mississippi,Education,Postgraduate,11,8
+2024,Mississippi,Race,White,65,58
+2024,Mississippi,Race,Black,30,36
+2024,Mississippi,Race,Hispanic,2,2
+2024,Mississippi,Race,Asian,1,1
+2024,Mississippi,Race,Other,3,3
+2024,Mississippi,Age,18-29,11,20
+2024,Mississippi,Age,30-44,18,24
+2024,Mississippi,Age,45-64,38,32
+2024,Mississippi,Age,65+,33,24
+2024,Mississippi,Gender,Male,45,47
+2024,Mississippi,Gender,Female,55,53
+2024,Mississippi,Education,High school,34,42
+2024,Mississippi,Education,Some college,35,34
+2024,Mississippi,Education,College grad.,19,16
+2024,Mississippi,Education,Postgraduate,12,9
+2020,Missouri,Race,White,85,80
+2020,Missouri,Race,Black,9,10
+2020,Missouri,Race,Hispanic,2,3
+2020,Missouri,Race,Asian,1,1
+2020,Missouri,Race,Other,3,5
+2020,Missouri,Age,18-29,15,20
+2020,Missouri,Age,30-44,23,25
+2020,Missouri,Age,45-64,36,33
+2020,Missouri,Age,65+,27,23
+2020,Missouri,Gender,Male,47,49
+2020,Missouri,Gender,Female,53,51
+2020,Missouri,Education,High school,34,40
+2020,Missouri,Education,Some college,32,31
+2020,Missouri,Education,College grad.,21,19
+2020,Missouri,Education,Postgraduate,13,11
+2024,Missouri,Race,White,85,80
+2024,Missouri,Race,Black,8,10
+2024,Missouri,Race,Hispanic,2,4
+2024,Missouri,Race,Asian,1,2
+2024,Missouri,Race,Other,3,5
+2024,Missouri,Age,18-29,14,20
+2024,Missouri,Age,30-44,23,25
+2024,Missouri,Age,45-64,34,31
+2024,Missouri,Age,65+,29,24
+2024,Missouri,Gender,Male,48,49
+2024,Missouri,Gender,Female,52,51
+2024,Missouri,Education,High school,32,39
+2024,Missouri,Education,Some college,31,31
+2024,Missouri,Education,College grad.,23,19
+2024,Missouri,Education,Postgraduate,14,12
+2020,Montana,Race,White,91,86
+2020,Montana,Race,Black,1,1
+2020,Montana,Race,Hispanic,2,3
+2020,Montana,Race,Asian,1,1
+2020,Montana,Race,Other,5,10
+2020,Montana,Age,18-29,15,20
+2020,Montana,Age,30-44,22,24
+2020,Montana,Age,45-64,33,31
+2020,Montana,Age,65+,30,25
+2020,Montana,Gender,Male,50,51
+2020,Montana,Gender,Female,50,50
+2020,Montana,Education,High school,31,34
+2020,Montana,Education,Some college,34,33
+2020,Montana,Education,College grad.,24,22
+2020,Montana,Education,Postgraduate,12,11
+2024,Montana,Race,White,90,86
+2024,Montana,Race,Black,1,
+2024,Montana,Race,Hispanic,2,4
+2024,Montana,Race,Asian,1,1
+2024,Montana,Race,Other,6,10
+2024,Montana,Age,18-29,13,19
+2024,Montana,Age,30-44,22,25
+2024,Montana,Age,45-64,32,30
+2024,Montana,Age,65+,34,27
+2024,Montana,Gender,Male,50,50
+2024,Montana,Gender,Female,50,50
+2024,Montana,Education,High school,27,34
+2024,Montana,Education,Some college,33,32
+2024,Montana,Education,College grad.,26,23
+2024,Montana,Education,Postgraduate,13,11
+2020,Nebraska,Race,White,89,83
+2020,Nebraska,Race,Black,3,4
+2020,Nebraska,Race,Hispanic,4,7
+2020,Nebraska,Race,Asian,1,2
+2020,Nebraska,Race,Other,3,4
+2020,Nebraska,Age,18-29,15,21
+2020,Nebraska,Age,30-44,24,25
+2020,Nebraska,Age,45-64,34,31
+2020,Nebraska,Age,65+,27,23
+2020,Nebraska,Gender,Male,48,50
+2020,Nebraska,Gender,Female,52,51
+2020,Nebraska,Education,High school,28,33
+2020,Nebraska,Education,Some college,36,35
+2020,Nebraska,Education,College grad.,24,22
+2020,Nebraska,Education,Postgraduate,12,11
+2024,Nebraska,Race,White,88,82
+2024,Nebraska,Race,Black,3,4
+2024,Nebraska,Race,Hispanic,5,8
+2024,Nebraska,Race,Asian,1,2
+2024,Nebraska,Race,Other,3,4
+2024,Nebraska,Age,18-29,15,21
+2024,Nebraska,Age,30-44,24,25
+2024,Nebraska,Age,45-64,32,30
+2024,Nebraska,Age,65+,29,24
+2024,Nebraska,Gender,Male,48,50
+2024,Nebraska,Gender,Female,52,50
+2024,Nebraska,Education,High school,26,32
+2024,Nebraska,Education,Some college,35,34
+2024,Nebraska,Education,College grad.,25,22
+2024,Nebraska,Education,Postgraduate,14,12
+2020,Nevada,Race,White,63,54
+2020,Nevada,Race,Black,9,9
+2020,Nevada,Race,Hispanic,17,22
+2020,Nevada,Race,Asian,5,8
+2020,Nevada,Race,Other,6,7
+2020,Nevada,Age,18-29,16,20
+2020,Nevada,Age,30-44,23,26
+2020,Nevada,Age,45-64,35,32
+2020,Nevada,Age,65+,26,23
+2020,Nevada,Gender,Male,49,50
+2020,Nevada,Gender,Female,51,50
+2020,Nevada,Education,High school,32,39
+2020,Nevada,Education,Some college,36,34
+2020,Nevada,Education,College grad.,21,18
+2020,Nevada,Education,Postgraduate,11,9
+2024,Nevada,Race,White,60,52
+2024,Nevada,Race,Black,9,9
+2024,Nevada,Race,Hispanic,19,22
+2024,Nevada,Race,Asian,6,9
+2024,Nevada,Race,Other,6,8
+2024,Nevada,Age,18-29,16,19
+2024,Nevada,Age,30-44,24,27
+2024,Nevada,Age,45-64,33,31
+2024,Nevada,Age,65+,28,24
+2024,Nevada,Gender,Male,49,50
+2024,Nevada,Gender,Female,51,50
+2024,Nevada,Education,High school,33,39
+2024,Nevada,Education,Some college,35,33
+2024,Nevada,Education,College grad.,21,18
+2024,Nevada,Education,Postgraduate,11,10
+2020,New Hampshire,Race,White,93,90
+2020,New Hampshire,Race,Black,1,1
+2020,New Hampshire,Race,Hispanic,2,3
+2020,New Hampshire,Race,Asian,1,2
+2020,New Hampshire,Race,Other,2,4
+2020,New Hampshire,Age,18-29,15,19
+2020,New Hampshire,Age,30-44,20,23
+2020,New Hampshire,Age,45-64,38,35
+2020,New Hampshire,Age,65+,27,24
+2020,New Hampshire,Gender,Male,48,50
+2020,New Hampshire,Gender,Female,52,51
+2020,New Hampshire,Education,High school,31,33
+2020,New Hampshire,Education,Some college,30,30
+2020,New Hampshire,Education,College grad.,25,23
+2020,New Hampshire,Education,Postgraduate,15,14
+2024,New Hampshire,Race,White,92,89
+2024,New Hampshire,Race,Black,1,1
+2024,New Hampshire,Race,Hispanic,2,4
+2024,New Hampshire,Race,Asian,1,2
+2024,New Hampshire,Race,Other,3,4
+2024,New Hampshire,Age,18-29,13,17
+2024,New Hampshire,Age,30-44,20,23
+2024,New Hampshire,Age,45-64,35,33
+2024,New Hampshire,Age,65+,31,27
+2024,New Hampshire,Gender,Male,49,50
+2024,New Hampshire,Gender,Female,51,51
+2024,New Hampshire,Education,High school,29,33
+2024,New Hampshire,Education,Some college,29,28
+2024,New Hampshire,Education,College grad.,25,24
+2024,New Hampshire,Education,Postgraduate,16,15
+2020,New Jersey,Race,White,67,60
+2020,New Jersey,Race,Black,11,13
+2020,New Jersey,Race,Hispanic,12,16
+2020,New Jersey,Race,Asian,7,8
+2020,New Jersey,Race,Other,3,3
+2020,New Jersey,Age,18-29,17,19
+2020,New Jersey,Age,30-44,21,23
+2020,New Jersey,Age,45-64,37,35
+2020,New Jersey,Age,65+,24,23
+2020,New Jersey,Gender,Male,47,49
+2020,New Jersey,Gender,Female,53,52
+2020,New Jersey,Education,High school,30,33
+2020,New Jersey,Education,Some college,25,25
+2020,New Jersey,Education,College grad.,28,26
+2020,New Jersey,Education,Postgraduate,17,16
+2024,New Jersey,Race,White,65,58
+2024,New Jersey,Race,Black,11,13
+2024,New Jersey,Race,Hispanic,13,17
+2024,New Jersey,Race,Asian,7,8
+2024,New Jersey,Race,Other,4,4
+2024,New Jersey,Age,18-29,15,19
+2024,New Jersey,Age,30-44,22,24
+2024,New Jersey,Age,45-64,36,33
+2024,New Jersey,Age,65+,28,25
+2024,New Jersey,Gender,Male,46,48
+2024,New Jersey,Gender,Female,54,52
+2024,New Jersey,Education,High school,27,33
+2024,New Jersey,Education,Some college,24,24
+2024,New Jersey,Education,College grad.,30,27
+2024,New Jersey,Education,Postgraduate,20,16
+2020,New Mexico,Race,White,55,41
+2020,New Mexico,Race,Black,3,2
+2020,New Mexico,Race,Hispanic,31,44
+2020,New Mexico,Race,Asian,1,1
+2020,New Mexico,Race,Other,9,12
+2020,New Mexico,Age,18-29,13,20
+2020,New Mexico,Age,30-44,21,25
+2020,New Mexico,Age,45-64,35,31
+2020,New Mexico,Age,65+,31,25
+2020,New Mexico,Gender,Male,46,49
+2020,New Mexico,Gender,Female,54,51
+2020,New Mexico,Education,High school,30,38
+2020,New Mexico,Education,Some college,35,33
+2020,New Mexico,Education,College grad.,19,16
+2020,New Mexico,Education,Postgraduate,16,13
+2024,New Mexico,Race,White,53,41
+2024,New Mexico,Race,Black,2,2
+2024,New Mexico,Race,Hispanic,34,43
+2024,New Mexico,Race,Asian,1,2
+2024,New Mexico,Race,Other,9,13
+2024,New Mexico,Age,18-29,14,20
+2024,New Mexico,Age,30-44,21,25
+2024,New Mexico,Age,45-64,32,29
+2024,New Mexico,Age,65+,33,27
+2024,New Mexico,Gender,Male,46,49
+2024,New Mexico,Gender,Female,54,51
+2024,New Mexico,Education,High school,28,38
+2024,New Mexico,Education,Some college,33,31
+2024,New Mexico,Education,College grad.,21,17
+2024,New Mexico,Education,Postgraduate,18,13
+2020,New York,Race,White,67,60
+2020,New York,Race,Black,12,14
+2020,New York,Race,Hispanic,12,16
+2020,New York,Race,Asian,5,7
+2020,New York,Race,Other,4,4
+2020,New York,Age,18-29,16,20
+2020,New York,Age,30-44,23,24
+2020,New York,Age,45-64,36,33
+2020,New York,Age,65+,25,23
+2020,New York,Gender,Male,45,48
+2020,New York,Gender,Female,55,52
+2020,New York,Education,High school,29,35
+2020,New York,Education,Some college,27,27
+2020,New York,Education,College grad.,25,22
+2020,New York,Education,Postgraduate,19,16
+2024,New York,Race,White,67,59
+2024,New York,Race,Black,12,13
+2024,New York,Race,Hispanic,12,16
+2024,New York,Race,Asian,6,8
+2024,New York,Race,Other,4,5
+2024,New York,Age,18-29,14,20
+2024,New York,Age,30-44,23,24
+2024,New York,Age,45-64,34,31
+2024,New York,Age,65+,29,25
+2024,New York,Gender,Male,45,48
+2024,New York,Gender,Female,55,52
+2024,New York,Education,High school,27,34
+2024,New York,Education,Some college,26,26
+2024,New York,Education,College grad.,26,23
+2024,New York,Education,Postgraduate,21,17
+2020,North Carolina,Race,White,71,67
+2020,North Carolina,Race,Black,20,21
+2020,North Carolina,Race,Hispanic,4,5
+2020,North Carolina,Race,Asian,2,2
+2020,North Carolina,Race,Other,3,5
+2020,North Carolina,Age,18-29,16,20
+2020,North Carolina,Age,30-44,22,24
+2020,North Carolina,Age,45-64,36,33
+2020,North Carolina,Age,65+,25,23
+2020,North Carolina,Gender,Male,45,48
+2020,North Carolina,Gender,Female,55,52
+2020,North Carolina,Education,High school,28,35
+2020,North Carolina,Education,Some college,34,32
+2020,North Carolina,Education,College grad.,24,21
+2020,North Carolina,Education,Postgraduate,14,12
+2024,North Carolina,Race,White,71,66
+2024,North Carolina,Race,Black,19,20
+2024,North Carolina,Race,Hispanic,4,7
+2024,North Carolina,Race,Asian,2,3
+2024,North Carolina,Race,Other,3,5
+2024,North Carolina,Age,18-29,16,20
+2024,North Carolina,Age,30-44,22,24
+2024,North Carolina,Age,45-64,34,32
+2024,North Carolina,Age,65+,28,24
+2024,North Carolina,Gender,Male,45,48
+2024,North Carolina,Gender,Female,55,52
+2024,North Carolina,Education,High school,28,34
+2024,North Carolina,Education,Some college,32,31
+2024,North Carolina,Education,College grad.,25,22
+2024,North Carolina,Education,Postgraduate,15,13
+2020,North Dakota,Race,White,92,86
+2020,North Dakota,Race,Black,2,2
+2020,North Dakota,Race,Hispanic,2,4
+2020,North Dakota,Race,Asian,1,1
+2020,North Dakota,Race,Other,4,8
+2020,North Dakota,Age,18-29,16,24
+2020,North Dakota,Age,30-44,23,26
+2020,North Dakota,Age,45-64,35,29
+2020,North Dakota,Age,65+,27,21
+2020,North Dakota,Gender,Male,49,51
+2020,North Dakota,Gender,Female,51,49
+2020,North Dakota,Education,High school,27,32
+2020,North Dakota,Education,Some college,39,39
+2020,North Dakota,Education,College grad.,25,21
+2020,North Dakota,Education,Postgraduate,9,8
+2024,North Dakota,Race,White,90,85
+2024,North Dakota,Race,Black,2,2
+2024,North Dakota,Race,Hispanic,2,4
+2024,North Dakota,Race,Asian,1,1
+2024,North Dakota,Race,Other,5,8
+2024,North Dakota,Age,18-29,15,24
+2024,North Dakota,Age,30-44,22,25
+2024,North Dakota,Age,45-64,34,27
+2024,North Dakota,Age,65+,29,24
+2024,North Dakota,Gender,Male,50,52
+2024,North Dakota,Gender,Female,50,48
+2024,North Dakota,Education,High school,25,31
+2024,North Dakota,Education,Some college,39,38
+2024,North Dakota,Education,College grad.,26,22
+2024,North Dakota,Education,Postgraduate,11,9
+2020,Ohio,Race,White,84,80
+2020,Ohio,Race,Black,9,11
+2020,Ohio,Race,Hispanic,2,3
+2020,Ohio,Race,Asian,1,2
+2020,Ohio,Race,Other,3,4
+2020,Ohio,Age,18-29,15,20
+2020,Ohio,Age,30-44,22,24
+2020,Ohio,Age,45-64,37,33
+2020,Ohio,Age,65+,27,23
+2020,Ohio,Gender,Male,47,49
+2020,Ohio,Gender,Female,53,51
+2020,Ohio,Education,High school,36,42
+2020,Ohio,Education,Some college,31,30
+2020,Ohio,Education,College grad.,21,18
+2020,Ohio,Education,Postgraduate,12,10
+2024,Ohio,Race,White,83,79
+2024,Ohio,Race,Black,10,11
+2024,Ohio,Race,Hispanic,2,4
+2024,Ohio,Race,Asian,2,2
+2024,Ohio,Race,Other,3,4
+2024,Ohio,Age,18-29,14,19
+2024,Ohio,Age,30-44,22,25
+2024,Ohio,Age,45-64,34,31
+2024,Ohio,Age,65+,30,25
+2024,Ohio,Gender,Male,48,49
+2024,Ohio,Gender,Female,52,51
+2024,Ohio,Education,High school,33,41
+2024,Ohio,Education,Some college,30,30
+2024,Ohio,Education,College grad.,23,19
+2024,Ohio,Education,Postgraduate,14,11
+2020,Oklahoma,Race,White,82,69
+2020,Oklahoma,Race,Black,6,7
+2020,Oklahoma,Race,Hispanic,4,7
+2020,Oklahoma,Race,Asian,2,2
+2020,Oklahoma,Race,Other,7,15
+2020,Oklahoma,Age,18-29,13,21
+2020,Oklahoma,Age,30-44,22,26
+2020,Oklahoma,Age,45-64,36,31
+2020,Oklahoma,Age,65+,29,22
+2020,Oklahoma,Gender,Male,46,49
+2020,Oklahoma,Gender,Female,54,51
+2020,Oklahoma,Education,High school,33,43
+2020,Oklahoma,Education,Some college,35,31
+2020,Oklahoma,Education,College grad.,21,18
+2020,Oklahoma,Education,Postgraduate,11,9
+2024,Oklahoma,Race,White,80,68
+2024,Oklahoma,Race,Black,6,7
+2024,Oklahoma,Race,Hispanic,4,8
+2024,Oklahoma,Race,Asian,1,2
+2024,Oklahoma,Race,Other,8,15
+2024,Oklahoma,Age,18-29,13,22
+2024,Oklahoma,Age,30-44,22,26
+2024,Oklahoma,Age,45-64,34,30
+2024,Oklahoma,Age,65+,31,23
+2024,Oklahoma,Gender,Male,47,49
+2024,Oklahoma,Gender,Female,53,51
+2024,Oklahoma,Education,High school,31,41
+2024,Oklahoma,Education,Some college,34,32
+2024,Oklahoma,Education,College grad.,22,18
+2024,Oklahoma,Education,Postgraduate,13,9
+2020,Oregon,Race,White,84,79
+2020,Oregon,Race,Black,3,2
+2020,Oregon,Race,Hispanic,6,9
+2020,Oregon,Race,Asian,3,4
+2020,Oregon,Race,Other,4,7
+2020,Oregon,Age,18-29,15,19
+2020,Oregon,Age,30-44,25,26
+2020,Oregon,Age,45-64,32,31
+2020,Oregon,Age,65+,28,24
+2020,Oregon,Gender,Male,48,49
+2020,Oregon,Gender,Female,52,51
+2020,Oregon,Education,High school,27,31
+2020,Oregon,Education,Some college,35,35
+2020,Oregon,Education,College grad.,24,22
+2020,Oregon,Education,Postgraduate,14,13
+2024,Oregon,Race,White,85,77
+2024,Oregon,Race,Black,2,2
+2024,Oregon,Race,Hispanic,6,11
+2024,Oregon,Race,Asian,3,4
+2024,Oregon,Race,Other,4,7
+2024,Oregon,Age,18-29,14,19
+2024,Oregon,Age,30-44,24,26
+2024,Oregon,Age,45-64,31,30
+2024,Oregon,Age,65+,31,26
+2024,Oregon,Gender,Male,49,49
+2024,Oregon,Gender,Female,51,51
+2024,Oregon,Education,High school,26,32
+2024,Oregon,Education,Some college,33,33
+2024,Oregon,Education,College grad.,25,22
+2024,Oregon,Education,Postgraduate,16,13
+2020,Pennsylvania,Race,White,83,79
+2020,Pennsylvania,Race,Black,9,10
+2020,Pennsylvania,Race,Hispanic,4,6
+2020,Pennsylvania,Race,Asian,2,3
+2020,Pennsylvania,Race,Other,2,3
+2020,Pennsylvania,Age,18-29,15,19
+2020,Pennsylvania,Age,30-44,22,24
+2020,Pennsylvania,Age,45-64,36,33
+2020,Pennsylvania,Age,65+,26,25
+2020,Pennsylvania,Gender,Male,47,49
+2020,Pennsylvania,Gender,Female,53,51
+2020,Pennsylvania,Education,High school,37,42
+2020,Pennsylvania,Education,Some college,27,26
+2020,Pennsylvania,Education,College grad.,22,20
+2020,Pennsylvania,Education,Postgraduate,15,12
+2024,Pennsylvania,Race,White,81,77
+2024,Pennsylvania,Race,Black,9,10
+2024,Pennsylvania,Race,Hispanic,4,7
+2024,Pennsylvania,Race,Asian,2,3
+2024,Pennsylvania,Race,Other,3,4
+2024,Pennsylvania,Age,18-29,15,19
+2024,Pennsylvania,Age,30-44,22,24
+2024,Pennsylvania,Age,45-64,33,31
+2024,Pennsylvania,Age,65+,30,26
+2024,Pennsylvania,Gender,Male,47,49
+2024,Pennsylvania,Gender,Female,53,51
+2024,Pennsylvania,Education,High school,35,41
+2024,Pennsylvania,Education,Some college,26,25
+2024,Pennsylvania,Education,College grad.,23,21
+2024,Pennsylvania,Education,Postgraduate,16,13
+2020,Rhode Island,Race,White,82,76
+2020,Rhode Island,Race,Black,4,4
+2020,Rhode Island,Race,Hispanic,9,12
+2020,Rhode Island,Race,Asian,1,2
+2020,Rhode Island,Race,Other,3,6
+2020,Rhode Island,Age,18-29,15,21
+2020,Rhode Island,Age,30-44,21,23
+2020,Rhode Island,Age,45-64,37,33
+2020,Rhode Island,Age,65+,27,23
+2020,Rhode Island,Gender,Male,46,48
+2020,Rhode Island,Gender,Female,54,52
+2020,Rhode Island,Education,High school,30,38
+2020,Rhode Island,Education,Some college,31,28
+2020,Rhode Island,Education,College grad.,25,21
+2020,Rhode Island,Education,Postgraduate,15,14
+2024,Rhode Island,Race,White,81,75
+2024,Rhode Island,Race,Black,5,4
+2024,Rhode Island,Race,Hispanic,9,13
+2024,Rhode Island,Race,Asian,1,3
+2024,Rhode Island,Race,Other,4,6
+2024,Rhode Island,Age,18-29,14,20
+2024,Rhode Island,Age,30-44,22,24
+2024,Rhode Island,Age,45-64,33,31
+2024,Rhode Island,Age,65+,30,26
+2024,Rhode Island,Gender,Male,46,49
+2024,Rhode Island,Gender,Female,54,52
+2024,Rhode Island,Education,High school,29,36
+2024,Rhode Island,Education,Some college,26,26
+2024,Rhode Island,Education,College grad.,26,23
+2024,Rhode Island,Education,Postgraduate,19,15
+2020,South Carolina,Race,White,70,67
+2020,South Carolina,Race,Black,24,25
+2020,South Carolina,Race,Hispanic,2,3
+2020,South Carolina,Race,Asian,1,1
+2020,South Carolina,Race,Other,3,4
+2020,South Carolina,Age,18-29,13,20
+2020,South Carolina,Age,30-44,21,24
+2020,South Carolina,Age,45-64,36,33
+2020,South Carolina,Age,65+,29,24
+2020,South Carolina,Gender,Male,44,48
+2020,South Carolina,Gender,Female,56,52
+2020,South Carolina,Education,High school,32,39
+2020,South Carolina,Education,Some college,33,32
+2020,South Carolina,Education,College grad.,21,19
+2020,South Carolina,Education,Postgraduate,13,11
+2024,South Carolina,Race,White,73,66
+2024,South Carolina,Race,Black,21,24
+2024,South Carolina,Race,Hispanic,3,5
+2024,South Carolina,Race,Asian,1,2
+2024,South Carolina,Race,Other,2,4
+2024,South Carolina,Age,18-29,12,19
+2024,South Carolina,Age,30-44,21,24
+2024,South Carolina,Age,45-64,35,31
+2024,South Carolina,Age,65+,32,26
+2024,South Carolina,Gender,Male,44,48
+2024,South Carolina,Gender,Female,56,52
+2024,South Carolina,Education,High school,30,38
+2024,South Carolina,Education,Some college,32,31
+2024,South Carolina,Education,College grad.,23,19
+2024,South Carolina,Education,Postgraduate,15,12
+2020,South Dakota,Race,White,92,85
+2020,South Dakota,Race,Black,1,2
+2020,South Dakota,Race,Hispanic,2,3
+2020,South Dakota,Race,Asian,1,1
+2020,South Dakota,Race,Other,5,10
+2020,South Dakota,Age,18-29,13,21
+2020,South Dakota,Age,30-44,23,25
+2020,South Dakota,Age,45-64,35,31
+2020,South Dakota,Age,65+,30,24
+2020,South Dakota,Gender,Male,48,51
+2020,South Dakota,Gender,Female,52,50
+2020,South Dakota,Education,High school,32,36
+2020,South Dakota,Education,Some college,36,35
+2020,South Dakota,Education,College grad.,23,20
+2020,South Dakota,Education,Postgraduate,9,9
+2024,South Dakota,Race,White,91,84
+2024,South Dakota,Race,Black,1,2
+2024,South Dakota,Race,Hispanic,2,3
+2024,South Dakota,Race,Asian,1,1
+2024,South Dakota,Race,Other,5,10
+2024,South Dakota,Age,18-29,12,20
+2024,South Dakota,Age,30-44,23,24
+2024,South Dakota,Age,45-64,32,30
+2024,South Dakota,Age,65+,32,25
+2024,South Dakota,Gender,Male,49,51
+2024,South Dakota,Gender,Female,51,49
+2024,South Dakota,Education,High school,28,36
+2024,South Dakota,Education,Some college,35,33
+2024,South Dakota,Education,College grad.,25,21
+2024,South Dakota,Education,Postgraduate,12,10
+2020,Tennessee,Race,White,77,77
+2020,Tennessee,Race,Black,14,15
+2020,Tennessee,Race,Hispanic,3,3
+2020,Tennessee,Race,Asian,1,1
+2020,Tennessee,Race,Other,5,4
+2020,Tennessee,Age,18-29,15,20
+2020,Tennessee,Age,30-44,22,24
+2020,Tennessee,Age,45-64,37,33
+2020,Tennessee,Age,65+,26,22
+2020,Tennessee,Gender,Male,45,48
+2020,Tennessee,Gender,Female,55,52
+2020,Tennessee,Education,High school,34,42
+2020,Tennessee,Education,Some college,31,30
+2020,Tennessee,Education,College grad.,22,19
+2020,Tennessee,Education,Postgraduate,13,10
+2024,Tennessee,Race,White,80,76
+2024,Tennessee,Race,Black,12,15
+2024,Tennessee,Race,Hispanic,3,4
+2024,Tennessee,Race,Asian,1,2
+2024,Tennessee,Race,Other,5,4
+2024,Tennessee,Age,18-29,14,20
+2024,Tennessee,Age,30-44,22,25
+2024,Tennessee,Age,45-64,35,32
+2024,Tennessee,Age,65+,29,23
+2024,Tennessee,Gender,Male,45,48
+2024,Tennessee,Gender,Female,55,52
+2024,Tennessee,Education,High school,33,41
+2024,Tennessee,Education,Some college,30,29
+2024,Tennessee,Education,College grad.,23,19
+2024,Tennessee,Education,Postgraduate,15,11
+2020,Texas,Race,White,58,48
+2020,Texas,Race,Black,12,13
+2020,Texas,Race,Hispanic,23,32
+2020,Texas,Race,Asian,4,4
+2020,Texas,Race,Other,4,4
+2020,Texas,Age,18-29,16,23
+2020,Texas,Age,30-44,24,27
+2020,Texas,Age,45-64,36,31
+2020,Texas,Age,65+,23,19
+2020,Texas,Gender,Male,46,49
+2020,Texas,Gender,Female,54,51
+2020,Texas,Education,High school,28,37
+2020,Texas,Education,Some college,33,31
+2020,Texas,Education,College grad.,25,21
+2020,Texas,Education,Postgraduate,14,11
+2024,Texas,Race,White,56,46
+2024,Texas,Race,Black,11,13
+2024,Texas,Race,Hispanic,23,32
+2024,Texas,Race,Asian,5,5
+2024,Texas,Race,Other,4,4
+2024,Texas,Age,18-29,15,23
+2024,Texas,Age,30-44,24,27
+2024,Texas,Age,45-64,35,30
+2024,Texas,Age,65+,26,20
+2024,Texas,Gender,Male,46,49
+2024,Texas,Gender,Female,54,51
+2024,Texas,Education,High school,26,36
+2024,Texas,Education,Some college,31,31
+2024,Texas,Education,College grad.,27,22
+2024,Texas,Education,Postgraduate,16,12
+2020,Utah,Race,White,86,82
+2020,Utah,Race,Black,1,1
+2020,Utah,Race,Hispanic,6,10
+2020,Utah,Race,Asian,1,2
+2020,Utah,Race,Other,5,5
+2020,Utah,Age,18-29,20,27
+2020,Utah,Age,30-44,28,29
+2020,Utah,Age,45-64,31,28
+2020,Utah,Age,65+,22,17
+2020,Utah,Gender,Male,48,50
+2020,Utah,Gender,Female,52,50
+2020,Utah,Education,High school,21,31
+2020,Utah,Education,Some college,39,37
+2020,Utah,Education,College grad.,26,22
+2020,Utah,Education,Postgraduate,13,11
+2024,Utah,Race,White,86,81
+2024,Utah,Race,Black,1,1
+2024,Utah,Race,Hispanic,7,11
+2024,Utah,Race,Asian,1,2
+2024,Utah,Race,Other,5,5
+2024,Utah,Age,18-29,20,27
+2024,Utah,Age,30-44,27,27
+2024,Utah,Age,45-64,31,28
+2024,Utah,Age,65+,23,18
+2024,Utah,Gender,Male,50,50
+2024,Utah,Gender,Female,50,50
+2024,Utah,Education,High school,21,30
+2024,Utah,Education,Some college,36,35
+2024,Utah,Education,College grad.,28,23
+2024,Utah,Education,Postgraduate,15,12
+2020,Vermont,Race,White,94,93
+2020,Vermont,Race,Black,1,1
+2020,Vermont,Race,Hispanic,2,2
+2020,Vermont,Race,Asian,1,1
+2020,Vermont,Race,Other,2,4
+2020,Vermont,Age,18-29,13,20
+2020,Vermont,Age,30-44,21,22
+2020,Vermont,Age,45-64,36,33
+2020,Vermont,Age,65+,30,25
+2020,Vermont,Gender,Male,48,49
+2020,Vermont,Gender,Female,52,51
+2020,Vermont,Education,High school,31,32
+2020,Vermont,Education,Some college,28,28
+2020,Vermont,Education,College grad.,24,24
+2020,Vermont,Education,Postgraduate,16,16
+2024,Vermont,Race,White,93,91
+2024,Vermont,Race,Black,1,1
+2024,Vermont,Race,Hispanic,2,2
+2024,Vermont,Race,Asian,1,2
+2024,Vermont,Race,Other,3,5
+2024,Vermont,Age,18-29,12,18
+2024,Vermont,Age,30-44,22,23
+2024,Vermont,Age,45-64,33,31
+2024,Vermont,Age,65+,33,28
+2024,Vermont,Gender,Male,48,49
+2024,Vermont,Gender,Female,52,51
+2024,Vermont,Education,High school,27,32
+2024,Vermont,Education,Some college,25,25
+2024,Vermont,Education,College grad.,28,25
+2024,Vermont,Education,Postgraduate,21,18
+2020,Virginia,Race,White,69,65
+2020,Virginia,Race,Black,17,19
+2020,Virginia,Race,Hispanic,5,7
+2020,Virginia,Race,Asian,5,5
+2020,Virginia,Race,Other,4,5
+2020,Virginia,Age,18-29,16,20
+2020,Virginia,Age,30-44,23,25
+2020,Virginia,Age,45-64,37,33
+2020,Virginia,Age,65+,24,22
+2020,Virginia,Gender,Male,46,49
+2020,Virginia,Gender,Female,54,51
+2020,Virginia,Education,High school,28,33
+2020,Virginia,Education,Some college,28,29
+2020,Virginia,Education,College grad.,25,23
+2020,Virginia,Education,Postgraduate,18,16
+2024,Virginia,Race,White,68,63
+2024,Virginia,Race,Black,16,19
+2024,Virginia,Race,Hispanic,6,8
+2024,Virginia,Race,Asian,6,6
+2024,Virginia,Race,Other,4,5
+2024,Virginia,Age,18-29,16,20
+2024,Virginia,Age,30-44,23,26
+2024,Virginia,Age,45-64,34,31
+2024,Virginia,Age,65+,27,23
+2024,Virginia,Gender,Male,46,49
+2024,Virginia,Gender,Female,54,51
+2024,Virginia,Education,High school,27,32
+2024,Virginia,Education,Some college,27,27
+2024,Virginia,Education,College grad.,26,24
+2024,Virginia,Education,Postgraduate,20,17
+2020,Washington,Race,White,79,73
+2020,Washington,Race,Black,4,4
+2020,Washington,Race,Hispanic,6,9
+2020,Washington,Race,Asian,5,7
+2020,Washington,Race,Other,5,8
+2020,Washington,Age,18-29,16,20
+2020,Washington,Age,30-44,25,27
+2020,Washington,Age,45-64,34,31
+2020,Washington,Age,65+,25,22
+2020,Washington,Gender,Male,48,50
+2020,Washington,Gender,Female,52,50
+2020,Washington,Education,High school,26,30
+2020,Washington,Education,Some college,35,34
+2020,Washington,Education,College grad.,25,23
+2020,Washington,Education,Postgraduate,14,13
+2024,Washington,Race,White,79,70
+2024,Washington,Race,Black,4,4
+2024,Washington,Race,Hispanic,7,10
+2024,Washington,Race,Asian,6,8
+2024,Washington,Race,Other,5,8
+2024,Washington,Age,18-29,14,20
+2024,Washington,Age,30-44,25,27
+2024,Washington,Age,45-64,32,30
+2024,Washington,Age,65+,29,23
+2024,Washington,Gender,Male,48,50
+2024,Washington,Gender,Female,52,50
+2024,Washington,Education,High school,24,30
+2024,Washington,Education,Some college,32,32
+2024,Washington,Education,College grad.,27,24
+2024,Washington,Education,Postgraduate,17,14
+2020,West Virginia,Race,White,93,92
+2020,West Virginia,Race,Black,3,3
+2020,West Virginia,Race,Hispanic,1,1
+2020,West Virginia,Race,Asian,1,1
+2020,West Virginia,Race,Other,3,4
+2020,West Virginia,Age,18-29,13,18
+2020,West Virginia,Age,30-44,20,23
+2020,West Virginia,Age,45-64,36,33
+2020,West Virginia,Age,65+,30,26
+2020,West Virginia,Gender,Male,47,49
+2020,West Virginia,Gender,Female,53,51
+2020,West Virginia,Education,High school,43,50
+2020,West Virginia,Education,Some college,30,27
+2020,West Virginia,Education,College grad.,15,13
+2020,West Virginia,Education,Postgraduate,11,9
+2024,West Virginia,Race,White,92,91
+2024,West Virginia,Race,Black,3,3
+2024,West Virginia,Race,Hispanic,1,2
+2024,West Virginia,Race,Asian,1,1
+2024,West Virginia,Race,Other,3,4
+2024,West Virginia,Age,18-29,13,18
+2024,West Virginia,Age,30-44,19,23
+2024,West Virginia,Age,45-64,35,32
+2024,West Virginia,Age,65+,33,28
+2024,West Virginia,Gender,Male,47,49
+2024,West Virginia,Gender,Female,53,51
+2024,West Virginia,Education,High school,42,50
+2024,West Virginia,Education,Some college,29,27
+2024,West Virginia,Education,College grad.,17,14
+2024,West Virginia,Education,Postgraduate,12,9
+2020,Wisconsin,Race,White,88,84
+2020,Wisconsin,Race,Black,4,5
+2020,Wisconsin,Race,Hispanic,3,5
+2020,Wisconsin,Race,Asian,1,2
+2020,Wisconsin,Race,Other,3,4
+2020,Wisconsin,Age,18-29,14,20
+2020,Wisconsin,Age,30-44,23,24
+2020,Wisconsin,Age,45-64,37,33
+2020,Wisconsin,Age,65+,26,23
+2020,Wisconsin,Gender,Male,48,50
+2020,Wisconsin,Gender,Female,52,50
+2020,Wisconsin,Education,High school,33,37
+2020,Wisconsin,Education,Some college,34,33
+2020,Wisconsin,Education,College grad.,23,21
+2020,Wisconsin,Education,Postgraduate,10,10
+2024,Wisconsin,Race,White,87,83
+2024,Wisconsin,Race,Black,4,5
+2024,Wisconsin,Race,Hispanic,4,5
+2024,Wisconsin,Race,Asian,2,2
+2024,Wisconsin,Race,Other,3,4
+2024,Wisconsin,Age,18-29,13,20
+2024,Wisconsin,Age,30-44,21,24
+2024,Wisconsin,Age,45-64,36,31
+2024,Wisconsin,Age,65+,30,25
+2024,Wisconsin,Gender,Male,49,50
+2024,Wisconsin,Gender,Female,51,50
+2024,Wisconsin,Education,High school,32,36
+2024,Wisconsin,Education,Some college,32,32
+2024,Wisconsin,Education,College grad.,24,22
+2024,Wisconsin,Education,Postgraduate,12,10
+2020,Wyoming,Race,White,91,85
+2020,Wyoming,Race,Black,1,1
+2020,Wyoming,Race,Hispanic,4,8
+2020,Wyoming,Race,Asian,1,1
+2020,Wyoming,Race,Other,4,6
+2020,Wyoming,Age,18-29,18,20
+2020,Wyoming,Age,30-44,22,25
+2020,Wyoming,Age,45-64,33,31
+2020,Wyoming,Age,65+,27,24
+2020,Wyoming,Gender,Male,49,51
+2020,Wyoming,Gender,Female,51,49
+2020,Wyoming,Education,High school,28,34
+2020,Wyoming,Education,Some college,41,39
+2020,Wyoming,Education,College grad.,19,17
+2020,Wyoming,Education,Postgraduate,11,10
+2024,Wyoming,Race,White,91,83
+2024,Wyoming,Race,Black,1,1
+2024,Wyoming,Race,Hispanic,4,9
+2024,Wyoming,Race,Asian,,
+2024,Wyoming,Race,Other,4,6
+2024,Wyoming,Age,18-29,15,19
+2024,Wyoming,Age,30-44,21,25
+2024,Wyoming,Age,45-64,33,30
+2024,Wyoming,Age,65+,32,26
+2024,Wyoming,Gender,Male,49,51
+2024,Wyoming,Gender,Female,51,50
+2024,Wyoming,Education,High school,27,35
+2024,Wyoming,Education,Some college,37,36
+2024,Wyoming,Education,College grad.,23,19
+2024,Wyoming,Education,Postgraduate,13,10
